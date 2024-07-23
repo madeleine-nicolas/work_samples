@@ -1,0 +1,5263 @@
+CellNum	LandUse	SoilClass
+0	Scrub	Inceptisols
+1	Scrub	Inceptisols
+2	Scrub	Inceptisols
+3	Scrub	Inceptisols
+4	Scrub	Inceptisols
+5	Scrub	Inceptisols
+6	Scrub	Inceptisols
+7	Scrub	Inceptisols
+8	Scrub	Inceptisols
+9	Scrub	Inceptisols
+10	Scrub	Inceptisols
+11	Scrub	Alfisols 1
+12	Scrub	Alfisols 1
+13	Scrub	Alfisols 1
+14	Scrub	Alfisols 1
+15	Scrub	Alfisols 1
+16	Scrub	Alfisols 1
+17	Scrub	Inceptisols
+18	Scrub	Alfisols 1
+19	Scrub	Alfisols 1
+20	Scrub	Alfisols 1
+21	Scrub	Inceptisols
+22	PaddyR	Alfisols 1
+23	PaddyR	Alfisols 1
+24	PaddyK	Alfisols 1
+25	Scrub	Alfisols 1
+26	Scrub	Alfisols 1
+27	Fruit	Inceptisols
+28	Fruit	Alfisols 1
+29	Scrub	Alfisols 1
+30	Scrub	Alfisols 1
+31	Scrub	Alfisols 1
+32	Scrub	Inceptisols
+33	Scrub	Alfisols 1
+34	Scrub	Alfisols 1
+35	Scrub	Inceptisols
+36	Scrub	Inceptisols
+37	Scrub	Inceptisols
+38	Scrub	Inceptisols
+39	PaddyK	Alfisols 1
+40	PaddyR	Alfisols 1
+41	PaddyR	Inceptisols
+42	Scrub	Inceptisols
+43	Scrub	Inceptisols
+44	Scrub	Alfisols 1
+45	PaddyR	Inceptisols
+46	Scrub	Alfisols 1
+47	Scrub	Alfisols 1
+48	Scrub	Inceptisols
+49	Scrub	Inceptisols
+50	Scrub	Alfisols 1
+51	Scrub	Alfisols 1
+52	Scrub	Inceptisols
+53	Scrub	Inceptisols
+54	Scrub	Alfisols 1
+55	Scrub	Alfisols 1
+56	Scrub	Alfisols 1
+57	Scrub	Inceptisols
+58	Scrub	Alfisols 1
+59	Scrub	Inceptisols
+60	Scrub	Inceptisols
+61	Scrub	Alfisols 1
+62	Scrub	Alfisols 1
+63	Scrub	Alfisols 1
+64	Scrub	Alfisols 1
+65	Scrub	Alfisols 1
+66	Scrub	Alfisols 1
+67	Scrub	Alfisols 1
+68	Scrub	Alfisols 1
+69	Scrub	Alfisols 1
+70	Scrub	Inceptisols
+71	Scrub	Alfisols 1
+72	PaddyR	Alfisols 1
+73	Scrub	Alfisols 1
+74	Scrub	Inceptisols
+75	Scrub	Alfisols 1
+76	Scrub	Alfisols 1
+77	Scrub	Inceptisols
+78	Scrub	Alfisols 1
+79	Scrub	Alfisols 1
+80	Scrub	Alfisols 1
+81	Scrub	Alfisols 1
+82	Scrub	Alfisols 1
+83	Scrub	Inceptisols
+84	Scrub	Alfisols 1
+85	Scrub	Inceptisols
+86	PaddyR	Alfisols 1
+87	PaddyR	Alfisols 1
+88	Scrub	Inceptisols
+89	Scrub	Alfisols 1
+90	Scrub	Alfisols 1
+91	Scrub	Alfisols 1
+92	Scrub	Alfisols 1
+93	Scrub	Alfisols 1
+94	Scrub	Inceptisols
+95	Scrub	Inceptisols
+96	Scrub	Alfisols 1
+97	Scrub	Alfisols 1
+98	Scrub	Inceptisols
+99	Scrub	Inceptisols
+100	Scrub	Inceptisols
+101	PaddyK	Alfisols 1
+102	PaddyK	Alfisols 1
+103	PaddyR	Inceptisols
+104	Scrub	Alfisols 1
+105	Scrub	Alfisols 1
+106	Scrub	Alfisols 1
+107	Scrub	Alfisols 1
+108	Scrub	Tank
+109	Scrub	Alfisols 1
+110	Scrub	Alfisols 1
+111	Scrub	Alfisols 1
+112	Scrub	Inceptisols
+113	Scrub	Inceptisols
+114	Scrub	Inceptisols
+115	Scrub	Inceptisols
+116	Scrub	Inceptisols
+117	Scrub	Alfisols 2
+118	Scrub	Alfisols 1
+119	Scrub	Inceptisols
+120	PaddyR	Alfisols 1
+121	PaddyR	Alfisols 1
+122	Scrub	Inceptisols
+123	Scrub	Inceptisols
+124	Scrub	Alfisols 1
+125	PaddyK	Alfisols 1
+126	Scrub	Alfisols 1
+127	Scrub	Alfisols 1
+128	Scrub	Alfisols 1
+129	Scrub	Inceptisols
+130	Scrub	Inceptisols
+131	Scrub	Alfisols 1
+132	Scrub	Alfisols 1
+133	Scrub	Inceptisols
+134	Scrub	Inceptisols
+135	Scrub	Alfisols 2
+136	Scrub	Alfisols 1
+137	Scrub	Alfisols 1
+138	Scrub	Alfisols 1
+139	Scrub	Inceptisols
+140	Scrub	Alfisols 1
+141	Scrub	Alfisols 1
+142	Scrub	Inceptisols
+143	Scrub	Alfisols 1
+144	Scrub	Alfisols 1
+145	Scrub	Alfisols 1
+146	Scrub	Alfisols 1
+147	Scrub	Alfisols 1
+148	Scrub	Alfisols 1
+149	Scrub	Alfisols 1
+150	Scrub	Inceptisols
+151	Scrub	Alfisols 1
+152	Scrub	Alfisols 1
+153	Scrub	Inceptisols
+154	Scrub	Inceptisols
+155	Scrub	Inceptisols
+156	Scrub	Alfisols 2
+157	Scrub	Alfisols 2
+158	Scrub	Alfisols 2
+159	Scrub	Alfisols 2
+160	Scrub	Alfisols 2
+161	Scrub	Alfisols 2
+162	Scrub	Alfisols 2
+163	Scrub	Entisols
+164	PaddyK	Alfisols 1
+165	Scrub	Alfisols 1
+166	Scrub	Alfisols 1
+167	Scrub	Alfisols 1
+168	Scrub	Alfisols 1
+169	Scrub	Alfisols 1
+170	PaddyK	Alfisols 1
+171	Scrub	Alfisols 1
+172	Scrub	Alfisols 1
+173	Scrub	Alfisols 1
+174	Scrub	Alfisols 1
+175	Scrub	Alfisols 1
+176	Scrub	Alfisols 1
+177	Scrub	Alfisols 1
+178	Scrub	Inceptisols
+179	Scrub	Inceptisols
+180	Scrub	Inceptisols
+181	Scrub	Inceptisols
+182	Scrub	Alfisols 2
+183	Scrub	Alfisols 2
+184	Scrub	Alfisols 2
+185	Scrub	Alfisols 2
+186	Scrub	Alfisols 2
+187	Scrub	Alfisols 2
+188	Scrub	Alfisols 2
+189	Scrub	Alfisols 2
+190	Scrub	Alfisols 1
+191	Scrub	Alfisols 1
+192	Scrub	Entisols
+193	Scrub	Entisols
+194	Scrub	Entisols
+195	Scrub	Alfisols 1
+196	Scrub	Alfisols 1
+197	Scrub	Alfisols 1
+198	PaddyR	Alfisols 1
+199	Scrub	Alfisols 1
+200	Scrub	Alfisols 1
+201	PaddyK	Alfisols 1
+202	Scrub	Alfisols 1
+203	Scrub	Alfisols 1
+204	Scrub	Alfisols 1
+205	PaddyR	Alfisols 1
+206	Scrub	Alfisols 1
+207	Scrub	Inceptisols
+208	Scrub	Inceptisols
+209	Scrub	Inceptisols
+210	Scrub	Alfisols 1
+211	Scrub	Alfisols 2
+212	Scrub	Alfisols 2
+213	Scrub	Alfisols 2
+214	Scrub	Entisols
+215	Scrub	Alfisols 2
+216	Scrub	Alfisols 2
+217	Scrub	Alfisols 2
+218	Scrub	Alfisols 2
+219	Scrub	Alfisols 1
+220	Scrub	Alfisols 1
+221	Scrub	Alfisols 1
+222	Scrub	Alfisols 1
+223	Scrub	Alfisols 1
+224	Scrub	Alfisols 1
+225	Scrub	Alfisols 1
+226	Scrub	Entisols
+227	PaddyK	Alfisols 1
+228	Scrub	Alfisols 1
+229	Scrub	Alfisols 1
+230	Scrub	Alfisols 1
+231	PaddyR	Alfisols 1
+232	Scrub	Alfisols 1
+233	Scrub	Alfisols 1
+234	Scrub	Alfisols 1
+235	Scrub	Alfisols 1
+236	Scrub	Inceptisols
+237	Scrub	Alfisols 1
+238	Scrub	Inceptisols
+239	Scrub	Inceptisols
+240	Scrub	Inceptisols
+241	Scrub	Inceptisols
+242	Scrub	Inceptisols
+243	Scrub	Inceptisols
+244	Scrub	Inceptisols
+245	Scrub	Alfisols 1
+246	Scrub	Alfisols 1
+247	Scrub	Alfisols 2
+248	Scrub	Alfisols 2
+249	Scrub	Alfisols 2
+250	Scrub	Entisols
+251	Scrub	Alfisols 2
+252	Scrub	Alfisols 2
+253	Scrub	Alfisols 2
+254	Scrub	Alfisols 2
+255	Scrub	Alfisols 1
+256	Scrub	Alfisols 1
+257	Scrub	Alfisols 1
+258	Scrub	Alfisols 1
+259	Scrub	Alfisols 1
+260	Scrub	Alfisols 1
+261	Scrub	Alfisols 1
+262	Scrub	Entisols
+263	Scrub	Entisols
+264	Scrub	Entisols
+265	Scrub	Alfisols 1
+266	PaddyR	Alfisols 1
+267	PaddyR	Alfisols 1
+268	Scrub	Inceptisols
+269	Scrub	Alfisols 1
+270	Scrub	Alfisols 1
+271	Scrub	Inceptisols
+272	Scrub	Alfisols 1
+273	Scrub	Alfisols 1
+274	Scrub	Inceptisols
+275	Scrub	Inceptisols
+276	Scrub	Inceptisols
+277	Scrub	Inceptisols
+278	Scrub	Inceptisols
+279	Scrub	Inceptisols
+280	Scrub	Inceptisols
+281	Scrub	Inceptisols
+282	Scrub	Inceptisols
+283	Scrub	Inceptisols
+284	Scrub	Inceptisols
+285	Scrub	Inceptisols
+286	Scrub	Inceptisols
+287	Scrub	Inceptisols
+288	Scrub	Inceptisols
+289	Scrub	Inceptisols
+290	Scrub	Alfisols 1
+291	Scrub	Alfisols 1
+292	Scrub	Alfisols 2
+293	Scrub	Alfisols 2
+294	Scrub	Alfisols 2
+295	Scrub	Alfisols 2
+296	Scrub	Alfisols 2
+297	Scrub	Alfisols 2
+298	Scrub	Entisols
+299	Scrub	Alfisols 2
+300	Scrub	Alfisols 2
+301	Scrub	Alfisols 2
+302	Scrub	Alfisols 2
+303	Scrub	Alfisols 1
+304	Scrub	Alfisols 1
+305	Scrub	Alfisols 1
+306	Scrub	Alfisols 1
+307	Scrub	Alfisols 1
+308	Scrub	Alfisols 1
+309	PaddyR	Entisols
+310	Scrub	Entisols
+311	Scrub	Alfisols 1
+312	Scrub	Alfisols 1
+313	Scrub	Inceptisols
+314	Scrub	Inceptisols
+315	Scrub	Inceptisols
+316	Scrub	Inceptisols
+317	Scrub	Inceptisols
+318	Scrub	Alfisols 1
+319	Scrub	Alfisols 1
+320	Scrub	Inceptisols
+321	Scrub	Alfisols 1
+322	Scrub	Inceptisols
+323	Scrub	Inceptisols
+324	Scrub	Inceptisols
+325	Scrub	Inceptisols
+326	Scrub	Inceptisols
+327	Scrub	Inceptisols
+328	Scrub	Inceptisols
+329	Scrub	Inceptisols
+330	Scrub	Inceptisols
+331	Scrub	Inceptisols
+332	Scrub	Inceptisols
+333	Scrub	Inceptisols
+334	Scrub	Inceptisols
+335	Scrub	Inceptisols
+336	Scrub	Inceptisols
+337	Scrub	Inceptisols
+338	Scrub	Inceptisols
+339	Scrub	Alfisols 1
+340	Scrub	Inceptisols
+341	Scrub	Inceptisols
+342	Scrub	Inceptisols
+343	Scrub	Inceptisols
+344	Scrub	Inceptisols
+345	Scrub	Alfisols 1
+346	Scrub	Alfisols 1
+347	Scrub	Alfisols 1
+348	Scrub	Alfisols 2
+349	Scrub	Alfisols 2
+350	Scrub	Alfisols 2
+351	Scrub	Alfisols 2
+352	Scrub	Alfisols 2
+353	Scrub	Alfisols 2
+354	Scrub	Alfisols 2
+355	Scrub	Alfisols 2
+356	Scrub	Alfisols 2
+357	Scrub	Alfisols 2
+358	Scrub	Alfisols 2
+359	Scrub	Alfisols 1
+360	Scrub	Alfisols 1
+361	Scrub	Alfisols 1
+362	Scrub	Alfisols 1
+363	Scrub	Alfisols 1
+364	Scrub	Alfisols 1
+365	Tank	Entisols
+366	Scrub	Entisols
+367	Scrub	Alfisols 1
+368	Scrub	Inceptisols
+369	Scrub	Inceptisols
+370	Scrub	Alfisols 1
+371	Scrub	Alfisols 1
+372	Scrub	Inceptisols
+373	Scrub	Inceptisols
+374	Scrub	Alfisols 1
+375	Scrub	Alfisols 1
+376	Scrub	Alfisols 1
+377	Scrub	Inceptisols
+378	Scrub	Alfisols 1
+379	Scrub	Alfisols 1
+380	Scrub	Inceptisols
+381	Scrub	Inceptisols
+382	Scrub	Alfisols 1
+383	Scrub	Inceptisols
+384	Scrub	Inceptisols
+385	Scrub	Inceptisols
+386	Scrub	Inceptisols
+387	Scrub	Inceptisols
+388	Scrub	Alfisols 1
+389	Scrub	Inceptisols
+390	Scrub	Inceptisols
+391	Scrub	Alfisols 1
+392	Scrub	Alfisols 1
+393	Scrub	Inceptisols
+394	Scrub	Inceptisols
+395	Scrub	Inceptisols
+396	Scrub	Inceptisols
+397	Scrub	Inceptisols
+398	Scrub	Alfisols 1
+399	Scrub	Inceptisols
+400	Scrub	Inceptisols
+401	Scrub	Inceptisols
+402	Scrub	Alfisols 1
+403	Scrub	Alfisols 1
+404	Scrub	Inceptisols
+405	Scrub	Inceptisols
+406	Scrub	Alfisols 1
+407	Scrub	Alfisols 2
+408	Scrub	Entisols
+409	Scrub	Entisols
+410	Scrub	Alfisols 2
+411	Scrub	Alfisols 2
+412	Scrub	Alfisols 2
+413	Scrub	Entisols
+414	Scrub	Alfisols 2
+415	Scrub	Alfisols 2
+416	Scrub	Alfisols 2
+417	Scrub	Alfisols 2
+418	Scrub	Alfisols 1
+419	Scrub	Alfisols 1
+420	Scrub	Alfisols 1
+421	Scrub	Alfisols 1
+422	Scrub	Alfisols 1
+423	Scrub	Alfisols 1
+424	Tank	Alfisols 1
+425	Tank	Tank
+426	Scrub	Tank
+427	Scrub	Alfisols 1
+428	Scrub	Alfisols 1
+429	Scrub	Alfisols 1
+430	Scrub	Inceptisols
+431	Scrub	Alfisols 1
+432	Scrub	Inceptisols
+433	Scrub	Inceptisols
+434	Scrub	Inceptisols
+435	Scrub	Alfisols 1
+436	Scrub	Alfisols 1
+437	Scrub	Alfisols 1
+438	Scrub	Alfisols 1
+439	Scrub	Alfisols 1
+440	Scrub	Inceptisols
+441	Scrub	Inceptisols
+442	Scrub	Alfisols 1
+443	Scrub	Entisols
+444	Scrub	Inceptisols
+445	Scrub	Inceptisols
+446	Scrub	Inceptisols
+447	Scrub	Inceptisols
+448	Scrub	Alfisols 1
+449	Scrub	Alfisols 1
+450	Scrub	Alfisols 1
+451	Scrub	Inceptisols
+452	Scrub	Alfisols 1
+453	Scrub	Entisols
+454	Scrub	Alfisols 1
+455	Scrub	Inceptisols
+456	Scrub	Alfisols 1
+457	Scrub	Inceptisols
+458	Scrub	Inceptisols
+459	Scrub	Alfisols 1
+460	Scrub	Alfisols 1
+461	Scrub	Inceptisols
+462	PaddyR	Alfisols 1
+463	PaddyK	Alfisols 1
+464	Scrub	Alfisols 1
+465	Scrub	Alfisols 1
+466	Scrub	Alfisols 1
+467	Scrub	Inceptisols
+468	Scrub	Inceptisols
+469	Scrub	Alfisols 2
+470	Scrub	Alfisols 2
+471	Scrub	Alfisols 2
+472	Scrub	Entisols
+473	Scrub	Alfisols 2
+474	Scrub	Entisols
+475	Scrub	Alfisols 2
+476	Scrub	Alfisols 2
+477	Scrub	Alfisols 2
+478	Scrub	Alfisols 2
+479	Scrub	Alfisols 1
+480	Scrub	Alfisols 1
+481	Scrub	Alfisols 1
+482	Scrub	Alfisols 1
+483	Scrub	Alfisols 1
+484	Scrub	Alfisols 1
+485	Scrub	Alfisols 1
+486	Tank	Alfisols 1
+487	Tank	Entisols
+488	Tank	Alfisols 1
+489	Scrub	Alfisols 1
+490	Scrub	Alfisols 1
+491	Scrub	Alfisols 1
+492	Scrub	Alfisols 1
+493	Scrub	Inceptisols
+494	Scrub	Inceptisols
+495	Scrub	Alfisols 1
+496	Scrub	Alfisols 1
+497	Scrub	Alfisols 1
+498	Scrub	Alfisols 1
+499	Scrub	Alfisols 1
+500	Scrub	Alfisols 1
+501	Scrub	Inceptisols
+502	Scrub	Alfisols 1
+503	Scrub	Inceptisols
+504	Scrub	Alfisols 1
+505	Scrub	Alfisols 1
+506	Scrub	Alfisols 1
+507	Scrub	Alfisols 1
+508	Scrub	Alfisols 1
+509	Scrub	Inceptisols
+510	Scrub	Alfisols 1
+511	Scrub	Alfisols 1
+512	Scrub	Alfisols 1
+513	Scrub	Inceptisols
+514	Scrub	Alfisols 1
+515	Scrub	Entisols
+516	Scrub	Alfisols 1
+517	Scrub	Inceptisols
+518	Scrub	Alfisols 1
+519	Scrub	Inceptisols
+520	Scrub	Inceptisols
+521	Scrub	Alfisols 1
+522	Scrub	Alfisols 1
+523	PaddyR	Alfisols 1
+524	Scrub	Alfisols 1
+525	Scrub	Alfisols 1
+526	Scrub	Alfisols 2
+527	Scrub	Alfisols 2
+528	Scrub	Alfisols 2
+529	Scrub	Alfisols 2
+530	Scrub	Alfisols 2
+531	Scrub	Alfisols 2
+532	Scrub	Alfisols 2
+533	Scrub	Alfisols 2
+534	Scrub	Alfisols 2
+535	Scrub	Entisols
+536	Scrub	Alfisols 2
+537	Scrub	Alfisols 2
+538	Scrub	Alfisols 2
+539	Scrub	Alfisols 2
+540	Scrub	Alfisols 1
+541	Scrub	Alfisols 1
+542	Scrub	Alfisols 1
+543	Scrub	Alfisols 1
+544	Scrub	Alfisols 1
+545	Scrub	Alfisols 1
+546	Scrub	Alfisols 1
+547	Scrub	Alfisols 1
+548	Scrub	Entisols
+549	Scrub	Alfisols 1
+550	Scrub	Alfisols 1
+551	Scrub	Alfisols 1
+552	Scrub	Alfisols 1
+553	Scrub	Inceptisols
+554	Scrub	Inceptisols
+555	Scrub	Inceptisols
+556	Scrub	Inceptisols
+557	Scrub	Alfisols 1
+558	Scrub	Inceptisols
+559	Fruit	Alfisols 1
+560	Scrub	Alfisols 1
+561	Scrub	Alfisols 1
+562	Scrub	Inceptisols
+563	Scrub	Alfisols 1
+564	Scrub	Inceptisols
+565	Scrub	Inceptisols
+566	Scrub	Alfisols 1
+567	Scrub	Alfisols 1
+568	Scrub	Entisols
+569	Scrub	Alfisols 1
+570	Scrub	Alfisols 1
+571	Scrub	Alfisols 1
+572	Scrub	Alfisols 1
+573	Scrub	Alfisols 1
+574	Scrub	Inceptisols
+575	Scrub	Alfisols 1
+576	Scrub	Alfisols 1
+577	Scrub	Alfisols 1
+578	Scrub	Inceptisols
+579	Scrub	Alfisols 1
+580	Scrub	Alfisols 1
+581	Scrub	Alfisols 1
+582	Scrub	Alfisols 1
+583	Scrub	Alfisols 1
+584	Scrub	Alfisols 1
+585	Scrub	Alfisols 1
+586	Scrub	Alfisols 1
+587	Scrub	Alfisols 1
+588	Scrub	Alfisols 1
+589	Scrub	Inceptisols
+590	Scrub	Alfisols 1
+591	Scrub	Alfisols 2
+592	Scrub	Alfisols 2
+593	Scrub	Alfisols 2
+594	Scrub	Alfisols 2
+595	Scrub	Alfisols 2
+596	Scrub	Alfisols 2
+597	Scrub	Alfisols 2
+598	Scrub	Alfisols 2
+599	Scrub	Alfisols 2
+600	Scrub	Alfisols 2
+601	Scrub	Alfisols 2
+602	Scrub	Entisols
+603	Scrub	Alfisols 2
+604	Scrub	Alfisols 2
+605	Scrub	Alfisols 1
+606	Scrub	Alfisols 1
+607	Scrub	Alfisols 1
+608	Scrub	Alfisols 1
+609	Scrub	Alfisols 1
+610	Scrub	Alfisols 1
+611	Scrub	Alfisols 1
+612	Scrub	Alfisols 1
+613	Scrub	Alfisols 1
+614	Scrub	Entisols
+615	Scrub	Alfisols 1
+616	Scrub	Alfisols 1
+617	Scrub	Inceptisols
+618	Scrub	Alfisols 1
+619	Scrub	Inceptisols
+620	Scrub	Inceptisols
+621	Scrub	Alfisols 1
+622	Scrub	Inceptisols
+623	Scrub	Alfisols 1
+624	Scrub	Inceptisols
+625	Fruit	Alfisols 1
+626	Scrub	Alfisols 1
+627	Scrub	Alfisols 1
+628	Scrub	Alfisols 1
+629	Scrub	Inceptisols
+630	Scrub	Inceptisols
+631	Scrub	Alfisols 1
+632	Scrub	Alfisols 1
+633	Scrub	Alfisols 1
+634	Scrub	Alfisols 1
+635	Scrub	Entisols
+636	Scrub	Alfisols 1
+637	Scrub	Alfisols 1
+638	Scrub	Alfisols 1
+639	Scrub	Alfisols 1
+640	Scrub	Inceptisols
+641	Scrub	Alfisols 1
+642	Scrub	Alfisols 1
+643	Scrub	Entisols
+644	Scrub	Alfisols 1
+645	Scrub	Alfisols 1
+646	Scrub	Alfisols 1
+647	Scrub	Alfisols 1
+648	Scrub	Alfisols 1
+649	Scrub	Alfisols 1
+650	Scrub	Alfisols 1
+651	Scrub	Alfisols 1
+652	Scrub	Alfisols 1
+653	Scrub	Alfisols 1
+654	Scrub	Alfisols 1
+655	Scrub	Alfisols 1
+656	Scrub	Alfisols 1
+657	Scrub	Alfisols 1
+658	Scrub	Alfisols 1
+659	Scrub	Alfisols 1
+660	Scrub	Alfisols 1
+661	Scrub	Alfisols 1
+662	Scrub	Alfisols 2
+663	Scrub	Alfisols 2
+664	Scrub	Alfisols 2
+665	Scrub	Alfisols 2
+666	Scrub	Alfisols 2
+667	Scrub	Alfisols 2
+668	Scrub	Alfisols 2
+669	Scrub	Alfisols 2
+670	Scrub	Alfisols 2
+671	Scrub	Alfisols 2
+672	Scrub	Alfisols 2
+673	Scrub	Entisols
+674	Scrub	Alfisols 2
+675	Scrub	Alfisols 1
+676	Scrub	Alfisols 1
+677	Scrub	Alfisols 1
+678	Scrub	Alfisols 1
+679	Scrub	Alfisols 1
+680	Scrub	Alfisols 1
+681	Scrub	Alfisols 1
+682	Scrub	Alfisols 1
+683	Scrub	Alfisols 1
+684	Scrub	Alfisols 1
+685	Scrub	Entisols
+686	Scrub	Alfisols 1
+687	Scrub	Alfisols 1
+688	Scrub	Alfisols 1
+689	Scrub	Alfisols 1
+690	Scrub	Inceptisols
+691	Scrub	Alfisols 1
+692	Scrub	Inceptisols
+693	Scrub	Inceptisols
+694	Scrub	Alfisols 1
+695	Scrub	Alfisols 1
+696	Scrub	Alfisols 1
+697	Scrub	Alfisols 1
+698	Scrub	Alfisols 1
+699	Scrub	Alfisols 1
+700	Scrub	Alfisols 1
+701	Scrub	Inceptisols
+702	Scrub	Inceptisols
+703	Scrub	Inceptisols
+704	Scrub	Inceptisols
+705	Scrub	Alfisols 1
+706	Scrub	Alfisols 1
+707	Scrub	Entisols
+708	Scrub	Alfisols 1
+709	Scrub	Alfisols 1
+710	Scrub	Alfisols 1
+711	Scrub	Inceptisols
+712	Scrub	Inceptisols
+713	Scrub	Inceptisols
+714	Scrub	Alfisols 1
+715	PaddyR	Alfisols 1
+716	PaddyK	Alfisols 1
+717	Scrub	Alfisols 1
+718	PaddyK	Alfisols 1
+719	Scrub	Alfisols 1
+720	Scrub	Alfisols 1
+721	Scrub	Alfisols 1
+722	Scrub	Alfisols 1
+723	Scrub	Alfisols 1
+724	Scrub	Alfisols 1
+725	Scrub	Alfisols 1
+726	Scrub	Alfisols 1
+727	Scrub	Alfisols 1
+728	Scrub	Alfisols 1
+729	Scrub	Alfisols 1
+730	Scrub	Alfisols 1
+731	Scrub	Alfisols 1
+732	Scrub	Alfisols 1
+733	Scrub	Alfisols 2
+734	Scrub	Alfisols 2
+735	Scrub	Alfisols 2
+736	Scrub	Alfisols 2
+737	Scrub	Alfisols 2
+738	Scrub	Alfisols 2
+739	Scrub	Alfisols 2
+740	Scrub	Alfisols 2
+741	Scrub	Alfisols 2
+742	Scrub	Alfisols 2
+743	Scrub	Alfisols 2
+744	Scrub	Alfisols 2
+745	Scrub	Entisols
+746	Scrub	Alfisols 1
+747	Scrub	Alfisols 1
+748	Scrub	Alfisols 1
+749	Scrub	Alfisols 1
+750	Scrub	Alfisols 1
+751	Scrub	Alfisols 1
+752	Scrub	Alfisols 1
+753	Scrub	Alfisols 1
+754	Scrub	Alfisols 1
+755	Scrub	Alfisols 1
+756	Scrub	Alfisols 1
+757	Scrub	Entisols
+758	Scrub	Alfisols 1
+759	Scrub	Alfisols 1
+760	Urban	Alfisols 1
+761	Scrub	Alfisols 1
+762	Scrub	Alfisols 1
+763	Scrub	Alfisols 1
+764	Scrub	Alfisols 1
+765	Scrub	Alfisols 1
+766	Scrub	Inceptisols
+767	Scrub	Alfisols 1
+768	Scrub	Alfisols 1
+769	Scrub	Alfisols 1
+770	Scrub	Alfisols 1
+771	Scrub	Alfisols 1
+772	Scrub	Alfisols 1
+773	Scrub	Inceptisols
+774	Scrub	Inceptisols
+775	Scrub	Alfisols 1
+776	Scrub	Alfisols 1
+777	Scrub	Inceptisols
+778	Scrub	Alfisols 1
+779	Scrub	Alfisols 1
+780	Scrub	Alfisols 1
+781	Scrub	Alfisols 1
+782	Scrub	Alfisols 1
+783	Scrub	Inceptisols
+784	Scrub	Inceptisols
+785	Scrub	Alfisols 1
+786	Scrub	Alfisols 1
+787	Scrub	Alfisols 1
+788	PaddyK	Alfisols 1
+789	Scrub	Alfisols 1
+790	PaddyR	Alfisols 1
+791	PaddyK	Alfisols 1
+792	Scrub	Alfisols 1
+793	Scrub	Alfisols 1
+794	Scrub	Alfisols 1
+795	Scrub	Alfisols 1
+796	Scrub	Alfisols 1
+797	Scrub	Alfisols 1
+798	Scrub	Alfisols 1
+799	Scrub	Alfisols 1
+800	Scrub	Alfisols 1
+801	Scrub	Alfisols 1
+802	Urban	Inceptisols
+803	Scrub	Alfisols 1
+804	Scrub	Alfisols 2
+805	Scrub	Alfisols 2
+806	Scrub	Alfisols 2
+807	Scrub	Alfisols 2
+808	Scrub	Alfisols 2
+809	Scrub	Alfisols 2
+810	Scrub	Alfisols 2
+811	Scrub	Entisols
+812	Scrub	Alfisols 2
+813	Scrub	Entisols
+814	Scrub	Alfisols 2
+815	Scrub	Alfisols 2
+816	Scrub	Alfisols 2
+817	Scrub	Entisols
+818	Scrub	Inceptisols
+819	Scrub	Alfisols 1
+820	Scrub	Inceptisols
+821	Scrub	Alfisols 1
+822	Scrub	Alfisols 1
+823	Scrub	Alfisols 1
+824	Scrub	Alfisols 1
+825	Scrub	Alfisols 1
+826	Scrub	Alfisols 1
+827	Scrub	Alfisols 1
+828	Scrub	Entisols
+829	Scrub	Alfisols 1
+830	Scrub	Alfisols 1
+831	Scrub	Alfisols 1
+832	Scrub	Inceptisols
+833	Scrub	Alfisols 1
+834	Scrub	Alfisols 1
+835	Scrub	Alfisols 1
+836	Scrub	Alfisols 1
+837	Scrub	Inceptisols
+838	Scrub	Alfisols 1
+839	Scrub	Alfisols 1
+840	Scrub	Alfisols 1
+841	Scrub	Alfisols 1
+842	Scrub	Alfisols 1
+843	Scrub	Inceptisols
+844	Scrub	Inceptisols
+845	Scrub	Alfisols 1
+846	Scrub	Alfisols 1
+847	Scrub	Inceptisols
+848	Scrub	Alfisols 1
+849	Scrub	Alfisols 1
+850	Scrub	Alfisols 1
+851	Scrub	Alfisols 1
+852	Scrub	Alfisols 1
+853	Scrub	Alfisols 1
+854	Scrub	Inceptisols
+855	Scrub	Inceptisols
+856	Scrub	Inceptisols
+857	Scrub	Alfisols 1
+858	Scrub	Alfisols 1
+859	Scrub	Alfisols 1
+860	PaddyR	Entisols
+861	PaddyK	Alfisols 1
+862	Scrub	Alfisols 1
+863	Scrub	Alfisols 1
+864	Scrub	Alfisols 1
+865	Scrub	Alfisols 1
+866	Scrub	Alfisols 1
+867	Scrub	Alfisols 1
+868	Scrub	Alfisols 1
+869	Scrub	Alfisols 1
+870	Scrub	Alfisols 1
+871	Scrub	Alfisols 1
+872	Scrub	Alfisols 1
+873	Scrub	Alfisols 1
+874	Scrub	Alfisols 1
+875	Scrub	Alfisols 1
+876	Scrub	Inceptisols
+877	Scrub	Alfisols 2
+878	Scrub	Alfisols 2
+879	Scrub	Alfisols 2
+880	Scrub	Alfisols 2
+881	Scrub	Alfisols 2
+882	Scrub	Alfisols 2
+883	Scrub	Alfisols 2
+884	Scrub	Entisols
+885	Scrub	Entisols
+886	Tank	Entisols
+887	Scrub	Entisols
+888	Scrub	Entisols
+889	Scrub	Entisols
+890	Scrub	Alfisols 1
+891	Scrub	Alfisols 1
+892	Scrub	Alfisols 1
+893	Scrub	Alfisols 1
+894	Scrub	Alfisols 1
+895	Scrub	Alfisols 1
+896	Scrub	Alfisols 1
+897	Scrub	Alfisols 1
+898	Scrub	Alfisols 1
+899	Scrub	Alfisols 1
+900	Scrub	Alfisols 1
+901	Scrub	Entisols
+902	Scrub	Alfisols 1
+903	Scrub	Alfisols 1
+904	Scrub	Inceptisols
+905	Scrub	Alfisols 1
+906	Scrub	Alfisols 1
+907	Scrub	Alfisols 1
+908	Scrub	Alfisols 1
+909	Scrub	Alfisols 1
+910	Scrub	Inceptisols
+911	Scrub	Alfisols 1
+912	Scrub	Alfisols 1
+913	Scrub	Alfisols 1
+914	Scrub	Alfisols 1
+915	Scrub	Alfisols 1
+916	Scrub	Alfisols 1
+917	Scrub	Alfisols 1
+918	Scrub	Inceptisols
+919	Scrub	Alfisols 1
+920	Scrub	Alfisols 1
+921	Scrub	Inceptisols
+922	Scrub	Alfisols 1
+923	Scrub	Alfisols 1
+924	Scrub	Entisols
+925	Scrub	Entisols
+926	Scrub	Alfisols 1
+927	Scrub	Alfisols 1
+928	Scrub	Inceptisols
+929	Scrub	Inceptisols
+930	Urban	Alfisols 1
+931	Scrub	Alfisols 1
+932	Scrub	Alfisols 1
+933	PaddyK	Alfisols 1
+934	Tank	Entisols
+935	Scrub	Alfisols 1
+936	Scrub	Alfisols 1
+937	Scrub	Alfisols 1
+938	Scrub	Alfisols 1
+939	Scrub	Alfisols 1
+940	Scrub	Alfisols 1
+941	Scrub	Alfisols 1
+942	Scrub	Alfisols 1
+943	Scrub	Alfisols 1
+944	Scrub	Alfisols 1
+945	Scrub	Alfisols 1
+946	Scrub	Alfisols 1
+947	Scrub	Alfisols 1
+948	Scrub	Alfisols 1
+949	Scrub	Alfisols 1
+950	Scrub	Alfisols 1
+951	Scrub	Alfisols 1
+952	Scrub	Alfisols 1
+953	Scrub	Alfisols 1
+954	PaddyR	Alfisols 2
+955	Scrub	Alfisols 2
+956	Scrub	Alfisols 2
+957	Scrub	Alfisols 2
+958	Scrub	Entisols
+959	Scrub	Tank
+960	Tank	Tank
+961	Tank	Alfisols 2
+962	Tank	Entisols
+963	Tank	Alfisols 2
+964	Scrub	Alfisols 2
+965	Scrub	Alfisols 1
+966	Scrub	Alfisols 1
+967	Scrub	Alfisols 1
+968	Scrub	Alfisols 1
+969	Scrub	Alfisols 1
+970	Scrub	Alfisols 1
+971	Scrub	Alfisols 1
+972	Scrub	Alfisols 1
+973	Scrub	Alfisols 1
+974	Scrub	Alfisols 1
+975	Scrub	Entisols
+976	Scrub	Entisols
+977	Scrub	Tank
+978	Scrub	Tank
+979	Scrub	Alfisols 1
+980	Scrub	Entisols
+981	Scrub	Entisols
+982	Scrub	Alfisols 1
+983	Scrub	Inceptisols
+984	Scrub	Alfisols 1
+985	Scrub	Alfisols 1
+986	Scrub	Alfisols 1
+987	PaddyR	Alfisols 1
+988	Scrub	Alfisols 1
+989	Scrub	Alfisols 1
+990	Scrub	Alfisols 1
+991	Scrub	Inceptisols
+992	Scrub	Inceptisols
+993	Scrub	Alfisols 1
+994	Scrub	Alfisols 1
+995	Scrub	Alfisols 1
+996	Scrub	Alfisols 1
+997	Scrub	Alfisols 1
+998	PaddyR	Alfisols 1
+999	Scrub	Entisols
+1000	Scrub	Alfisols 1
+1001	Scrub	Alfisols 1
+1002	Scrub	Alfisols 1
+1003	Scrub	Inceptisols
+1004	Scrub	Inceptisols
+1005	Scrub	Inceptisols
+1006	Scrub	Alfisols 1
+1007	Tank	Alfisols 1
+1008	PaddyR	Entisols
+1009	Scrub	Entisols
+1010	Scrub	Alfisols 1
+1011	Urban	Alfisols 1
+1012	Scrub	Alfisols 1
+1013	Scrub	Alfisols 1
+1014	Scrub	Alfisols 1
+1015	Scrub	Alfisols 1
+1016	Scrub	Alfisols 1
+1017	Scrub	Alfisols 1
+1018	Scrub	Alfisols 1
+1019	Scrub	Alfisols 1
+1020	Scrub	Alfisols 1
+1021	Scrub	Alfisols 1
+1022	Scrub	Alfisols 1
+1023	Scrub	Alfisols 1
+1024	Scrub	Inceptisols
+1025	Scrub	Alfisols 1
+1026	Scrub	Alfisols 1
+1027	Scrub	Alfisols 1
+1028	PaddyR	Alfisols 1
+1029	Scrub	Alfisols 1
+1030	Scrub	Alfisols 1
+1031	Scrub	Alfisols 2
+1032	Scrub	Alfisols 2
+1033	Scrub	Alfisols 2
+1034	Scrub	Tank
+1035	Tank	Tank
+1036	Tank	Alfisols 2
+1037	Scrub	Alfisols 2
+1038	Scrub	Alfisols 1
+1039	Scrub	Alfisols 1
+1040	Scrub	Alfisols 1
+1041	Scrub	Alfisols 1
+1042	Scrub	Alfisols 1
+1043	Scrub	Alfisols 1
+1044	Scrub	Inceptisols
+1045	Scrub	Alfisols 1
+1046	Scrub	Alfisols 1
+1047	Scrub	Alfisols 1
+1048	Scrub	Alfisols 1
+1049	Scrub	Alfisols 1
+1050	Scrub	Alfisols 1
+1051	Scrub	Entisols
+1052	Scrub	Tank
+1053	Scrub	Entisols
+1054	Scrub	Entisols
+1055	Scrub	Entisols
+1056	Scrub	Alfisols 1
+1057	Scrub	Inceptisols
+1058	Scrub	Alfisols 1
+1059	Scrub	Alfisols 1
+1060	Scrub	Alfisols 1
+1061	Scrub	Alfisols 1
+1062	Scrub	Alfisols 1
+1063	Scrub	Alfisols 1
+1064	Scrub	Alfisols 1
+1065	Scrub	Inceptisols
+1066	Scrub	Inceptisols
+1067	Fruit	Inceptisols
+1068	Scrub	Inceptisols
+1069	Scrub	Inceptisols
+1070	Scrub	Alfisols 1
+1071	Scrub	Alfisols 1
+1072	Scrub	Alfisols 1
+1073	Scrub	Alfisols 1
+1074	Scrub	Entisols
+1075	Scrub	Alfisols 1
+1076	Scrub	Alfisols 1
+1077	Scrub	Alfisols 1
+1078	Scrub	Alfisols 1
+1079	Scrub	Alfisols 1
+1080	Scrub	Alfisols 1
+1081	Scrub	Alfisols 1
+1082	PaddyR	Alfisols 1
+1083	PaddyK	Entisols
+1084	Scrub	Entisols
+1085	Scrub	Alfisols 1
+1086	Scrub	Alfisols 1
+1087	Scrub	Alfisols 1
+1088	Scrub	Alfisols 1
+1089	Scrub	Alfisols 1
+1090	Scrub	Alfisols 1
+1091	Scrub	Alfisols 1
+1092	Scrub	Alfisols 1
+1093	Scrub	Alfisols 1
+1094	Scrub	Alfisols 1
+1095	Scrub	Alfisols 1
+1096	Scrub	Alfisols 1
+1097	Scrub	Alfisols 1
+1098	Scrub	Alfisols 1
+1099	Scrub	Alfisols 1
+1100	Scrub	Alfisols 1
+1101	Scrub	Alfisols 1
+1102	Scrub	Alfisols 1
+1103	Scrub	Alfisols 1
+1104	Scrub	Alfisols 1
+1105	Scrub	Alfisols 1
+1106	Scrub	Alfisols 2
+1107	Scrub	Alfisols 2
+1108	Scrub	Alfisols 2
+1109	Scrub	Entisols
+1110	Scrub	Alfisols 2
+1111	Scrub	Alfisols 2
+1112	Scrub	Alfisols 2
+1113	Scrub	Alfisols 1
+1114	Scrub	Alfisols 1
+1115	Scrub	Alfisols 1
+1116	Scrub	Alfisols 1
+1117	Scrub	Alfisols 1
+1118	Scrub	Alfisols 1
+1119	Scrub	Alfisols 1
+1120	Scrub	Alfisols 1
+1121	Scrub	Alfisols 1
+1122	Scrub	Alfisols 1
+1123	Scrub	Alfisols 1
+1124	Scrub	Alfisols 1
+1125	Scrub	Alfisols 1
+1126	Scrub	Entisols
+1127	Tank	Entisols
+1128	Tank	Entisols
+1129	Tank	Entisols
+1130	Scrub	Entisols
+1131	Scrub	Entisols
+1132	Scrub	Alfisols 1
+1133	Scrub	Alfisols 1
+1134	Scrub	Entisols
+1135	Scrub	Entisols
+1136	Scrub	Alfisols 1
+1137	Scrub	Alfisols 1
+1138	Scrub	Alfisols 1
+1139	Scrub	Inceptisols
+1140	Scrub	Inceptisols
+1141	Fruit	Inceptisols
+1142	Fruit	Alfisols 1
+1143	Scrub	Alfisols 1
+1144	Scrub	Alfisols 1
+1145	Scrub	Inceptisols
+1146	Scrub	Alfisols 1
+1147	Scrub	Alfisols 1
+1148	Scrub	Alfisols 1
+1149	Scrub	Entisols
+1150	PaddyR	Entisols
+1151	Scrub	Alfisols 1
+1152	Scrub	Inceptisols
+1153	Scrub	Alfisols 1
+1154	Urban	Alfisols 1
+1155	Urban	Alfisols 1
+1156	Urban	Alfisols 1
+1157	Scrub	Alfisols 1
+1158	Scrub	Entisols
+1159	Scrub	Entisols
+1160	Scrub	Alfisols 1
+1161	Scrub	Alfisols 1
+1162	Scrub	Alfisols 1
+1163	Scrub	Alfisols 1
+1164	Scrub	Alfisols 1
+1165	Scrub	Alfisols 1
+1166	Scrub	Alfisols 1
+1167	Scrub	Alfisols 1
+1168	Scrub	Alfisols 1
+1169	Scrub	Alfisols 1
+1170	Scrub	Alfisols 1
+1171	Scrub	Alfisols 1
+1172	Scrub	Alfisols 1
+1173	Scrub	Alfisols 1
+1174	Scrub	Alfisols 1
+1175	Scrub	Alfisols 1
+1176	Scrub	Inceptisols
+1177	Scrub	Inceptisols
+1178	Scrub	Inceptisols
+1179	Scrub	Inceptisols
+1180	Scrub	Inceptisols
+1181	Urban	Alfisols 1
+1182	PaddyR	Entisols
+1183	Scrub	Entisols
+1184	Scrub	Entisols
+1185	Scrub	Alfisols 2
+1186	Scrub	Alfisols 2
+1187	Scrub	Alfisols 2
+1188	Scrub	Alfisols 1
+1189	Scrub	Alfisols 1
+1190	Scrub	Alfisols 1
+1191	Scrub	Alfisols 1
+1192	Scrub	Alfisols 1
+1193	Scrub	Alfisols 1
+1194	Scrub	Alfisols 1
+1195	Scrub	Alfisols 1
+1196	Scrub	Inceptisols
+1197	Scrub	Alfisols 1
+1198	Scrub	Alfisols 1
+1199	Scrub	Alfisols 1
+1200	Scrub	Alfisols 1
+1201	Scrub	Alfisols 1
+1202	Tank	Alfisols 1
+1203	Tank	Entisols
+1204	Scrub	Entisols
+1205	PaddyR	Entisols
+1206	Scrub	Entisols
+1207	Scrub	Entisols
+1208	Scrub	Entisols
+1209	PaddyR	Entisols
+1210	PaddyK	Alfisols 1
+1211	Scrub	Alfisols 1
+1212	Scrub	Alfisols 1
+1213	Scrub	Inceptisols
+1214	Scrub	Alfisols 1
+1215	Scrub	Alfisols 1
+1216	Scrub	Inceptisols
+1217	Scrub	Inceptisols
+1218	Scrub	Alfisols 1
+1219	Scrub	Alfisols 1
+1220	Scrub	Alfisols 1
+1221	Scrub	Alfisols 1
+1222	Scrub	Alfisols 1
+1223	Scrub	Alfisols 1
+1224	Scrub	Entisols
+1225	Scrub	Entisols
+1226	Scrub	Alfisols 1
+1227	Scrub	Alfisols 1
+1228	Scrub	Alfisols 1
+1229	Urban	Alfisols 1
+1230	Urban	Alfisols 1
+1231	Scrub	Alfisols 1
+1232	Scrub	Alfisols 1
+1233	Scrub	Entisols
+1234	Scrub	Alfisols 1
+1235	Scrub	Alfisols 1
+1236	Scrub	Alfisols 1
+1237	Scrub	Alfisols 1
+1238	Scrub	Alfisols 1
+1239	Scrub	Alfisols 1
+1240	Scrub	Alfisols 1
+1241	Scrub	Alfisols 1
+1242	Scrub	Alfisols 1
+1243	Scrub	Alfisols 1
+1244	Scrub	Alfisols 1
+1245	Scrub	Alfisols 1
+1246	Scrub	Alfisols 1
+1247	Scrub	Alfisols 1
+1248	Scrub	Alfisols 1
+1249	Scrub	Alfisols 1
+1250	Scrub	Alfisols 1
+1251	Scrub	Alfisols 1
+1252	Scrub	Alfisols 1
+1253	Scrub	Alfisols 1
+1254	Scrub	Alfisols 1
+1255	Urban	Alfisols 1
+1256	Scrub	Alfisols 1
+1257	PaddyR	Entisols
+1258	Scrub	Entisols
+1259	Scrub	Alfisols 2
+1260	Scrub	Alfisols 2
+1261	Scrub	Alfisols 2
+1262	Scrub	Alfisols 2
+1263	Scrub	Alfisols 1
+1264	Scrub	Alfisols 1
+1265	Scrub	Inceptisols
+1266	Scrub	Alfisols 1
+1267	Scrub	Alfisols 1
+1268	Scrub	Alfisols 1
+1269	Scrub	Alfisols 1
+1270	Scrub	Inceptisols
+1271	Scrub	Alfisols 1
+1272	Scrub	Alfisols 1
+1273	PaddyR	Alfisols 1
+1274	PaddyK	Alfisols 1
+1275	Scrub	Alfisols 1
+1276	Tank	Alfisols 1
+1277	Scrub	Alfisols 1
+1278	PaddyR	Entisols
+1279	PaddyK	Entisols
+1280	Scrub	Entisols
+1281	PaddyK	Entisols
+1282	Scrub	Alfisols 1
+1283	Scrub	Alfisols 1
+1284	Scrub	Alfisols 1
+1285	Scrub	Inceptisols
+1286	Scrub	Inceptisols
+1287	Scrub	Inceptisols
+1288	Scrub	Alfisols 1
+1289	Scrub	Alfisols 1
+1290	Scrub	Alfisols 1
+1291	Scrub	Inceptisols
+1292	Scrub	Alfisols 1
+1293	Scrub	Alfisols 1
+1294	Scrub	Alfisols 1
+1295	Scrub	Alfisols 1
+1296	Scrub	Alfisols 1
+1297	Scrub	Alfisols 1
+1298	Scrub	Alfisols 1
+1299	Scrub	Entisols
+1300	Scrub	Entisols
+1301	Scrub	Alfisols 1
+1302	Scrub	Alfisols 1
+1303	Urban	Alfisols 1
+1304	Urban	Alfisols 1
+1305	Urban	Alfisols 1
+1306	PaddyR	Alfisols 1
+1307	PaddyK	Entisols
+1308	Scrub	Alfisols 1
+1309	Scrub	Alfisols 1
+1310	Scrub	Alfisols 1
+1311	Scrub	Alfisols 1
+1312	Fruit	Alfisols 1
+1313	Scrub	Alfisols 1
+1314	Scrub	Alfisols 1
+1315	Scrub	Alfisols 1
+1316	Scrub	Alfisols 1
+1317	Scrub	Alfisols 1
+1318	Scrub	Alfisols 1
+1319	Scrub	Alfisols 1
+1320	Scrub	Alfisols 1
+1321	Scrub	Alfisols 1
+1322	Scrub	Inceptisols
+1323	Scrub	Alfisols 1
+1324	Scrub	Alfisols 1
+1325	Scrub	Alfisols 1
+1326	Scrub	Alfisols 1
+1327	Scrub	Alfisols 1
+1328	Scrub	Alfisols 1
+1329	Scrub	Alfisols 1
+1330	Scrub	Alfisols 1
+1331	PaddyK	Entisols
+1332	Scrub	Entisols
+1333	Scrub	Alfisols 2
+1334	Scrub	Alfisols 2
+1335	Scrub	Alfisols 2
+1336	Scrub	Alfisols 2
+1337	Scrub	Alfisols 1
+1338	Scrub	Alfisols 1
+1339	Scrub	Inceptisols
+1340	Scrub	Inceptisols
+1341	Scrub	Alfisols 1
+1342	Scrub	Alfisols 2
+1343	Scrub	Inceptisols
+1344	Scrub	Alfisols 1
+1345	Scrub	Alfisols 1
+1346	Scrub	Alfisols 1
+1347	Scrub	Alfisols 1
+1348	Scrub	Alfisols 1
+1349	Scrub	Alfisols 1
+1350	Tank	Alfisols 1
+1351	Scrub	Alfisols 1
+1352	Scrub	Alfisols 1
+1353	PaddyR	Entisols
+1354	PaddyR	Entisols
+1355	Scrub	Alfisols 1
+1356	Scrub	Alfisols 1
+1357	Scrub	Alfisols 1
+1358	Scrub	Alfisols 1
+1359	PaddyR	Alfisols 1
+1360	PaddyR	Alfisols 1
+1361	Scrub	Alfisols 1
+1362	Scrub	Alfisols 1
+1363	Scrub	Alfisols 1
+1364	Scrub	Alfisols 1
+1365	Scrub	Inceptisols
+1366	Scrub	Inceptisols
+1367	Scrub	Alfisols 1
+1368	Scrub	Alfisols 1
+1369	Scrub	Alfisols 1
+1370	Scrub	Alfisols 1
+1371	Fruit	Alfisols 1
+1372	Scrub	Alfisols 1
+1373	Scrub	Alfisols 1
+1374	Scrub	Entisols
+1375	Scrub	Entisols
+1376	Scrub	Alfisols 1
+1377	Scrub	Entisols
+1378	Urban	Entisols
+1379	Scrub	Entisols
+1380	Scrub	Entisols
+1381	Scrub	Entisols
+1382	Scrub	Alfisols 1
+1383	Scrub	Alfisols 1
+1384	Scrub	Alfisols 1
+1385	Scrub	Alfisols 1
+1386	Scrub	Alfisols 1
+1387	Scrub	Alfisols 1
+1388	Scrub	Alfisols 1
+1389	Scrub	Alfisols 1
+1390	Scrub	Alfisols 1
+1391	Scrub	Entisols
+1392	Scrub	Alfisols 1
+1393	Urban	Alfisols 1
+1394	Urban	Alfisols 1
+1395	Scrub	Alfisols 1
+1396	Scrub	Inceptisols
+1397	Scrub	Inceptisols
+1398	Scrub	Alfisols 1
+1399	Tank	Alfisols 1
+1400	Scrub	Alfisols 1
+1401	Scrub	Alfisols 1
+1402	Scrub	Alfisols 1
+1403	PaddyR	Alfisols 1
+1404	PaddyR	Alfisols 1
+1405	PaddyR	Entisols
+1406	Scrub	Entisols
+1407	Scrub	Entisols
+1408	Scrub	Alfisols 2
+1409	Scrub	Alfisols 2
+1410	Scrub	Alfisols 2
+1411	Scrub	Alfisols 1
+1412	Scrub	Alfisols 1
+1413	Scrub	Alfisols 1
+1414	Scrub	Alfisols 1
+1415	Scrub	Alfisols 1
+1416	Scrub	Alfisols 2
+1417	Scrub	Alfisols 1
+1418	Scrub	Alfisols 1
+1419	Scrub	Alfisols 1
+1420	Scrub	Alfisols 1
+1421	Scrub	Alfisols 1
+1422	PaddyR	Alfisols 1
+1423	PaddyR	Alfisols 1
+1424	Urban	Alfisols 1
+1425	Scrub	Alfisols 1
+1426	Scrub	Alfisols 1
+1427	Scrub	Entisols
+1428	Scrub	Entisols
+1429	Scrub	Entisols
+1430	Scrub	Entisols
+1431	Scrub	Alfisols 1
+1432	Scrub	Alfisols 1
+1433	PaddyK	Alfisols 1
+1434	Scrub	Alfisols 1
+1435	Scrub	Inceptisols
+1436	Scrub	Inceptisols
+1437	Scrub	Inceptisols
+1438	Scrub	Alfisols 1
+1439	Scrub	Inceptisols
+1440	Scrub	Inceptisols
+1441	Scrub	Inceptisols
+1442	Scrub	Inceptisols
+1443	Scrub	Inceptisols
+1444	Scrub	Alfisols 1
+1445	Scrub	Alfisols 1
+1446	Scrub	Alfisols 1
+1447	Scrub	Alfisols 1
+1448	Scrub	Alfisols 1
+1449	Scrub	Entisols
+1450	Scrub	Entisols
+1451	Scrub	Entisols
+1452	Urban	Entisols
+1453	Scrub	Entisols
+1454	Scrub	Entisols
+1455	Scrub	Entisols
+1456	Scrub	Alfisols 1
+1457	Scrub	Alfisols 1
+1458	Scrub	Alfisols 1
+1459	Scrub	Alfisols 1
+1460	Scrub	Alfisols 1
+1461	Scrub	Alfisols 1
+1462	Scrub	Alfisols 1
+1463	Scrub	Alfisols 1
+1464	Scrub	Alfisols 1
+1465	Scrub	Entisols
+1466	Scrub	Alfisols 1
+1467	Scrub	Alfisols 1
+1468	Scrub	Alfisols 1
+1469	Scrub	Alfisols 1
+1470	Scrub	Alfisols 1
+1471	Scrub	Inceptisols
+1472	Scrub	Alfisols 1
+1473	Scrub	Alfisols 1
+1474	Scrub	Alfisols 1
+1475	Scrub	Alfisols 1
+1476	Scrub	Alfisols 1
+1477	Scrub	Alfisols 1
+1478	Scrub	Alfisols 1
+1479	PaddyR	Entisols
+1480	Scrub	Entisols
+1481	Scrub	Entisols
+1482	Scrub	Alfisols 2
+1483	Scrub	Alfisols 2
+1484	Scrub	Alfisols 2
+1485	Scrub	Inceptisols
+1486	Scrub	Alfisols 1
+1487	Scrub	Alfisols 1
+1488	Scrub	Entisols
+1489	PaddyK	Alfisols 1
+1490	Scrub	Alfisols 1
+1491	Scrub	Alfisols 2
+1492	Scrub	Alfisols 1
+1493	Scrub	Alfisols 1
+1494	Scrub	Alfisols 1
+1495	Scrub	Alfisols 1
+1496	PaddyR	Alfisols 1
+1497	PaddyR	Alfisols 1
+1498	Urban	Alfisols 1
+1499	Scrub	Alfisols 1
+1500	Urban	Alfisols 1
+1501	Scrub	Entisols
+1502	Scrub	Entisols
+1503	PaddyK	Entisols
+1504	Scrub	Entisols
+1505	Scrub	Alfisols 1
+1506	PaddyR	Alfisols 1
+1507	Scrub	Alfisols 1
+1508	Scrub	Inceptisols
+1509	Scrub	Inceptisols
+1510	Scrub	Inceptisols
+1511	Scrub	Inceptisols
+1512	Scrub	Inceptisols
+1513	Scrub	Inceptisols
+1514	Scrub	Inceptisols
+1515	Scrub	Inceptisols
+1516	Scrub	Inceptisols
+1517	Scrub	Inceptisols
+1518	Scrub	Inceptisols
+1519	Scrub	Inceptisols
+1520	Scrub	Inceptisols
+1521	Scrub	Alfisols 1
+1522	Scrub	Alfisols 1
+1523	Scrub	Alfisols 1
+1524	Scrub	Entisols
+1525	Scrub	Entisols
+1526	Scrub	Entisols
+1527	Scrub	Entisols
+1528	PaddyR	Entisols
+1529	Scrub	Alfisols 1
+1530	Scrub	Alfisols 1
+1531	Scrub	Alfisols 1
+1532	Scrub	Alfisols 1
+1533	Scrub	Alfisols 1
+1534	Scrub	Alfisols 1
+1535	Scrub	Alfisols 1
+1536	Scrub	Alfisols 1
+1537	Scrub	Alfisols 1
+1538	Scrub	Alfisols 1
+1539	Scrub	Entisols
+1540	Scrub	Alfisols 1
+1541	Scrub	Alfisols 1
+1542	Scrub	Alfisols 1
+1543	Scrub	Alfisols 1
+1544	Scrub	Alfisols 1
+1545	Scrub	Alfisols 1
+1546	Scrub	Inceptisols
+1547	Scrub	Inceptisols
+1548	Scrub	Alfisols 1
+1549	Scrub	Inceptisols
+1550	Scrub	Inceptisols
+1551	Scrub	Alfisols 1
+1552	Scrub	Alfisols 1
+1553	Scrub	Alfisols 1
+1554	PaddyR	Entisols
+1555	PaddyK	Alfisols 2
+1556	Scrub	Alfisols 2
+1557	Scrub	Alfisols 2
+1558	Scrub	Alfisols 2
+1559	Scrub	Inceptisols
+1560	Scrub	Inceptisols
+1561	Scrub	Alfisols 1
+1562	Scrub	Alfisols 1
+1563	Scrub	Entisols
+1564	Scrub	Alfisols 1
+1565	Scrub	Alfisols 1
+1566	Scrub	Alfisols 1
+1567	Scrub	Alfisols 1
+1568	Scrub	Alfisols 1
+1569	Scrub	Alfisols 1
+1570	Scrub	Alfisols 1
+1571	Scrub	Alfisols 1
+1572	PaddyR	Alfisols 1
+1573	Urban	Alfisols 1
+1574	Urban	Alfisols 1
+1575	Urban	Alfisols 1
+1576	PaddyR	Entisols
+1577	Scrub	Entisols
+1578	Scrub	Entisols
+1579	PaddyR	Entisols
+1580	Scrub	Alfisols 1
+1581	Scrub	Entisols
+1582	Scrub	Alfisols 1
+1583	Scrub	Alfisols 1
+1584	Scrub	Alfisols 1
+1585	Scrub	Inceptisols
+1586	Scrub	Inceptisols
+1587	Scrub	Inceptisols
+1588	Scrub	Inceptisols
+1589	Scrub	Alfisols 1
+1590	Scrub	Inceptisols
+1591	Scrub	Inceptisols
+1592	Scrub	Inceptisols
+1593	Scrub	Inceptisols
+1594	Scrub	Inceptisols
+1595	Scrub	Alfisols 1
+1596	Scrub	Alfisols 1
+1597	Scrub	Alfisols 1
+1598	PaddyR	Alfisols 1
+1599	Scrub	Alfisols 1
+1600	Scrub	Entisols
+1601	Scrub	Entisols
+1602	Scrub	Entisols
+1603	Scrub	Alfisols 1
+1604	Scrub	Alfisols 1
+1605	Scrub	Alfisols 1
+1606	Scrub	Alfisols 1
+1607	Scrub	Alfisols 1
+1608	Scrub	Alfisols 1
+1609	Scrub	Alfisols 1
+1610	Scrub	Alfisols 1
+1611	Scrub	Alfisols 1
+1612	Scrub	Alfisols 1
+1613	Scrub	Alfisols 1
+1614	Scrub	Entisols
+1615	Scrub	Alfisols 1
+1616	Scrub	Alfisols 1
+1617	Scrub	Alfisols 1
+1618	Scrub	Alfisols 1
+1619	Scrub	Inceptisols
+1620	Scrub	Inceptisols
+1621	Scrub	Inceptisols
+1622	Scrub	Alfisols 1
+1623	Scrub	Alfisols 1
+1624	Scrub	Inceptisols
+1625	Scrub	Alfisols 1
+1626	Scrub	Alfisols 1
+1627	Scrub	Entisols
+1628	Scrub	Entisols
+1629	PaddyR	Alfisols 2
+1630	Scrub	Alfisols 2
+1631	PaddyR	Alfisols 2
+1632	Scrub	Alfisols 2
+1633	Scrub	Alfisols 2
+1634	Scrub	Inceptisols
+1635	Scrub	Alfisols 1
+1636	Scrub	Alfisols 1
+1637	Scrub	Alfisols 1
+1638	PaddyR	Alfisols 1
+1639	Scrub	Alfisols 1
+1640	Scrub	Alfisols 1
+1641	PaddyR	Alfisols 1
+1642	PaddyK	Alfisols 1
+1643	Scrub	Alfisols 1
+1644	Scrub	Alfisols 1
+1645	Scrub	Alfisols 1
+1646	Scrub	Alfisols 1
+1647	Urban	Alfisols 1
+1648	Urban	Alfisols 1
+1649	Urban	Alfisols 1
+1650	Urban	Entisols
+1651	Scrub	Entisols
+1652	Scrub	Entisols
+1653	Scrub	Entisols
+1654	Scrub	Entisols
+1655	Scrub	Alfisols 1
+1656	Scrub	Alfisols 1
+1657	Scrub	Alfisols 1
+1658	Scrub	Inceptisols
+1659	Fruit	Inceptisols
+1660	Scrub	Inceptisols
+1661	Scrub	Inceptisols
+1662	Scrub	Inceptisols
+1663	Scrub	Inceptisols
+1664	Scrub	Alfisols 1
+1665	Scrub	Inceptisols
+1666	Scrub	Inceptisols
+1667	Scrub	Inceptisols
+1668	Scrub	Inceptisols
+1669	Scrub	Inceptisols
+1670	Scrub	Alfisols 1
+1671	PaddyR	Inceptisols
+1672	Scrub	Alfisols 1
+1673	Scrub	Alfisols 1
+1674	Scrub	Alfisols 1
+1675	Scrub	Entisols
+1676	Scrub	Entisols
+1677	Scrub	Alfisols 1
+1678	Scrub	Alfisols 1
+1679	Scrub	Alfisols 1
+1680	Scrub	Alfisols 1
+1681	Scrub	Alfisols 1
+1682	Scrub	Alfisols 1
+1683	Scrub	Alfisols 1
+1684	Scrub	Alfisols 1
+1685	Scrub	Entisols
+1686	Scrub	Alfisols 1
+1687	Scrub	Entisols
+1688	Scrub	Alfisols 1
+1689	Scrub	Alfisols 1
+1690	Scrub	Alfisols 1
+1691	Scrub	Alfisols 1
+1692	Scrub	Alfisols 1
+1693	Scrub	Alfisols 1
+1694	Scrub	Alfisols 1
+1695	Scrub	Alfisols 1
+1696	Scrub	Alfisols 1
+1697	Scrub	Alfisols 1
+1698	PaddyR	Alfisols 1
+1699	Scrub	Inceptisols
+1700	Scrub	Entisols
+1701	PaddyR	Entisols
+1702	Scrub	Alfisols 2
+1703	Scrub	Alfisols 2
+1704	Scrub	Alfisols 2
+1705	Scrub	Alfisols 2
+1706	Scrub	Alfisols 2
+1707	Scrub	Inceptisols
+1708	Scrub	Inceptisols
+1709	Scrub	Alfisols 1
+1710	Scrub	Entisols
+1711	PaddyR	Entisols
+1712	PaddyR	Alfisols 1
+1713	PaddyK	Alfisols 1
+1714	PaddyR	Alfisols 1
+1715	PaddyR	Alfisols 1
+1716	PaddyK	Alfisols 1
+1717	Urban	Alfisols 1
+1718	Urban	Alfisols 1
+1719	Scrub	Alfisols 1
+1720	Urban	Alfisols 1
+1721	Urban	Alfisols 1
+1722	Urban	Alfisols 1
+1723	Urban	Alfisols 1
+1724	Urban	Entisols
+1725	Scrub	Entisols
+1726	Scrub	Entisols
+1727	Scrub	Entisols
+1728	Scrub	Entisols
+1729	Scrub	Alfisols 1
+1730	Scrub	Alfisols 1
+1731	Scrub	Alfisols 1
+1732	Scrub	Alfisols 1
+1733	Scrub	Inceptisols
+1734	Scrub	Inceptisols
+1735	Scrub	Inceptisols
+1736	Scrub	Inceptisols
+1737	Scrub	Inceptisols
+1738	Scrub	Inceptisols
+1739	Scrub	Alfisols 1
+1740	Fruit	Inceptisols
+1741	Fruit	Inceptisols
+1742	Scrub	Alfisols 1
+1743	Scrub	Alfisols 1
+1744	Scrub	Inceptisols
+1745	Scrub	Inceptisols
+1746	Scrub	Alfisols 1
+1747	Scrub	Entisols
+1748	Scrub	Entisols
+1749	Scrub	Entisols
+1750	Scrub	Alfisols 1
+1751	Scrub	Alfisols 1
+1752	Scrub	Alfisols 1
+1753	Scrub	Alfisols 1
+1754	Scrub	Alfisols 1
+1755	Scrub	Alfisols 1
+1756	Scrub	Alfisols 1
+1757	Scrub	Alfisols 1
+1758	Scrub	Entisols
+1759	Scrub	Entisols
+1760	Scrub	Entisols
+1761	Scrub	Alfisols 1
+1762	Scrub	Alfisols 1
+1763	Scrub	Alfisols 1
+1764	Scrub	Alfisols 1
+1765	Scrub	Alfisols 1
+1766	Scrub	Alfisols 1
+1767	Scrub	Alfisols 1
+1768	Scrub	Inceptisols
+1769	Scrub	Inceptisols
+1770	PaddyR	Inceptisols
+1771	Scrub	Alfisols 1
+1772	Scrub	Entisols
+1773	Scrub	Entisols
+1774	Scrub	Entisols
+1775	PaddyR	Entisols
+1776	Scrub	Alfisols 2
+1777	Scrub	Alfisols 2
+1778	Scrub	Alfisols 2
+1779	Scrub	Inceptisols
+1780	Scrub	Alfisols 2
+1781	Scrub	Alfisols 2
+1782	Scrub	Entisols
+1783	Scrub	Entisols
+1784	PaddyR	Alfisols 1
+1785	PaddyK	Alfisols 1
+1786	PaddyK	Alfisols 1
+1787	PaddyK	Alfisols 1
+1788	Scrub	Alfisols 1
+1789	Urban	Alfisols 1
+1790	Urban	Alfisols 1
+1791	Urban	Alfisols 1
+1792	Urban	Alfisols 1
+1793	Urban	Alfisols 1
+1794	Urban	Alfisols 1
+1795	Urban	Alfisols 1
+1796	Urban	Entisols
+1797	Scrub	Entisols
+1798	Scrub	Entisols
+1799	Scrub	Alfisols 1
+1800	Scrub	Alfisols 1
+1801	Scrub	Alfisols 1
+1802	Scrub	Alfisols 1
+1803	Scrub	Alfisols 1
+1804	Scrub	Alfisols 1
+1805	Scrub	Inceptisols
+1806	Scrub	Inceptisols
+1807	Scrub	Inceptisols
+1808	Scrub	Inceptisols
+1809	Fruit	Inceptisols
+1810	Fruit	Inceptisols
+1811	Fruit	Inceptisols
+1812	Fruit	Alfisols 1
+1813	Fruit	Alfisols 1
+1814	Scrub	Inceptisols
+1815	Scrub	Inceptisols
+1816	Scrub	Inceptisols
+1817	Scrub	Alfisols 1
+1818	Scrub	Alfisols 1
+1819	Scrub	Entisols
+1820	Scrub	Entisols
+1821	Scrub	Alfisols 1
+1822	Scrub	Alfisols 1
+1823	Scrub	Alfisols 1
+1824	Scrub	Alfisols 1
+1825	Scrub	Alfisols 1
+1826	Scrub	Alfisols 1
+1827	Scrub	Alfisols 1
+1828	Scrub	Alfisols 1
+1829	Scrub	Entisols
+1830	Scrub	Alfisols 1
+1831	Scrub	Alfisols 1
+1832	Scrub	Alfisols 1
+1833	Scrub	Entisols
+1834	Scrub	Entisols
+1835	Scrub	Alfisols 1
+1836	Scrub	Alfisols 1
+1837	Fruit	Inceptisols
+1838	Fruit	Alfisols 1
+1839	Scrub	Alfisols 1
+1840	Scrub	Alfisols 1
+1841	Scrub	Alfisols 1
+1842	PaddyR	Alfisols 1
+1843	Scrub	Alfisols 1
+1844	Scrub	Entisols
+1845	PaddyK	Entisols
+1846	Scrub	Entisols
+1847	Scrub	Entisols
+1848	PaddyR	Alfisols 2
+1849	PaddyR	Alfisols 2
+1850	Scrub	Alfisols 2
+1851	Scrub	Alfisols 2
+1852	Scrub	Entisols
+1853	PaddyR	Entisols
+1854	Scrub	Entisols
+1855	PaddyK	Alfisols 1
+1856	PaddyR	Alfisols 1
+1857	Scrub	Alfisols 1
+1858	Scrub	Alfisols 1
+1859	Scrub	Alfisols 1
+1860	Scrub	Alfisols 1
+1861	Scrub	Alfisols 1
+1862	Urban	Alfisols 1
+1863	Urban	Alfisols 1
+1864	Urban	Alfisols 1
+1865	Urban	Alfisols 1
+1866	Scrub	Entisols
+1867	Urban	Entisols
+1868	Scrub	Entisols
+1869	PaddyK	Entisols
+1870	Scrub	Alfisols 1
+1871	Scrub	Alfisols 1
+1872	Scrub	Alfisols 1
+1873	Scrub	Alfisols 1
+1874	Scrub	Alfisols 1
+1875	Scrub	Alfisols 1
+1876	Scrub	Inceptisols
+1877	Scrub	Inceptisols
+1878	Scrub	Inceptisols
+1879	Scrub	Inceptisols
+1880	Fruit	Inceptisols
+1881	Fruit	Inceptisols
+1882	Scrub	Inceptisols
+1883	Scrub	Alfisols 1
+1884	Scrub	Alfisols 1
+1885	Scrub	Inceptisols
+1886	Scrub	Inceptisols
+1887	Scrub	Inceptisols
+1888	Scrub	Inceptisols
+1889	Scrub	Alfisols 1
+1890	PaddyR	Entisols
+1891	PaddyR	Entisols
+1892	Scrub	Alfisols 1
+1893	Scrub	Alfisols 1
+1894	Scrub	Alfisols 1
+1895	Scrub	Alfisols 1
+1896	Scrub	Alfisols 1
+1897	Scrub	Alfisols 1
+1898	Scrub	Alfisols 1
+1899	Scrub	Alfisols 1
+1900	Scrub	Entisols
+1901	Scrub	Alfisols 1
+1902	Scrub	Alfisols 1
+1903	Scrub	Alfisols 1
+1904	Fruit	Alfisols 1
+1905	Scrub	Alfisols 1
+1906	Scrub	Alfisols 1
+1907	Scrub	Alfisols 1
+1908	Scrub	Alfisols 1
+1909	Scrub	Alfisols 1
+1910	Fruit	Inceptisols
+1911	Scrub	Inceptisols
+1912	Scrub	Alfisols 1
+1913	Scrub	Alfisols 1
+1914	Scrub	Alfisols 1
+1915	Scrub	Alfisols 1
+1916	PaddyR	Entisols
+1917	PaddyK	Entisols
+1918	PaddyR	Entisols
+1919	PaddyK	Entisols
+1920	Scrub	Entisols
+1921	Scrub	Tank
+1922	Scrub	Entisols
+1923	PaddyR	Entisols
+1924	Scrub	Entisols
+1925	Scrub	Entisols
+1926	Scrub	Alfisols 1
+1927	Scrub	Alfisols 1
+1928	Scrub	Alfisols 1
+1929	Scrub	Alfisols 1
+1930	Scrub	Alfisols 1
+1931	Scrub	Alfisols 1
+1932	Scrub	Alfisols 1
+1933	Scrub	Alfisols 1
+1934	Urban	Alfisols 1
+1935	Urban	Alfisols 1
+1936	Urban	Alfisols 1
+1937	Urban	Alfisols 1
+1938	Urban	Entisols
+1939	Urban	Entisols
+1940	Scrub	Entisols
+1941	Scrub	Alfisols 1
+1942	Scrub	Alfisols 1
+1943	Scrub	Alfisols 1
+1944	Scrub	Alfisols 1
+1945	Scrub	Alfisols 1
+1946	Scrub	Alfisols 1
+1947	Scrub	Alfisols 1
+1948	Scrub	Alfisols 1
+1949	Scrub	Inceptisols
+1950	Scrub	Inceptisols
+1951	Scrub	Alfisols 1
+1952	Scrub	Inceptisols
+1953	Fruit	Inceptisols
+1954	Scrub	Alfisols 1
+1955	Scrub	Alfisols 1
+1956	Scrub	Alfisols 1
+1957	Scrub	Inceptisols
+1958	Scrub	Inceptisols
+1959	Scrub	Alfisols 1
+1960	Scrub	Alfisols 1
+1961	Scrub	Alfisols 1
+1962	Scrub	Entisols
+1963	PaddyR	Entisols
+1964	Scrub	Entisols
+1965	Scrub	Alfisols 1
+1966	Scrub	Alfisols 1
+1967	Scrub	Alfisols 1
+1968	Scrub	Alfisols 1
+1969	PaddyK	Entisols
+1970	PaddyR	Alfisols 1
+1971	Scrub	Alfisols 1
+1972	Scrub	Entisols
+1973	Scrub	Alfisols 1
+1974	Scrub	Alfisols 1
+1975	Scrub	Alfisols 1
+1976	Fruit	Alfisols 1
+1977	Scrub	Alfisols 1
+1978	Scrub	Alfisols 1
+1979	Scrub	Alfisols 1
+1980	Scrub	Inceptisols
+1981	Scrub	Alfisols 1
+1982	Scrub	Alfisols 1
+1983	Scrub	Alfisols 1
+1984	Scrub	Inceptisols
+1985	Scrub	Alfisols 1
+1986	Scrub	Alfisols 1
+1987	Scrub	Alfisols 1
+1988	Scrub	Inceptisols
+1989	Scrub	Alfisols 1
+1990	Scrub	Alfisols 1
+1991	Scrub	Entisols
+1992	Tank	Entisols
+1993	Tank	Entisols
+1994	Tank	Entisols
+1995	Scrub	Entisols
+1996	PaddyK	Entisols
+1997	Scrub	Entisols
+1998	Scrub	Alfisols 1
+1999	PaddyK	Alfisols 1
+2000	Scrub	Alfisols 1
+2001	Scrub	Alfisols 1
+2002	Scrub	Alfisols 1
+2003	Scrub	Alfisols 1
+2004	Scrub	Alfisols 1
+2005	Scrub	Alfisols 1
+2006	Scrub	Alfisols 1
+2007	Urban	Alfisols 1
+2008	Urban	Alfisols 1
+2009	Urban	Alfisols 1
+2010	Urban	Alfisols 1
+2011	Scrub	Entisols
+2012	Scrub	Entisols
+2013	PaddyR	Entisols
+2014	Scrub	Alfisols 1
+2015	Scrub	Alfisols 1
+2016	Scrub	Alfisols 1
+2017	Scrub	Alfisols 1
+2018	Scrub	Alfisols 1
+2019	Scrub	Alfisols 1
+2020	Scrub	Alfisols 1
+2021	Scrub	Inceptisols
+2022	Scrub	Inceptisols
+2023	Scrub	Inceptisols
+2024	Scrub	Alfisols 1
+2025	Scrub	Alfisols 1
+2026	Scrub	Alfisols 1
+2027	Scrub	Alfisols 1
+2028	Scrub	Alfisols 1
+2029	Scrub	Alfisols 1
+2030	Scrub	Inceptisols
+2031	Scrub	Alfisols 1
+2032	Scrub	Inceptisols
+2033	Scrub	Alfisols 1
+2034	Scrub	Alfisols 1
+2035	Scrub	Alfisols 1
+2036	Scrub	Entisols
+2037	Scrub	Entisols
+2038	Scrub	Alfisols 1
+2039	Scrub	Entisols
+2040	Scrub	Entisols
+2041	Scrub	Entisols
+2042	PaddyR	Entisols
+2043	Scrub	Entisols
+2044	Scrub	Entisols
+2045	Scrub	Alfisols 1
+2046	Scrub	Alfisols 1
+2047	Scrub	Alfisols 1
+2048	PaddyK	Alfisols 1
+2049	PaddyR	Alfisols 1
+2050	Scrub	Alfisols 1
+2051	Scrub	Alfisols 1
+2052	Scrub	Alfisols 1
+2053	Scrub	Inceptisols
+2054	Scrub	Alfisols 1
+2055	Scrub	Alfisols 1
+2056	Scrub	Alfisols 1
+2057	Scrub	Alfisols 1
+2058	Scrub	Alfisols 1
+2059	Scrub	Alfisols 1
+2060	Scrub	Alfisols 1
+2061	Scrub	Alfisols 1
+2062	Scrub	Alfisols 1
+2063	Tank	Alfisols 1
+2064	Scrub	Entisols
+2065	Scrub	Entisols
+2066	Scrub	Entisols
+2067	Scrub	Entisols
+2068	Scrub	Entisols
+2069	Scrub	Entisols
+2070	PaddyR	Alfisols 1
+2071	Scrub	Alfisols 1
+2072	Scrub	Alfisols 1
+2073	Scrub	Alfisols 1
+2074	Scrub	Alfisols 1
+2075	Scrub	Alfisols 1
+2076	Urban	Alfisols 1
+2077	Scrub	Alfisols 1
+2078	Scrub	Alfisols 1
+2079	Scrub	Alfisols 1
+2080	Scrub	Alfisols 1
+2081	Scrub	Alfisols 1
+2082	Scrub	Entisols
+2083	PaddyR	Entisols
+2084	PaddyR	Entisols
+2085	Scrub	Alfisols 1
+2086	Scrub	Alfisols 1
+2087	Scrub	Alfisols 1
+2088	Scrub	Alfisols 1
+2089	Scrub	Alfisols 1
+2090	Scrub	Alfisols 1
+2091	Scrub	Alfisols 1
+2092	Scrub	Alfisols 1
+2093	Scrub	Alfisols 1
+2094	Fruit	Alfisols 1
+2095	Scrub	Alfisols 1
+2096	Scrub	Alfisols 1
+2097	Scrub	Alfisols 1
+2098	Scrub	Alfisols 1
+2099	Scrub	Alfisols 1
+2100	Scrub	Alfisols 1
+2101	Scrub	Inceptisols
+2102	Scrub	Alfisols 1
+2103	Scrub	Inceptisols
+2104	Scrub	Inceptisols
+2105	Scrub	Alfisols 1
+2106	Scrub	Alfisols 1
+2107	Scrub	Entisols
+2108	Scrub	Entisols
+2109	Scrub	Entisols
+2110	Scrub	Entisols
+2111	Scrub	Entisols
+2112	Scrub	Entisols
+2113	Scrub	Alfisols 1
+2114	Scrub	Alfisols 1
+2115	Scrub	Alfisols 1
+2116	Scrub	Entisols
+2117	Scrub	Alfisols 1
+2118	Scrub	Alfisols 1
+2119	Scrub	Alfisols 1
+2120	PaddyK	Alfisols 1
+2121	PaddyR	Alfisols 1
+2122	Scrub	Alfisols 1
+2123	Scrub	Alfisols 1
+2124	Scrub	Alfisols 1
+2125	Scrub	Alfisols 1
+2126	Scrub	Alfisols 1
+2127	Scrub	Alfisols 1
+2128	PaddyR	Alfisols 1
+2129	Scrub	Alfisols 1
+2130	Scrub	Alfisols 1
+2131	Scrub	Alfisols 1
+2132	Scrub	Alfisols 1
+2133	Scrub	Alfisols 1
+2134	Scrub	Alfisols 1
+2135	Scrub	Inceptisols
+2136	Scrub	Alfisols 1
+2137	Scrub	Alfisols 1
+2138	Scrub	Entisols
+2139	Scrub	Entisols
+2140	Scrub	Entisols
+2141	PaddyK	Entisols
+2142	Scrub	Alfisols 1
+2143	Scrub	Alfisols 1
+2144	Scrub	Alfisols 1
+2145	Scrub	Alfisols 1
+2146	Scrub	Alfisols 1
+2147	Scrub	Alfisols 1
+2148	Scrub	Alfisols 1
+2149	Scrub	Alfisols 1
+2150	Scrub	Alfisols 1
+2151	PaddyR	Alfisols 1
+2152	Scrub	Alfisols 1
+2153	Scrub	Entisols
+2154	Scrub	Entisols
+2155	Scrub	Entisols
+2156	Scrub	Alfisols 1
+2157	Scrub	Alfisols 1
+2158	Scrub	Alfisols 1
+2159	Scrub	Alfisols 1
+2160	Scrub	Alfisols 1
+2161	Scrub	Alfisols 1
+2162	Scrub	Alfisols 1
+2163	Scrub	Alfisols 1
+2164	Scrub	Alfisols 1
+2165	Scrub	Alfisols 1
+2166	Fruit	Alfisols 1
+2167	Scrub	Alfisols 1
+2168	PaddyR	Alfisols 1
+2169	Scrub	Alfisols 1
+2170	Scrub	Alfisols 1
+2171	Scrub	Alfisols 1
+2172	Scrub	Inceptisols
+2173	Scrub	Inceptisols
+2174	Scrub	Inceptisols
+2175	Scrub	Alfisols 1
+2176	Scrub	Inceptisols
+2177	Scrub	Inceptisols
+2178	Scrub	Inceptisols
+2179	Scrub	Entisols
+2180	Scrub	Entisols
+2181	PaddyR	Entisols
+2182	Scrub	Alfisols 1
+2183	Scrub	Alfisols 1
+2184	Scrub	Alfisols 1
+2185	Scrub	Alfisols 1
+2186	Scrub	Alfisols 1
+2187	Scrub	Alfisols 1
+2188	Scrub	Alfisols 1
+2189	Scrub	Alfisols 1
+2190	Scrub	Alfisols 1
+2191	Scrub	Alfisols 1
+2192	PaddyR	Alfisols 1
+2193	PaddyR	Alfisols 1
+2194	Scrub	Alfisols 1
+2195	Scrub	Alfisols 1
+2196	Scrub	Alfisols 1
+2197	Scrub	Alfisols 1
+2198	Scrub	Alfisols 1
+2199	Scrub	Alfisols 1
+2200	Scrub	Alfisols 1
+2201	Scrub	Alfisols 1
+2202	Scrub	Alfisols 1
+2203	Scrub	Alfisols 1
+2204	Scrub	Inceptisols
+2205	Scrub	Alfisols 1
+2206	Scrub	Alfisols 1
+2207	Scrub	Alfisols 1
+2208	Scrub	Alfisols 1
+2209	Scrub	Alfisols 1
+2210	Scrub	Entisols
+2211	PaddyR	Entisols
+2212	PaddyR	Entisols
+2213	Scrub	Entisols
+2214	PaddyK	Alfisols 1
+2215	PaddyR	Alfisols 1
+2216	Scrub	Alfisols 1
+2217	Scrub	Alfisols 1
+2218	Scrub	Alfisols 1
+2219	Scrub	Alfisols 1
+2220	Scrub	Alfisols 1
+2221	Scrub	Alfisols 1
+2222	PaddyR	Alfisols 1
+2223	Scrub	Entisols
+2224	Scrub	Entisols
+2225	Scrub	Entisols
+2226	Scrub	Alfisols 1
+2227	Scrub	Alfisols 1
+2228	Scrub	Alfisols 1
+2229	Scrub	Alfisols 1
+2230	Scrub	Alfisols 1
+2231	Scrub	Alfisols 1
+2232	Scrub	Alfisols 1
+2233	Scrub	Alfisols 1
+2234	Scrub	Alfisols 1
+2235	Scrub	Alfisols 1
+2236	Scrub	Alfisols 1
+2237	Scrub	Alfisols 1
+2238	Scrub	Alfisols 1
+2239	Scrub	Alfisols 1
+2240	Scrub	Alfisols 1
+2241	Scrub	Alfisols 1
+2242	Scrub	Alfisols 1
+2243	Scrub	Alfisols 1
+2244	Scrub	Inceptisols
+2245	Scrub	Alfisols 1
+2246	Scrub	Alfisols 1
+2247	Scrub	Alfisols 1
+2248	Scrub	Alfisols 1
+2249	Scrub	Alfisols 1
+2250	Scrub	Entisols
+2251	Scrub	Entisols
+2252	PaddyR	Entisols
+2253	Scrub	Alfisols 1
+2254	Scrub	Alfisols 1
+2255	Scrub	Alfisols 1
+2256	Scrub	Alfisols 1
+2257	Scrub	Alfisols 1
+2258	Scrub	Inceptisols
+2259	Scrub	Inceptisols
+2260	Scrub	Alfisols 1
+2261	Scrub	Alfisols 1
+2262	Scrub	Alfisols 1
+2263	Scrub	Alfisols 1
+2264	Scrub	Alfisols 1
+2265	Scrub	Alfisols 1
+2266	Fruit	Alfisols 1
+2267	Fruit	Inceptisols
+2268	Fruit	Alfisols 1
+2269	Scrub	Alfisols 1
+2270	Scrub	Alfisols 1
+2271	Scrub	Alfisols 1
+2272	Scrub	Alfisols 1
+2273	Scrub	Alfisols 1
+2274	Scrub	Alfisols 1
+2275	Scrub	Alfisols 1
+2276	Scrub	Alfisols 1
+2277	Scrub	Alfisols 1
+2278	Scrub	Alfisols 1
+2279	Scrub	Alfisols 1
+2280	Scrub	Alfisols 1
+2281	Scrub	Entisols
+2282	Scrub	Entisols
+2283	Scrub	Entisols
+2284	Scrub	Alfisols 1
+2285	PaddyR	Alfisols 1
+2286	PaddyR	Alfisols 1
+2287	Scrub	Alfisols 1
+2288	Scrub	Alfisols 1
+2289	Scrub	Alfisols 1
+2290	Scrub	Alfisols 1
+2291	Scrub	Alfisols 1
+2292	Scrub	Entisols
+2293	Scrub	Entisols
+2294	Scrub	Entisols
+2295	Scrub	Entisols
+2296	Scrub	Alfisols 1
+2297	Scrub	Alfisols 1
+2298	Scrub	Alfisols 1
+2299	Scrub	Alfisols 1
+2300	Scrub	Alfisols 1
+2301	Scrub	Alfisols 1
+2302	Scrub	Alfisols 1
+2303	Scrub	Alfisols 1
+2304	Scrub	Alfisols 1
+2305	Scrub	Alfisols 1
+2306	Scrub	Alfisols 1
+2307	Scrub	Alfisols 1
+2308	Scrub	Alfisols 1
+2309	Scrub	Alfisols 1
+2310	Scrub	Alfisols 1
+2311	Scrub	Alfisols 1
+2312	Scrub	Alfisols 1
+2313	Scrub	Alfisols 1
+2314	Scrub	Inceptisols
+2315	Scrub	Alfisols 1
+2316	Scrub	Alfisols 1
+2317	Scrub	Alfisols 1
+2318	Scrub	Alfisols 1
+2319	Scrub	Entisols
+2320	Scrub	Alfisols 1
+2321	Scrub	Alfisols 1
+2322	PaddyK	Alfisols 1
+2323	Scrub	Alfisols 1
+2324	Scrub	Alfisols 1
+2325	Scrub	Inceptisols
+2326	Scrub	Inceptisols
+2327	Scrub	Inceptisols
+2328	Scrub	Inceptisols
+2329	Scrub	Alfisols 1
+2330	Scrub	Alfisols 1
+2331	Scrub	Inceptisols
+2332	Scrub	Alfisols 1
+2333	Scrub	Alfisols 1
+2334	Scrub	Alfisols 1
+2335	Scrub	Alfisols 1
+2336	Scrub	Inceptisols
+2337	Scrub	Inceptisols
+2338	Scrub	Alfisols 1
+2339	Scrub	Alfisols 1
+2340	Scrub	Alfisols 1
+2341	Scrub	Alfisols 1
+2342	Scrub	Alfisols 1
+2343	Scrub	Alfisols 1
+2344	Scrub	Alfisols 1
+2345	Scrub	Alfisols 1
+2346	Scrub	Alfisols 1
+2347	Scrub	Alfisols 1
+2348	Scrub	Alfisols 1
+2349	Scrub	Alfisols 1
+2350	Scrub	Alfisols 1
+2351	Scrub	Entisols
+2352	Scrub	Entisols
+2353	Scrub	Entisols
+2354	Scrub	Entisols
+2355	Scrub	Alfisols 1
+2356	Scrub	Alfisols 1
+2357	Scrub	Alfisols 1
+2358	Scrub	Alfisols 1
+2359	Scrub	Alfisols 1
+2360	Scrub	Alfisols 1
+2361	Scrub	Entisols
+2362	Scrub	Entisols
+2363	Scrub	Entisols
+2364	PaddyK	Entisols
+2365	Scrub	Entisols
+2366	Scrub	Alfisols 1
+2367	Scrub	Alfisols 1
+2368	Scrub	Alfisols 1
+2369	Scrub	Alfisols 1
+2370	Scrub	Alfisols 1
+2371	Scrub	Alfisols 1
+2372	Scrub	Alfisols 1
+2373	Scrub	Alfisols 1
+2374	Scrub	Alfisols 1
+2375	Scrub	Alfisols 1
+2376	Scrub	Alfisols 1
+2377	Scrub	Alfisols 1
+2378	Scrub	Alfisols 1
+2379	Scrub	Alfisols 1
+2380	Scrub	Alfisols 1
+2381	Scrub	Alfisols 1
+2382	Scrub	Alfisols 1
+2383	Scrub	Entisols
+2384	Scrub	Alfisols 1
+2385	Scrub	Inceptisols
+2386	Scrub	Inceptisols
+2387	Scrub	Alfisols 1
+2388	Scrub	Entisols
+2389	Scrub	Entisols
+2390	Scrub	Alfisols 1
+2391	PaddyK	Alfisols 1
+2392	Scrub	Alfisols 1
+2393	Scrub	Alfisols 1
+2394	Scrub	Inceptisols
+2395	Scrub	Inceptisols
+2396	Scrub	Inceptisols
+2397	Scrub	Inceptisols
+2398	Scrub	Inceptisols
+2399	Scrub	Alfisols 1
+2400	Scrub	Alfisols 1
+2401	Scrub	Inceptisols
+2402	Scrub	Alfisols 1
+2403	Scrub	Alfisols 1
+2404	Scrub	Alfisols 1
+2405	Scrub	Inceptisols
+2406	Scrub	Inceptisols
+2407	Scrub	Inceptisols
+2408	Scrub	Alfisols 1
+2409	Scrub	Inceptisols
+2410	Scrub	Alfisols 1
+2411	Scrub	Alfisols 1
+2412	Scrub	Alfisols 1
+2413	Scrub	Alfisols 1
+2414	Scrub	Alfisols 1
+2415	Scrub	Alfisols 1
+2416	Scrub	Alfisols 1
+2417	Scrub	Alfisols 1
+2418	Scrub	Alfisols 1
+2419	Scrub	Alfisols 1
+2420	Scrub	Alfisols 1
+2421	Scrub	Alfisols 1
+2422	Scrub	Entisols
+2423	Scrub	Entisols
+2424	Scrub	Entisols
+2425	Scrub	Entisols
+2426	Scrub	Alfisols 1
+2427	Scrub	Alfisols 1
+2428	Scrub	Alfisols 1
+2429	Scrub	Alfisols 1
+2430	Scrub	Alfisols 1
+2431	Scrub	Alfisols 1
+2432	Scrub	Entisols
+2433	Scrub	Entisols
+2434	PaddyR	Entisols
+2435	Scrub	Entisols
+2436	PaddyR	Alfisols 1
+2437	Scrub	Alfisols 1
+2438	Scrub	Alfisols 1
+2439	Scrub	Alfisols 1
+2440	Scrub	Alfisols 1
+2441	Scrub	Alfisols 1
+2442	Scrub	Alfisols 1
+2443	Scrub	Alfisols 1
+2444	Scrub	Alfisols 1
+2445	Scrub	Alfisols 1
+2446	Scrub	Alfisols 1
+2447	Scrub	Alfisols 1
+2448	Scrub	Alfisols 1
+2449	Scrub	Alfisols 1
+2450	Scrub	Alfisols 1
+2451	Scrub	Alfisols 1
+2452	Scrub	Alfisols 1
+2453	Scrub	Alfisols 1
+2454	Scrub	Entisols
+2455	Scrub	Alfisols 1
+2456	Scrub	Alfisols 1
+2457	Scrub	Alfisols 1
+2458	Scrub	Entisols
+2459	Scrub	Entisols
+2460	Scrub	Alfisols 1
+2461	Scrub	Alfisols 1
+2462	Scrub	Alfisols 1
+2463	Scrub	Alfisols 1
+2464	Scrub	Inceptisols
+2465	Scrub	Inceptisols
+2466	Scrub	Alfisols 1
+2467	Scrub	Inceptisols
+2468	Scrub	Inceptisols
+2469	Scrub	Inceptisols
+2470	Scrub	Inceptisols
+2471	Scrub	Inceptisols
+2472	Scrub	Inceptisols
+2473	Scrub	Inceptisols
+2474	Scrub	Inceptisols
+2475	Scrub	Alfisols 1
+2476	Scrub	Alfisols 1
+2477	Scrub	Inceptisols
+2478	Scrub	Inceptisols
+2479	Scrub	Inceptisols
+2480	Scrub	Inceptisols
+2481	Scrub	Inceptisols
+2482	Scrub	Alfisols 1
+2483	Scrub	Alfisols 1
+2484	PaddyK	Alfisols 1
+2485	Scrub	Alfisols 1
+2486	Scrub	Alfisols 1
+2487	Scrub	Alfisols 1
+2488	Scrub	Alfisols 1
+2489	Scrub	Alfisols 1
+2490	Scrub	Alfisols 1
+2491	Scrub	Alfisols 1
+2492	Scrub	Alfisols 2
+2493	Scrub	Alfisols 2
+2494	Scrub	Alfisols 2
+2495	Scrub	Entisols
+2496	Scrub	Entisols
+2497	Scrub	Entisols
+2498	Scrub	Entisols
+2499	Scrub	Entisols
+2500	Scrub	Entisols
+2501	Scrub	Alfisols 1
+2502	Scrub	Alfisols 1
+2503	Scrub	Alfisols 1
+2504	Scrub	Alfisols 1
+2505	Scrub	Alfisols 1
+2506	Scrub	Entisols
+2507	Scrub	Entisols
+2508	Scrub	Alfisols 1
+2509	Scrub	Alfisols 1
+2510	Scrub	Alfisols 1
+2511	Scrub	Alfisols 1
+2512	Scrub	Alfisols 1
+2513	Scrub	Alfisols 1
+2514	Scrub	Alfisols 1
+2515	Scrub	Alfisols 1
+2516	Scrub	Alfisols 1
+2517	Scrub	Alfisols 1
+2518	Scrub	Alfisols 1
+2519	Scrub	Alfisols 1
+2520	Scrub	Alfisols 1
+2521	Scrub	Alfisols 1
+2522	Scrub	Alfisols 1
+2523	Scrub	Alfisols 1
+2524	Scrub	Alfisols 1
+2525	Scrub	Alfisols 1
+2526	Scrub	Alfisols 1
+2527	Scrub	Alfisols 1
+2528	Scrub	Entisols
+2529	Scrub	Alfisols 1
+2530	Scrub	Alfisols 1
+2531	Scrub	Alfisols 1
+2532	Scrub	Entisols
+2533	Scrub	Alfisols 1
+2534	Scrub	Alfisols 1
+2535	Scrub	Alfisols 1
+2536	Scrub	Alfisols 1
+2537	Scrub	Alfisols 1
+2538	Scrub	Alfisols 1
+2539	Scrub	Alfisols 1
+2540	Scrub	Alfisols 1
+2541	Scrub	Alfisols 1
+2542	Scrub	Alfisols 1
+2543	Scrub	Alfisols 1
+2544	Scrub	Inceptisols
+2545	Scrub	Inceptisols
+2546	Scrub	Alfisols 1
+2547	Scrub	Alfisols 1
+2548	Scrub	Inceptisols
+2549	Scrub	Inceptisols
+2550	Scrub	Alfisols 1
+2551	Scrub	Inceptisols
+2552	Scrub	Inceptisols
+2553	Scrub	Inceptisols
+2554	Scrub	Inceptisols
+2555	Scrub	Inceptisols
+2556	Scrub	Inceptisols
+2557	Scrub	Alfisols 1
+2558	Scrub	Alfisols 1
+2559	Scrub	Alfisols 1
+2560	Scrub	Alfisols 1
+2561	Scrub	Alfisols 1
+2562	Scrub	Alfisols 1
+2563	Scrub	Alfisols 1
+2564	Scrub	Alfisols 1
+2565	Scrub	Alfisols 1
+2566	Scrub	Alfisols 2
+2567	Scrub	Alfisols 2
+2568	Scrub	Alfisols 2
+2569	Scrub	Tank
+2570	Scrub	Entisols
+2571	Scrub	Alfisols 1
+2572	Scrub	Alfisols 1
+2573	Scrub	Alfisols 1
+2574	PaddyR	Entisols
+2575	Scrub	Entisols
+2576	Scrub	Entisols
+2577	Scrub	Entisols
+2578	Scrub	Alfisols 1
+2579	Scrub	Alfisols 1
+2580	Scrub	Alfisols 1
+2581	Scrub	Alfisols 1
+2582	Scrub	Entisols
+2583	Scrub	Entisols
+2584	Scrub	Alfisols 1
+2585	Scrub	Alfisols 1
+2586	Scrub	Alfisols 1
+2587	Scrub	Alfisols 1
+2588	Scrub	Alfisols 1
+2589	Scrub	Alfisols 1
+2590	Scrub	Alfisols 1
+2591	Scrub	Alfisols 1
+2592	Scrub	Alfisols 1
+2593	Scrub	Alfisols 1
+2594	Scrub	Alfisols 1
+2595	Scrub	Alfisols 1
+2596	Scrub	Alfisols 1
+2597	Scrub	Alfisols 1
+2598	Scrub	Alfisols 1
+2599	Scrub	Alfisols 1
+2600	Scrub	Alfisols 1
+2601	Forest	Alfisols 1
+2602	Scrub	Alfisols 1
+2603	Scrub	Alfisols 1
+2604	Scrub	Alfisols 1
+2605	Scrub	Alfisols 1
+2606	Scrub	Alfisols 1
+2607	Scrub	Alfisols 1
+2608	Scrub	Entisols
+2609	Scrub	Alfisols 1
+2610	Scrub	Alfisols 1
+2611	Scrub	Alfisols 1
+2612	Scrub	Alfisols 1
+2613	Scrub	Alfisols 1
+2614	Scrub	Alfisols 1
+2615	Scrub	Alfisols 1
+2616	Scrub	Alfisols 1
+2617	Scrub	Inceptisols
+2618	Scrub	Inceptisols
+2619	Scrub	Inceptisols
+2620	Scrub	Inceptisols
+2621	Scrub	Inceptisols
+2622	Scrub	Inceptisols
+2623	Scrub	Inceptisols
+2624	Scrub	Inceptisols
+2625	Scrub	Inceptisols
+2626	Scrub	Inceptisols
+2627	Scrub	Alfisols 1
+2628	Scrub	Inceptisols
+2629	Scrub	Inceptisols
+2630	Scrub	Inceptisols
+2631	Scrub	Inceptisols
+2632	Scrub	Alfisols 1
+2633	Scrub	Alfisols 1
+2634	Scrub	Alfisols 1
+2635	Scrub	Alfisols 1
+2636	PaddyR	Alfisols 1
+2637	Scrub	Alfisols 1
+2638	Scrub	Alfisols 1
+2639	Scrub	Alfisols 1
+2640	Scrub	Inceptisols
+2641	Scrub	Alfisols 1
+2642	Scrub	Alfisols 1
+2643	Scrub	Alfisols 2
+2644	Scrub	Alfisols 2
+2645	Scrub	Alfisols 2
+2646	Scrub	Tank
+2647	Scrub	Alfisols 1
+2648	Scrub	Alfisols 1
+2649	Scrub	Alfisols 1
+2650	Scrub	Alfisols 1
+2651	Scrub	Alfisols 1
+2652	Scrub	Entisols
+2653	Scrub	Entisols
+2654	Scrub	Entisols
+2655	Scrub	Entisols
+2656	Scrub	Alfisols 1
+2657	Scrub	Alfisols 1
+2658	Scrub	Entisols
+2659	Scrub	Entisols
+2660	Scrub	Alfisols 1
+2661	Scrub	Alfisols 1
+2662	Scrub	Alfisols 1
+2663	Scrub	Alfisols 1
+2664	Scrub	Inceptisols
+2665	Scrub	Alfisols 1
+2666	Scrub	Inceptisols
+2667	Scrub	Alfisols 1
+2668	Urban	Alfisols 1
+2669	Scrub	Alfisols 1
+2670	Scrub	Alfisols 1
+2671	Scrub	Alfisols 1
+2672	Scrub	Alfisols 1
+2673	Scrub	Alfisols 1
+2674	Scrub	Alfisols 1
+2675	Forest	Alfisols 1
+2676	Forest	Alfisols 1
+2677	Forest	Alfisols 1
+2678	Forest	Alfisols 1
+2679	Forest	Alfisols 1
+2680	Scrub	Alfisols 1
+2681	Scrub	Alfisols 1
+2682	Scrub	Alfisols 1
+2683	Scrub	Alfisols 1
+2684	Scrub	Alfisols 1
+2685	PaddyK	Entisols
+2686	Scrub	Alfisols 1
+2687	Scrub	Alfisols 1
+2688	Scrub	Alfisols 1
+2689	Scrub	Entisols
+2690	Scrub	Alfisols 1
+2691	Scrub	Alfisols 1
+2692	Scrub	Alfisols 1
+2693	Scrub	Alfisols 1
+2694	Scrub	Alfisols 1
+2695	Scrub	Inceptisols
+2696	Scrub	Inceptisols
+2697	Scrub	Inceptisols
+2698	Scrub	Inceptisols
+2699	Scrub	Inceptisols
+2700	Scrub	Inceptisols
+2701	Scrub	Inceptisols
+2702	Scrub	Inceptisols
+2703	Scrub	Inceptisols
+2704	Scrub	Alfisols 1
+2705	Scrub	Inceptisols
+2706	Scrub	Inceptisols
+2707	Scrub	Inceptisols
+2708	Scrub	Alfisols 1
+2709	Scrub	Alfisols 1
+2710	Scrub	Alfisols 1
+2711	Scrub	Alfisols 1
+2712	Scrub	Alfisols 1
+2713	Scrub	Alfisols 1
+2714	Scrub	Alfisols 1
+2715	Scrub	Alfisols 1
+2716	Scrub	Alfisols 1
+2717	Scrub	Alfisols 1
+2718	Scrub	Alfisols 1
+2719	Scrub	Alfisols 1
+2720	Scrub	Inceptisols
+2721	Scrub	Inceptisols
+2722	Scrub	Inceptisols
+2723	Scrub	Alfisols 2
+2724	Scrub	Alfisols 2
+2725	Scrub	Alfisols 1
+2726	Scrub	Alfisols 1
+2727	Scrub	Alfisols 1
+2728	Scrub	Alfisols 1
+2729	Scrub	Entisols
+2730	PaddyR	Entisols
+2731	Scrub	Entisols
+2732	Scrub	Entisols
+2733	Scrub	Entisols
+2734	Scrub	Entisols
+2735	Scrub	Entisols
+2736	Scrub	Alfisols 1
+2737	Scrub	Alfisols 1
+2738	Scrub	Alfisols 1
+2739	Scrub	Inceptisols
+2740	Scrub	Inceptisols
+2741	Scrub	Inceptisols
+2742	Scrub	Inceptisols
+2743	Scrub	Inceptisols
+2744	Scrub	Alfisols 1
+2745	Urban	Alfisols 1
+2746	Scrub	Alfisols 1
+2747	Scrub	Alfisols 1
+2748	Scrub	Alfisols 1
+2749	Scrub	Alfisols 1
+2750	Scrub	Alfisols 1
+2751	Forest	Alfisols 1
+2752	Forest	Alfisols 1
+2753	Forest	Alfisols 1
+2754	Forest	Alfisols 1
+2755	Forest	Alfisols 1
+2756	Forest	Alfisols 1
+2757	Forest	Alfisols 1
+2758	Scrub	Alfisols 1
+2759	Scrub	Alfisols 1
+2760	Scrub	Entisols
+2761	Scrub	Alfisols 1
+2762	Scrub	Entisols
+2763	Scrub	Entisols
+2764	Scrub	Alfisols 1
+2765	Scrub	Entisols
+2766	Scrub	Entisols
+2767	Scrub	Alfisols 1
+2768	Scrub	Alfisols 1
+2769	Scrub	Alfisols 1
+2770	Scrub	Alfisols 1
+2771	Scrub	Inceptisols
+2772	Scrub	Inceptisols
+2773	Scrub	Inceptisols
+2774	Scrub	Inceptisols
+2775	Scrub	Inceptisols
+2776	Scrub	Inceptisols
+2777	Scrub	Inceptisols
+2778	Scrub	Inceptisols
+2779	Scrub	Inceptisols
+2780	Scrub	Inceptisols
+2781	Scrub	Inceptisols
+2782	Scrub	Inceptisols
+2783	Scrub	Inceptisols
+2784	Scrub	Inceptisols
+2785	Scrub	Inceptisols
+2786	Scrub	Alfisols 1
+2787	Scrub	Alfisols 1
+2788	Scrub	Alfisols 1
+2789	PaddyR	Alfisols 1
+2790	Scrub	Alfisols 1
+2791	Scrub	Alfisols 1
+2792	Scrub	Alfisols 1
+2793	Scrub	Alfisols 1
+2794	Scrub	Alfisols 1
+2795	Scrub	Inceptisols
+2796	PaddyR	Inceptisols
+2797	Scrub	Alfisols 1
+2798	Scrub	Alfisols 1
+2799	Scrub	Alfisols 2
+2800	Scrub	Alfisols 2
+2801	Scrub	Alfisols 1
+2802	Scrub	Alfisols 1
+2803	Scrub	Alfisols 1
+2804	Scrub	Alfisols 1
+2805	Scrub	Entisols
+2806	Scrub	Entisols
+2807	Scrub	Entisols
+2808	Scrub	Entisols
+2809	Scrub	Entisols
+2810	PaddyR	Entisols
+2811	PaddyK	Alfisols 1
+2812	Urban	Alfisols 1
+2813	Scrub	Alfisols 1
+2814	Scrub	Inceptisols
+2815	Scrub	Inceptisols
+2816	Scrub	Inceptisols
+2817	Scrub	Inceptisols
+2818	Scrub	Inceptisols
+2819	Scrub	Inceptisols
+2820	Scrub	Alfisols 1
+2821	Urban	Alfisols 1
+2822	Scrub	Alfisols 1
+2823	Scrub	Alfisols 1
+2824	Scrub	Alfisols 1
+2825	Forest	Alfisols 1
+2826	Forest	Alfisols 1
+2827	Forest	Alfisols 1
+2828	Forest	Alfisols 1
+2829	Forest	Alfisols 1
+2830	Forest	Alfisols 1
+2831	Forest	Alfisols 1
+2832	Forest	Inceptisols
+2833	Forest	Inceptisols
+2834	Forest	Inceptisols
+2835	Scrub	Alfisols 1
+2836	Scrub	Alfisols 1
+2837	Scrub	Entisols
+2838	PaddyR	Entisols
+2839	Scrub	Entisols
+2840	Scrub	Entisols
+2841	Scrub	Entisols
+2842	Scrub	Entisols
+2843	Scrub	Entisols
+2844	Scrub	Alfisols 1
+2845	Scrub	Alfisols 1
+2846	Scrub	Inceptisols
+2847	Scrub	Inceptisols
+2848	Scrub	Alfisols 1
+2849	Scrub	Inceptisols
+2850	Scrub	Inceptisols
+2851	Scrub	Inceptisols
+2852	Scrub	Inceptisols
+2853	Scrub	Inceptisols
+2854	Scrub	Inceptisols
+2855	Scrub	Inceptisols
+2856	Scrub	Inceptisols
+2857	Scrub	Inceptisols
+2858	Scrub	Inceptisols
+2859	Scrub	Alfisols 1
+2860	Scrub	Alfisols 1
+2861	Scrub	Alfisols 1
+2862	Scrub	Alfisols 1
+2863	Scrub	Alfisols 1
+2864	Scrub	Alfisols 1
+2865	Scrub	Alfisols 1
+2866	Scrub	Alfisols 1
+2867	Scrub	Alfisols 1
+2868	Scrub	Alfisols 1
+2869	Scrub	Alfisols 1
+2870	Scrub	Inceptisols
+2871	Scrub	Alfisols 1
+2872	Scrub	Alfisols 1
+2873	Scrub	Alfisols 1
+2874	Scrub	Alfisols 1
+2875	Scrub	Alfisols 1
+2876	Scrub	Alfisols 1
+2877	Scrub	Alfisols 1
+2878	Scrub	Alfisols 1
+2879	Scrub	Alfisols 1
+2880	Scrub	Alfisols 1
+2881	Scrub	Alfisols 1
+2882	Scrub	Entisols
+2883	Scrub	Entisols
+2884	Scrub	Entisols
+2885	Scrub	Alfisols 1
+2886	Scrub	Alfisols 1
+2887	Scrub	Alfisols 1
+2888	Scrub	Alfisols 1
+2889	Scrub	Inceptisols
+2890	Scrub	Inceptisols
+2891	Scrub	Inceptisols
+2892	Scrub	Inceptisols
+2893	Scrub	Inceptisols
+2894	Scrub	Inceptisols
+2895	Scrub	Inceptisols
+2896	Scrub	Alfisols 1
+2897	Scrub	Alfisols 1
+2898	Scrub	Alfisols 1
+2899	Scrub	Alfisols 1
+2900	Scrub	Alfisols 1
+2901	Forest	Alfisols 1
+2902	Forest	Alfisols 1
+2903	Forest	Alfisols 1
+2904	Forest	Alfisols 1
+2905	Forest	Alfisols 1
+2906	Forest	Alfisols 1
+2907	Forest	Alfisols 1
+2908	Forest	Inceptisols
+2909	Forest	Inceptisols
+2910	Forest	Alfisols 1
+2911	Scrub	Alfisols 1
+2912	Scrub	Alfisols 1
+2913	Scrub	Alfisols 1
+2914	PaddyR	Entisols
+2915	Scrub	Entisols
+2916	Scrub	Alfisols 1
+2917	Scrub	Alfisols 1
+2918	Scrub	Alfisols 1
+2919	Scrub	Entisols
+2920	Scrub	Entisols
+2921	Scrub	Entisols
+2922	Scrub	Alfisols 1
+2923	Scrub	Alfisols 1
+2924	Scrub	Alfisols 1
+2925	Scrub	Inceptisols
+2926	Scrub	Inceptisols
+2927	Scrub	Alfisols 1
+2928	Scrub	Inceptisols
+2929	Scrub	Inceptisols
+2930	Scrub	Inceptisols
+2931	Scrub	Inceptisols
+2932	Scrub	Inceptisols
+2933	Scrub	Inceptisols
+2934	Scrub	Inceptisols
+2935	Scrub	Inceptisols
+2936	Scrub	Inceptisols
+2937	Scrub	Inceptisols
+2938	Scrub	Alfisols 1
+2939	Scrub	Alfisols 1
+2940	Scrub	Inceptisols
+2941	Scrub	Alfisols 1
+2942	PaddyR	Alfisols 1
+2943	Scrub	Inceptisols
+2944	Scrub	Inceptisols
+2945	Scrub	Alfisols 1
+2946	Scrub	Alfisols 1
+2947	Scrub	Alfisols 1
+2948	PaddyR	Alfisols 1
+2949	Scrub	Alfisols 1
+2950	Scrub	Alfisols 1
+2951	Scrub	Alfisols 1
+2952	Scrub	Alfisols 1
+2953	Scrub	Alfisols 1
+2954	Scrub	Alfisols 1
+2955	Scrub	Alfisols 1
+2956	Scrub	Alfisols 1
+2957	Scrub	Entisols
+2958	Scrub	Entisols
+2959	Scrub	Entisols
+2960	Scrub	Entisols
+2961	Scrub	Alfisols 1
+2962	Scrub	Alfisols 1
+2963	Scrub	Alfisols 1
+2964	Scrub	Inceptisols
+2965	Scrub	Inceptisols
+2966	Scrub	Alfisols 1
+2967	Scrub	Alfisols 1
+2968	Scrub	Inceptisols
+2969	Scrub	Inceptisols
+2970	Scrub	Inceptisols
+2971	Scrub	Inceptisols
+2972	Scrub	Inceptisols
+2973	Scrub	Alfisols 1
+2974	Scrub	Alfisols 1
+2975	Scrub	Alfisols 1
+2976	Scrub	Alfisols 1
+2977	Scrub	Alfisols 1
+2978	Forest	Alfisols 1
+2979	Forest	Alfisols 1
+2980	Forest	Alfisols 1
+2981	Forest	Inceptisols
+2982	Forest	Alfisols 1
+2983	Forest	Alfisols 1
+2984	Forest	Alfisols 1
+2985	Forest	Alfisols 1
+2986	Forest	Alfisols 1
+2987	Scrub	Alfisols 1
+2988	Scrub	Alfisols 1
+2989	Scrub	Alfisols 1
+2990	Tank	Entisols
+2991	Tank	Entisols
+2992	Scrub	Alfisols 1
+2993	Scrub	Alfisols 1
+2994	Scrub	Alfisols 1
+2995	Scrub	Alfisols 1
+2996	Scrub	Alfisols 1
+2997	Scrub	Alfisols 1
+2998	Scrub	Alfisols 1
+2999	Scrub	Alfisols 1
+3000	Scrub	Alfisols 1
+3001	Scrub	Alfisols 1
+3002	Scrub	Alfisols 1
+3003	Scrub	Alfisols 1
+3004	Scrub	Alfisols 1
+3005	Scrub	Alfisols 1
+3006	Scrub	Alfisols 1
+3007	Scrub	Inceptisols
+3008	Scrub	Inceptisols
+3009	Scrub	Inceptisols
+3010	Scrub	Inceptisols
+3011	Scrub	Inceptisols
+3012	Scrub	Inceptisols
+3013	Scrub	Inceptisols
+3014	Scrub	Alfisols 1
+3015	Scrub	Alfisols 1
+3016	Scrub	Alfisols 1
+3017	Scrub	Alfisols 1
+3018	Scrub	Inceptisols
+3019	Scrub	Alfisols 1
+3020	Scrub	Alfisols 1
+3021	PaddyR	Alfisols 1
+3022	Scrub	Alfisols 1
+3023	Scrub	Alfisols 1
+3024	Scrub	Alfisols 1
+3025	Scrub	Alfisols 1
+3026	Scrub	Alfisols 1
+3027	Scrub	Alfisols 1
+3028	Scrub	Alfisols 1
+3029	Scrub	Alfisols 1
+3030	Scrub	Alfisols 1
+3031	Scrub	Alfisols 1
+3032	Scrub	Alfisols 1
+3033	Scrub	Entisols
+3034	Scrub	Entisols
+3035	Scrub	Entisols
+3036	Scrub	Entisols
+3037	Scrub	Alfisols 1
+3038	Scrub	Alfisols 1
+3039	Scrub	Alfisols 1
+3040	Scrub	Alfisols 1
+3041	Scrub	Alfisols 1
+3042	Scrub	Alfisols 1
+3043	Fruit	Alfisols 1
+3044	Scrub	Inceptisols
+3045	Scrub	Alfisols 1
+3046	Scrub	Inceptisols
+3047	Scrub	Inceptisols
+3048	Scrub	Inceptisols
+3049	Scrub	Alfisols 1
+3050	Scrub	Alfisols 1
+3051	Scrub	Alfisols 1
+3052	Scrub	Alfisols 1
+3053	Scrub	Alfisols 1
+3054	Scrub	Alfisols 1
+3055	Forest	Alfisols 1
+3056	Forest	Alfisols 1
+3057	Forest	Inceptisols
+3058	Forest	Inceptisols
+3059	Forest	Alfisols 1
+3060	Forest	Inceptisols
+3061	Forest	Inceptisols
+3062	Forest	Alfisols 1
+3063	Forest	Alfisols 1
+3064	PaddyR	Alfisols 1
+3065	Scrub	Entisols
+3066	Tank	Entisols
+3067	Tank	Entisols
+3068	Tank	Alfisols 1
+3069	Scrub	Alfisols 1
+3070	Scrub	Alfisols 1
+3071	Scrub	Alfisols 1
+3072	Scrub	Alfisols 1
+3073	Scrub	Alfisols 1
+3074	Scrub	Alfisols 1
+3075	Scrub	Alfisols 1
+3076	Scrub	Alfisols 1
+3077	Scrub	Alfisols 1
+3078	Scrub	Inceptisols
+3079	Scrub	Inceptisols
+3080	Scrub	Alfisols 1
+3081	Scrub	Inceptisols
+3082	Scrub	Inceptisols
+3083	Scrub	Alfisols 1
+3084	Scrub	Inceptisols
+3085	Scrub	Inceptisols
+3086	Fruit	Inceptisols
+3087	Scrub	Alfisols 1
+3088	Scrub	Alfisols 1
+3089	Scrub	Alfisols 1
+3090	Scrub	Alfisols 1
+3091	Scrub	Alfisols 1
+3092	Scrub	Alfisols 1
+3093	Scrub	Alfisols 1
+3094	Scrub	Inceptisols
+3095	Scrub	Alfisols 1
+3096	PaddyR	Alfisols 1
+3097	Scrub	Alfisols 1
+3098	Scrub	Alfisols 1
+3099	Scrub	Alfisols 1
+3100	Scrub	Alfisols 1
+3101	Scrub	Alfisols 1
+3102	Scrub	Alfisols 1
+3103	Scrub	Alfisols 1
+3104	Scrub	Alfisols 1
+3105	Scrub	Entisols
+3106	Scrub	Alfisols 1
+3107	PaddyR	Alfisols 1
+3108	PaddyR	Entisols
+3109	Scrub	Entisols
+3110	PaddyR	Entisols
+3111	Scrub	Entisols
+3112	Scrub	Entisols
+3113	Scrub	Entisols
+3114	Scrub	Alfisols 1
+3115	Scrub	Alfisols 1
+3116	Scrub	Alfisols 1
+3117	Scrub	Alfisols 1
+3118	Scrub	Alfisols 1
+3119	Scrub	Alfisols 1
+3120	Scrub	Alfisols 1
+3121	Scrub	Inceptisols
+3122	Scrub	Inceptisols
+3123	Scrub	Alfisols 1
+3124	Scrub	Alfisols 1
+3125	Scrub	Alfisols 1
+3126	Scrub	Entisols
+3127	Scrub	Entisols
+3128	Scrub	Alfisols 1
+3129	Scrub	Alfisols 1
+3130	Scrub	Alfisols 1
+3131	Forest	Alfisols 1
+3132	Forest	Alfisols 1
+3133	Forest	Inceptisols
+3134	Forest	Inceptisols
+3135	Forest	Inceptisols
+3136	Forest	Inceptisols
+3137	Forest	Inceptisols
+3138	Forest	Inceptisols
+3139	Forest	Alfisols 1
+3140	Scrub	Alfisols 1
+3141	Scrub	Entisols
+3142	Tank	Entisols
+3143	Tank	Entisols
+3144	Tank	Alfisols 1
+3145	Scrub	Alfisols 1
+3146	Scrub	Alfisols 1
+3147	Scrub	Alfisols 1
+3148	Scrub	Alfisols 1
+3149	Scrub	Alfisols 1
+3150	Scrub	Alfisols 1
+3151	Scrub	Alfisols 1
+3152	Scrub	Alfisols 1
+3153	Scrub	Alfisols 1
+3154	Scrub	Inceptisols
+3155	Scrub	Inceptisols
+3156	Scrub	Inceptisols
+3157	Scrub	Inceptisols
+3158	Scrub	Alfisols 1
+3159	Scrub	Alfisols 1
+3160	Scrub	Alfisols 1
+3161	Scrub	Alfisols 1
+3162	Fruit	Alfisols 1
+3163	Scrub	Alfisols 1
+3164	Scrub	Inceptisols
+3165	Scrub	Alfisols 1
+3166	Scrub	Alfisols 1
+3167	Scrub	Alfisols 1
+3168	Scrub	Alfisols 1
+3169	Scrub	Alfisols 1
+3170	Scrub	Inceptisols
+3171	Scrub	Alfisols 1
+3172	Scrub	Alfisols 1
+3173	Scrub	Alfisols 1
+3174	Scrub	Alfisols 1
+3175	Scrub	Alfisols 1
+3176	Scrub	Alfisols 1
+3177	Scrub	Entisols
+3178	Scrub	Alfisols 2
+3179	Scrub	Entisols
+3180	Scrub	Entisols
+3181	Scrub	Entisols
+3182	Scrub	Entisols
+3183	PaddyR	Entisols
+3184	Scrub	Alfisols 1
+3185	Scrub	Entisols
+3186	Scrub	Entisols
+3187	Scrub	Entisols
+3188	Scrub	Entisols
+3189	PaddyK	Entisols
+3190	Scrub	Entisols
+3191	Scrub	Alfisols 1
+3192	Scrub	Alfisols 1
+3193	Scrub	Alfisols 1
+3194	Scrub	Alfisols 1
+3195	Scrub	Alfisols 1
+3196	Scrub	Inceptisols
+3197	Scrub	Inceptisols
+3198	Scrub	Alfisols 1
+3199	Scrub	Alfisols 1
+3200	Scrub	Alfisols 1
+3201	Scrub	Alfisols 1
+3202	Scrub	Entisols
+3203	Scrub	Alfisols 1
+3204	Scrub	Alfisols 1
+3205	Scrub	Alfisols 1
+3206	Scrub	Alfisols 1
+3207	Scrub	Alfisols 1
+3208	Forest	Alfisols 1
+3209	Forest	Inceptisols
+3210	Forest	Inceptisols
+3211	Forest	Inceptisols
+3212	Forest	Inceptisols
+3213	Forest	Inceptisols
+3214	Forest	Inceptisols
+3215	Forest	Alfisols 1
+3216	Scrub	Alfisols 1
+3217	Tank	Entisols
+3218	Tank	Entisols
+3219	Tank	Alfisols 1
+3220	Tank	Alfisols 1
+3221	Scrub	Alfisols 1
+3222	Scrub	Alfisols 1
+3223	Scrub	Alfisols 1
+3224	Scrub	Alfisols 1
+3225	Scrub	Alfisols 1
+3226	Scrub	Alfisols 1
+3227	Scrub	Alfisols 1
+3228	Scrub	Alfisols 1
+3229	Scrub	Alfisols 1
+3230	Urban	Alfisols 1
+3231	Urban	Inceptisols
+3232	Urban	Alfisols 1
+3233	Scrub	Alfisols 1
+3234	Scrub	Entisols
+3235	Scrub	Alfisols 1
+3236	Scrub	Alfisols 1
+3237	Fruit	Inceptisols
+3238	Scrub	Inceptisols
+3239	Urban	Alfisols 1
+3240	Scrub	Inceptisols
+3241	Scrub	Alfisols 1
+3242	Scrub	Alfisols 1
+3243	Scrub	Alfisols 1
+3244	Scrub	Alfisols 1
+3245	Scrub	Alfisols 1
+3246	Scrub	Alfisols 1
+3247	Scrub	Alfisols 1
+3248	Scrub	Alfisols 1
+3249	Scrub	Alfisols 1
+3250	Scrub	Alfisols 1
+3251	Scrub	Alfisols 1
+3252	Scrub	Alfisols 1
+3253	Scrub	Alfisols 1
+3254	Scrub	Alfisols 1
+3255	Scrub	Alfisols 2
+3256	Scrub	Alfisols 1
+3257	Scrub	Alfisols 1
+3258	Scrub	Alfisols 1
+3259	Scrub	Alfisols 1
+3260	Scrub	Alfisols 1
+3261	Scrub	Alfisols 1
+3262	Scrub	Alfisols 1
+3263	PaddyK	Entisols
+3264	Scrub	Entisols
+3265	PaddyR	Entisols
+3266	PaddyR	Entisols
+3267	Scrub	Entisols
+3268	Scrub	Entisols
+3269	PaddyK	Entisols
+3270	Scrub	Alfisols 1
+3271	Scrub	Alfisols 1
+3272	Scrub	Alfisols 1
+3273	Scrub	Alfisols 1
+3274	Scrub	Inceptisols
+3275	Scrub	Alfisols 1
+3276	Scrub	Alfisols 1
+3277	Scrub	Alfisols 1
+3278	Scrub	Entisols
+3279	Scrub	Entisols
+3280	Scrub	Alfisols 1
+3281	Scrub	Alfisols 1
+3282	Scrub	Alfisols 1
+3283	Scrub	Alfisols 1
+3284	Scrub	Alfisols 1
+3285	Forest	Alfisols 1
+3286	Forest	Alfisols 1
+3287	Forest	Alfisols 1
+3288	Forest	Alfisols 1
+3289	Forest	Alfisols 1
+3290	Forest	Inceptisols
+3291	Forest	Inceptisols
+3292	Forest	Alfisols 1
+3293	Scrub	Entisols
+3294	Tank	Tank
+3295	Tank	Tank
+3296	Tank	Alfisols 1
+3297	Tank	Alfisols 1
+3298	Scrub	Alfisols 1
+3299	Scrub	Alfisols 1
+3300	Scrub	Alfisols 1
+3301	Scrub	Alfisols 1
+3302	Scrub	Alfisols 1
+3303	Scrub	Alfisols 1
+3304	Scrub	Alfisols 1
+3305	Scrub	Inceptisols
+3306	Scrub	Inceptisols
+3307	Scrub	Inceptisols
+3308	Scrub	Alfisols 1
+3309	Scrub	Entisols
+3310	Scrub	Alfisols 1
+3311	Scrub	Entisols
+3312	Scrub	Alfisols 1
+3313	PaddyR	Alfisols 1
+3314	Scrub	Alfisols 1
+3315	Fruit	Alfisols 1
+3316	Fruit	Alfisols 1
+3317	Scrub	Inceptisols
+3318	Scrub	Inceptisols
+3319	Fruit	Inceptisols
+3320	Fruit	Inceptisols
+3321	Scrub	Alfisols 1
+3322	Scrub	Alfisols 1
+3323	Scrub	Alfisols 1
+3324	Scrub	Inceptisols
+3325	Scrub	Alfisols 1
+3326	Scrub	Alfisols 1
+3327	Scrub	Alfisols 1
+3328	Scrub	Alfisols 1
+3329	Scrub	Alfisols 1
+3330	Scrub	Alfisols 1
+3331	Scrub	Alfisols 1
+3332	Scrub	Alfisols 1
+3333	Scrub	Alfisols 1
+3334	Scrub	Alfisols 1
+3335	Scrub	Alfisols 1
+3336	Scrub	Inceptisols
+3337	Scrub	Alfisols 1
+3338	Scrub	Alfisols 1
+3339	Scrub	Alfisols 1
+3340	Scrub	Entisols
+3341	Scrub	Entisols
+3342	Scrub	Entisols
+3343	PaddyR	Entisols
+3344	Scrub	Entisols
+3345	Scrub	Entisols
+3346	PaddyK	Entisols
+3347	PaddyR	Entisols
+3348	PaddyR	Alfisols 1
+3349	PaddyK	Alfisols 1
+3350	Scrub	Alfisols 1
+3351	Scrub	Alfisols 1
+3352	Scrub	Alfisols 1
+3353	Scrub	Alfisols 1
+3354	Scrub	Alfisols 1
+3355	Scrub	Alfisols 1
+3356	Scrub	Entisols
+3357	Scrub	Entisols
+3358	Scrub	Alfisols 1
+3359	Scrub	Alfisols 1
+3360	Scrub	Alfisols 1
+3361	Scrub	Alfisols 1
+3362	Scrub	Alfisols 1
+3363	Scrub	Alfisols 1
+3364	Forest	Alfisols 1
+3365	Forest	Alfisols 1
+3366	Forest	Inceptisols
+3367	Forest	Inceptisols
+3368	Forest	Alfisols 1
+3369	Forest	Alfisols 1
+3370	Scrub	Alfisols 1
+3371	Scrub	Entisols
+3372	Scrub	Entisols
+3373	Scrub	Tank
+3374	Tank	Alfisols 1
+3375	Tank	Alfisols 1
+3376	Scrub	Alfisols 1
+3377	Scrub	Alfisols 1
+3378	Scrub	Alfisols 1
+3379	Scrub	Alfisols 1
+3380	Scrub	Alfisols 1
+3381	Scrub	Alfisols 1
+3382	Scrub	Alfisols 1
+3383	Scrub	Alfisols 1
+3384	Urban	Alfisols 1
+3385	Urban	Alfisols 1
+3386	Scrub	Alfisols 1
+3387	Scrub	Entisols
+3388	Scrub	Entisols
+3389	Scrub	Entisols
+3390	Scrub	Alfisols 1
+3391	PaddyK	Alfisols 1
+3392	Scrub	Alfisols 1
+3393	Scrub	Alfisols 1
+3394	Fruit	Alfisols 1
+3395	Fruit	Alfisols 1
+3396	Fruit	Alfisols 1
+3397	Fruit	Inceptisols
+3398	Fruit	Inceptisols
+3399	Scrub	Alfisols 1
+3400	Scrub	Alfisols 1
+3401	Scrub	Alfisols 1
+3402	Scrub	Alfisols 1
+3403	Scrub	Alfisols 1
+3404	Scrub	Alfisols 1
+3405	Scrub	Alfisols 1
+3406	Scrub	Alfisols 1
+3407	Scrub	Alfisols 1
+3408	Scrub	Alfisols 1
+3409	Scrub	Alfisols 1
+3410	Scrub	Alfisols 1
+3411	Scrub	Alfisols 1
+3412	Scrub	Alfisols 1
+3413	PaddyK	Alfisols 2
+3414	Scrub	Alfisols 2
+3415	Scrub	Inceptisols
+3416	Scrub	Alfisols 1
+3417	Scrub	Entisols
+3418	Scrub	Alfisols 2
+3419	Scrub	Alfisols 2
+3420	PaddyR	Alfisols 2
+3421	Scrub	Entisols
+3422	Scrub	Entisols
+3423	Scrub	Entisols
+3424	Scrub	Entisols
+3425	Scrub	Entisols
+3426	PaddyK	Entisols
+3427	PaddyK	Entisols
+3428	Scrub	Entisols
+3429	Scrub	Entisols
+3430	Scrub	Alfisols 1
+3431	Scrub	Alfisols 1
+3432	Urban	Alfisols 1
+3433	Urban	Alfisols 1
+3434	Urban	Entisols
+3435	Scrub	Entisols
+3436	Scrub	Alfisols 1
+3437	Scrub	Alfisols 1
+3438	Scrub	Alfisols 1
+3439	Scrub	Alfisols 1
+3440	Scrub	Alfisols 1
+3441	Scrub	Alfisols 1
+3442	Scrub	Alfisols 1
+3443	Scrub	Alfisols 1
+3444	Forest	Inceptisols
+3445	Forest	Inceptisols
+3446	Forest	Inceptisols
+3447	Forest	Inceptisols
+3448	Forest	Inceptisols
+3449	Scrub	Entisols
+3450	Scrub	Alfisols 1
+3451	Scrub	Alfisols 1
+3452	Scrub	Alfisols 1
+3453	Scrub	Alfisols 1
+3454	Tank	Alfisols 1
+3455	Scrub	Alfisols 1
+3456	Scrub	Alfisols 1
+3457	Scrub	Alfisols 1
+3458	Scrub	Alfisols 1
+3459	Scrub	Alfisols 1
+3460	Scrub	Alfisols 1
+3461	Scrub	Alfisols 1
+3462	Scrub	Alfisols 1
+3463	Urban	Alfisols 1
+3464	PaddyK	Alfisols 1
+3465	Scrub	Alfisols 1
+3466	PaddyR	Tank
+3467	Tank	Entisols
+3468	Tank	Alfisols 1
+3469	Scrub	Alfisols 1
+3470	Scrub	Alfisols 1
+3471	Scrub	Alfisols 1
+3472	Scrub	Alfisols 1
+3473	Scrub	Alfisols 1
+3474	Fruit	Alfisols 1
+3475	Fruit	Alfisols 1
+3476	Fruit	Inceptisols
+3477	Fruit	Alfisols 1
+3478	Scrub	Alfisols 1
+3479	Scrub	Alfisols 1
+3480	Scrub	Alfisols 1
+3481	Scrub	Alfisols 1
+3482	Scrub	Alfisols 1
+3483	Scrub	Alfisols 1
+3484	Scrub	Alfisols 1
+3485	Scrub	Alfisols 1
+3486	Scrub	Alfisols 1
+3487	Scrub	Alfisols 1
+3488	Scrub	Alfisols 1
+3489	Scrub	Entisols
+3490	Scrub	Alfisols 2
+3491	Scrub	Tank
+3492	Scrub	Entisols
+3493	Scrub	Alfisols 2
+3494	Scrub	Alfisols 2
+3495	Scrub	Alfisols 2
+3496	Scrub	Alfisols 2
+3497	Scrub	Alfisols 2
+3498	Scrub	Alfisols 2
+3499	Scrub	Alfisols 2
+3500	PaddyR	Entisols
+3501	PaddyR	Entisols
+3502	PaddyR	Entisols
+3503	Scrub	Entisols
+3504	Scrub	Entisols
+3505	Scrub	Entisols
+3506	Scrub	Entisols
+3507	PaddyK	Entisols
+3508	Scrub	Entisols
+3509	Scrub	Entisols
+3510	Urban	Alfisols 1
+3511	Urban	Entisols
+3512	PaddyR	Entisols
+3513	PaddyK	Entisols
+3514	PaddyR	Alfisols 1
+3515	Scrub	Alfisols 1
+3516	Scrub	Alfisols 1
+3517	Scrub	Alfisols 1
+3518	Scrub	Alfisols 1
+3519	Scrub	Alfisols 1
+3520	Scrub	Alfisols 1
+3521	Scrub	Alfisols 1
+3522	Forest	Alfisols 1
+3523	Forest	Alfisols 1
+3524	Forest	Inceptisols
+3525	Forest	Inceptisols
+3526	Forest	Inceptisols
+3527	Forest	Entisols
+3528	Scrub	Alfisols 1
+3529	Scrub	Alfisols 1
+3530	Scrub	Alfisols 1
+3531	Scrub	Alfisols 1
+3532	Scrub	Alfisols 1
+3533	Scrub	Alfisols 1
+3534	Scrub	Alfisols 1
+3535	Scrub	Alfisols 1
+3536	Scrub	Alfisols 1
+3537	Scrub	Alfisols 1
+3538	Scrub	Alfisols 1
+3539	Scrub	Alfisols 1
+3540	Scrub	Alfisols 1
+3541	PaddyR	Alfisols 1
+3542	PaddyK	Alfisols 1
+3543	Scrub	Entisols
+3544	PaddyR	Entisols
+3545	PaddyR	Entisols
+3546	Tank	Alfisols 1
+3547	Scrub	Alfisols 1
+3548	Scrub	Alfisols 1
+3549	Scrub	Alfisols 1
+3550	Scrub	Alfisols 1
+3551	Scrub	Alfisols 1
+3552	Fruit	Alfisols 1
+3553	Fruit	Alfisols 1
+3554	Fruit	Alfisols 1
+3555	Fruit	Alfisols 1
+3556	Scrub	Alfisols 1
+3557	Scrub	Inceptisols
+3558	Scrub	Alfisols 1
+3559	Scrub	Alfisols 1
+3560	Scrub	Alfisols 1
+3561	Scrub	Inceptisols
+3562	Scrub	Inceptisols
+3563	Scrub	Inceptisols
+3564	Scrub	Inceptisols
+3565	Scrub	Inceptisols
+3566	Scrub	Inceptisols
+3567	Scrub	Alfisols 2
+3568	Scrub	Tank
+3569	Scrub	Tank
+3570	Scrub	Entisols
+3571	Scrub	Alfisols 2
+3572	Scrub	Alfisols 2
+3573	Scrub	Alfisols 2
+3574	Scrub	Alfisols 2
+3575	Scrub	Alfisols 2
+3576	Scrub	Alfisols 2
+3577	Scrub	Alfisols 2
+3578	Scrub	Alfisols 2
+3579	PaddyR	Entisols
+3580	Scrub	Entisols
+3581	PaddyR	Entisols
+3582	PaddyR	Entisols
+3583	Scrub	Entisols
+3584	Scrub	Entisols
+3585	Scrub	Entisols
+3586	Scrub	Entisols
+3587	Scrub	Entisols
+3588	Scrub	Entisols
+3589	Scrub	Entisols
+3590	PaddyK	Entisols
+3591	Scrub	Entisols
+3592	Scrub	Alfisols 1
+3593	PaddyR	Alfisols 1
+3594	Scrub	Alfisols 1
+3595	Scrub	Alfisols 1
+3596	Scrub	Alfisols 1
+3597	Scrub	Alfisols 1
+3598	Scrub	Alfisols 1
+3599	Scrub	Alfisols 1
+3600	Scrub	Alfisols 1
+3601	Forest	Inceptisols
+3602	Forest	Inceptisols
+3603	Forest	Alfisols 1
+3604	Forest	Entisols
+3605	Scrub	Alfisols 1
+3606	Scrub	Alfisols 1
+3607	Scrub	Alfisols 1
+3608	Scrub	Alfisols 1
+3609	Scrub	Alfisols 1
+3610	Scrub	Alfisols 1
+3611	Scrub	Alfisols 1
+3612	Scrub	Alfisols 1
+3613	Scrub	Alfisols 1
+3614	Scrub	Alfisols 1
+3615	Scrub	Alfisols 1
+3616	Scrub	Alfisols 1
+3617	Scrub	Alfisols 1
+3618	PaddyK	Alfisols 1
+3619	PaddyK	Alfisols 1
+3620	PaddyR	Alfisols 1
+3621	PaddyR	Entisols
+3622	PaddyR	Alfisols 1
+3623	PaddyK	Alfisols 1
+3624	Scrub	Alfisols 1
+3625	Scrub	Alfisols 1
+3626	Scrub	Alfisols 1
+3627	Scrub	Alfisols 1
+3628	Scrub	Alfisols 1
+3629	Scrub	Alfisols 1
+3630	Scrub	Alfisols 1
+3631	Scrub	Inceptisols
+3632	Scrub	Alfisols 1
+3633	Scrub	Alfisols 1
+3634	Scrub	Alfisols 1
+3635	Scrub	Inceptisols
+3636	Scrub	Inceptisols
+3637	Scrub	Inceptisols
+3638	Scrub	Alfisols 1
+3639	Scrub	Alfisols 1
+3640	Scrub	Inceptisols
+3641	Scrub	Inceptisols
+3642	Scrub	Inceptisols
+3643	Scrub	Alfisols 2
+3644	Scrub	Alfisols 2
+3645	Scrub	Alfisols 2
+3646	Scrub	Alfisols 2
+3647	Scrub	Alfisols 2
+3648	Scrub	Alfisols 2
+3649	Scrub	Alfisols 2
+3650	Scrub	Alfisols 2
+3651	Scrub	Alfisols 2
+3652	Scrub	Alfisols 2
+3653	Scrub	Alfisols 2
+3654	Scrub	Alfisols 2
+3655	Scrub	Alfisols 1
+3656	PaddyK	Alfisols 1
+3657	PaddyK	Entisols
+3658	Scrub	Entisols
+3659	Scrub	Entisols
+3660	PaddyR	Entisols
+3661	PaddyR	Entisols
+3662	Scrub	Entisols
+3663	Scrub	Entisols
+3664	Scrub	Entisols
+3665	PaddyR	Entisols
+3666	PaddyK	Entisols
+3667	PaddyR	Entisols
+3668	Scrub	Alfisols 1
+3669	Scrub	Alfisols 1
+3670	PaddyR	Alfisols 1
+3671	Scrub	Alfisols 1
+3672	Scrub	Alfisols 1
+3673	Scrub	Alfisols 1
+3674	Scrub	Alfisols 1
+3675	Scrub	Alfisols 1
+3676	Scrub	Alfisols 1
+3677	Scrub	Alfisols 1
+3678	Forest	Inceptisols
+3679	Forest	Inceptisols
+3680	Forest	Entisols
+3681	Scrub	Entisols
+3682	Scrub	Alfisols 1
+3683	Scrub	Alfisols 1
+3684	Scrub	Alfisols 1
+3685	Scrub	Alfisols 1
+3686	Scrub	Alfisols 1
+3687	Scrub	Alfisols 1
+3688	Scrub	Alfisols 1
+3689	Scrub	Alfisols 1
+3690	Scrub	Alfisols 1
+3691	Scrub	Alfisols 1
+3692	Scrub	Alfisols 1
+3693	PaddyR	Alfisols 1
+3694	Scrub	Alfisols 1
+3695	PaddyK	Alfisols 1
+3696	PaddyR	Entisols
+3697	PaddyR	Entisols
+3698	PaddyR	Alfisols 1
+3699	PaddyR	Alfisols 1
+3700	Fruit	Alfisols 1
+3701	Fruit	Alfisols 1
+3702	Scrub	Alfisols 1
+3703	Scrub	Inceptisols
+3704	Scrub	Inceptisols
+3705	Scrub	Inceptisols
+3706	Scrub	Inceptisols
+3707	Scrub	Inceptisols
+3708	Scrub	Alfisols 1
+3709	Scrub	Alfisols 1
+3710	Scrub	Inceptisols
+3711	Scrub	Inceptisols
+3712	Scrub	Alfisols 1
+3713	Scrub	Inceptisols
+3714	Scrub	Inceptisols
+3715	Scrub	Alfisols 2
+3716	Scrub	Alfisols 2
+3717	Scrub	Alfisols 2
+3718	Scrub	Alfisols 2
+3719	Scrub	Alfisols 2
+3720	Scrub	Alfisols 2
+3721	Scrub	Alfisols 2
+3722	Scrub	Alfisols 2
+3723	Scrub	Alfisols 2
+3724	Scrub	Alfisols 2
+3725	Scrub	Alfisols 2
+3726	Scrub	Alfisols 2
+3727	Scrub	Alfisols 2
+3728	Scrub	Alfisols 2
+3729	Urban	Alfisols 1
+3730	Scrub	Alfisols 1
+3731	PaddyR	Alfisols 1
+3732	Scrub	Entisols
+3733	Scrub	Entisols
+3734	Scrub	Entisols
+3735	Scrub	Entisols
+3736	Scrub	Entisols
+3737	Scrub	Entisols
+3738	Scrub	Entisols
+3739	Scrub	Entisols
+3740	Scrub	Entisols
+3741	Scrub	Entisols
+3742	Scrub	Alfisols 1
+3743	Scrub	Alfisols 1
+3744	Scrub	Alfisols 1
+3745	Scrub	Alfisols 1
+3746	Urban	Alfisols 1
+3747	Scrub	Alfisols 1
+3748	Scrub	Alfisols 1
+3749	Urban	Alfisols 1
+3750	Scrub	Alfisols 1
+3751	Scrub	Alfisols 1
+3752	Forest	Alfisols 1
+3753	Forest	Alfisols 1
+3754	Forest	Entisols
+3755	Scrub	Entisols
+3756	Scrub	Entisols
+3757	Scrub	Alfisols 1
+3758	Scrub	Alfisols 1
+3759	Scrub	Alfisols 1
+3760	Scrub	Alfisols 1
+3761	Scrub	Alfisols 1
+3762	Scrub	Alfisols 1
+3763	Scrub	Alfisols 1
+3764	Scrub	Alfisols 1
+3765	Scrub	Alfisols 1
+3766	Scrub	Alfisols 1
+3767	PaddyR	Alfisols 1
+3768	PaddyK	Alfisols 1
+3769	Scrub	Entisols
+3770	PaddyR	Entisols
+3771	PaddyR	Alfisols 1
+3772	PaddyR	Alfisols 1
+3773	PaddyR	Alfisols 1
+3774	PaddyK	Alfisols 1
+3775	Scrub	Alfisols 1
+3776	Fruit	Inceptisols
+3777	Fruit	Inceptisols
+3778	Fruit	Inceptisols
+3779	Fruit	Inceptisols
+3780	Fruit	Inceptisols
+3781	Fruit	Inceptisols
+3782	Scrub	Alfisols 1
+3783	Scrub	Inceptisols
+3784	Scrub	Inceptisols
+3785	Scrub	Inceptisols
+3786	Scrub	Inceptisols
+3787	Scrub	Alfisols 2
+3788	Scrub	Alfisols 2
+3789	Scrub	Alfisols 2
+3790	Scrub	Alfisols 2
+3791	Scrub	Alfisols 2
+3792	Scrub	Alfisols 2
+3793	Scrub	Alfisols 2
+3794	Scrub	Alfisols 2
+3795	Scrub	Alfisols 2
+3796	Scrub	Alfisols 2
+3797	Scrub	Alfisols 2
+3798	Scrub	Alfisols 2
+3799	Scrub	Alfisols 2
+3800	Scrub	Alfisols 1
+3801	Scrub	Alfisols 1
+3802	Scrub	Alfisols 1
+3803	Scrub	Alfisols 1
+3804	Scrub	Alfisols 1
+3805	Scrub	Alfisols 1
+3806	Scrub	Alfisols 1
+3807	Scrub	Alfisols 1
+3808	Scrub	Entisols
+3809	Scrub	Entisols
+3810	Scrub	Entisols
+3811	Scrub	Entisols
+3812	Scrub	Entisols
+3813	Scrub	Entisols
+3814	Scrub	Entisols
+3815	Scrub	Entisols
+3816	Scrub	Entisols
+3817	Scrub	Alfisols 1
+3818	PaddyR	Alfisols 1
+3819	Scrub	Alfisols 1
+3820	Scrub	Alfisols 1
+3821	Scrub	Alfisols 1
+3822	Scrub	Alfisols 1
+3823	Scrub	Alfisols 1
+3824	Scrub	Alfisols 1
+3825	Scrub	Alfisols 1
+3826	Scrub	Entisols
+3827	Scrub	Entisols
+3828	Scrub	Entisols
+3829	Scrub	Entisols
+3830	Scrub	Entisols
+3831	Scrub	Alfisols 1
+3832	Scrub	Alfisols 1
+3833	Scrub	Alfisols 1
+3834	Scrub	Alfisols 1
+3835	Scrub	Alfisols 1
+3836	Scrub	Alfisols 1
+3837	Scrub	Alfisols 1
+3838	Scrub	Alfisols 1
+3839	PaddyR	Alfisols 1
+3840	Scrub	Entisols
+3841	Scrub	Entisols
+3842	PaddyK	Entisols
+3843	PaddyR	Entisols
+3844	PaddyR	Entisols
+3845	PaddyR	Alfisols 1
+3846	PaddyK	Alfisols 1
+3847	Scrub	Inceptisols
+3848	Scrub	Inceptisols
+3849	Scrub	Inceptisols
+3850	Scrub	Inceptisols
+3851	Scrub	Inceptisols
+3852	Scrub	Inceptisols
+3853	Scrub	Alfisols 1
+3854	Scrub	Alfisols 1
+3855	Scrub	Inceptisols
+3856	Scrub	Alfisols 1
+3857	Scrub	Inceptisols
+3858	Scrub	Inceptisols
+3859	Scrub	Alfisols 2
+3860	Scrub	Alfisols 2
+3861	Scrub	Alfisols 2
+3862	Scrub	Alfisols 2
+3863	Scrub	Alfisols 2
+3864	Scrub	Alfisols 2
+3865	Scrub	Alfisols 2
+3866	Scrub	Alfisols 2
+3867	Scrub	Alfisols 2
+3868	Scrub	Alfisols 2
+3869	Scrub	Alfisols 2
+3870	Scrub	Alfisols 1
+3871	PaddyR	Alfisols 1
+3872	Scrub	Alfisols 1
+3873	Scrub	Alfisols 1
+3874	Scrub	Alfisols 1
+3875	Scrub	Alfisols 1
+3876	Scrub	Alfisols 1
+3877	Scrub	Alfisols 1
+3878	Scrub	Alfisols 1
+3879	Scrub	Alfisols 1
+3880	Scrub	Alfisols 1
+3881	Scrub	Alfisols 1
+3882	Scrub	Entisols
+3883	Scrub	Entisols
+3884	PaddyR	Entisols
+3885	Scrub	Entisols
+3886	Scrub	Entisols
+3887	Scrub	Entisols
+3888	Scrub	Entisols
+3889	Scrub	Entisols
+3890	Scrub	Alfisols 1
+3891	Scrub	Alfisols 1
+3892	Scrub	Alfisols 1
+3893	Scrub	Alfisols 1
+3894	Scrub	Alfisols 1
+3895	Scrub	Alfisols 1
+3896	Scrub	Alfisols 1
+3897	Scrub	Alfisols 1
+3898	Scrub	Entisols
+3899	Scrub	Entisols
+3900	Scrub	Entisols
+3901	Scrub	Entisols
+3902	Scrub	Entisols
+3903	Scrub	Entisols
+3904	Scrub	Entisols
+3905	Scrub	Alfisols 1
+3906	Scrub	Alfisols 1
+3907	Scrub	Alfisols 1
+3908	Scrub	Alfisols 1
+3909	Scrub	Alfisols 1
+3910	Scrub	Entisols
+3911	Scrub	Entisols
+3912	Scrub	Entisols
+3913	Scrub	Alfisols 1
+3914	PaddyK	Alfisols 1
+3915	PaddyR	Inceptisols
+3916	PaddyR	Alfisols 1
+3917	PaddyR	Inceptisols
+3918	PaddyK	Inceptisols
+3919	Scrub	Alfisols 1
+3920	Scrub	Alfisols 1
+3921	Scrub	Alfisols 1
+3922	Urban	Alfisols 1
+3923	Urban	Alfisols 1
+3924	Scrub	Inceptisols
+3925	Scrub	Inceptisols
+3926	Scrub	Alfisols 1
+3927	Scrub	Alfisols 1
+3928	Scrub	Alfisols 1
+3929	Scrub	Alfisols 1
+3930	Scrub	Alfisols 2
+3931	Scrub	Alfisols 2
+3932	Scrub	Alfisols 2
+3933	Scrub	Alfisols 2
+3934	Scrub	Alfisols 2
+3935	Scrub	Alfisols 2
+3936	Scrub	Alfisols 2
+3937	Scrub	Alfisols 2
+3938	Scrub	Alfisols 2
+3939	Scrub	Alfisols 2
+3940	Scrub	Alfisols 2
+3941	Scrub	Alfisols 1
+3942	Scrub	Alfisols 1
+3943	Scrub	Alfisols 1
+3944	Scrub	Alfisols 1
+3945	Scrub	Alfisols 1
+3946	Scrub	Alfisols 1
+3947	Scrub	Alfisols 1
+3948	Scrub	Alfisols 1
+3949	PaddyK	Alfisols 1
+3950	Scrub	Alfisols 1
+3951	Scrub	Alfisols 1
+3952	Scrub	Alfisols 1
+3953	Scrub	Alfisols 1
+3954	Scrub	Entisols
+3955	Scrub	Entisols
+3956	Scrub	Entisols
+3957	Scrub	Entisols
+3958	Scrub	Entisols
+3959	PaddyK	Entisols
+3960	PaddyK	Entisols
+3961	PaddyR	Entisols
+3962	Scrub	Entisols
+3963	Scrub	Entisols
+3964	Scrub	Alfisols 1
+3965	Scrub	Alfisols 1
+3966	Scrub	Alfisols 1
+3967	Scrub	Inceptisols
+3968	Scrub	Inceptisols
+3969	Scrub	Alfisols 1
+3970	Scrub	Alfisols 1
+3971	Scrub	Entisols
+3972	Scrub	Entisols
+3973	Scrub	Entisols
+3974	Scrub	Entisols
+3975	Scrub	Entisols
+3976	Scrub	Entisols
+3977	Scrub	Entisols
+3978	Scrub	Entisols
+3979	Scrub	Entisols
+3980	Scrub	Entisols
+3981	Scrub	Entisols
+3982	Scrub	Inceptisols
+3983	Scrub	Inceptisols
+3984	Scrub	Inceptisols
+3985	Scrub	Alfisols 1
+3986	PaddyK	Alfisols 1
+3987	PaddyR	Inceptisols
+3988	PaddyR	Inceptisols
+3989	Scrub	Inceptisols
+3990	Scrub	Inceptisols
+3991	Scrub	Inceptisols
+3992	Scrub	Inceptisols
+3993	Scrub	Inceptisols
+3994	Scrub	Inceptisols
+3995	Scrub	Alfisols 1
+3996	Scrub	Alfisols 1
+3997	Scrub	Alfisols 1
+3998	Scrub	Alfisols 1
+3999	Scrub	Alfisols 2
+4000	Scrub	Alfisols 1
+4001	Scrub	Alfisols 2
+4002	Scrub	Alfisols 2
+4003	Scrub	Alfisols 2
+4004	Scrub	Alfisols 2
+4005	Scrub	Alfisols 2
+4006	Scrub	Alfisols 2
+4007	Scrub	Alfisols 2
+4008	Scrub	Alfisols 2
+4009	Scrub	Alfisols 2
+4010	Scrub	Alfisols 2
+4011	Scrub	Alfisols 2
+4012	Scrub	Alfisols 2
+4013	Scrub	Alfisols 1
+4014	Scrub	Alfisols 1
+4015	Scrub	Alfisols 1
+4016	Scrub	Alfisols 1
+4017	Scrub	Alfisols 1
+4018	Scrub	Alfisols 1
+4019	Scrub	Alfisols 1
+4020	Scrub	Alfisols 1
+4021	Scrub	Alfisols 1
+4022	Scrub	Alfisols 1
+4023	Scrub	Alfisols 1
+4024	Scrub	Alfisols 1
+4025	Scrub	Alfisols 1
+4026	Scrub	Entisols
+4027	Scrub	Entisols
+4028	Scrub	Entisols
+4029	Scrub	Entisols
+4030	PaddyR	Tank
+4031	Scrub	Tank
+4032	PaddyK	Entisols
+4033	PaddyK	Entisols
+4034	PaddyR	Entisols
+4035	Scrub	Entisols
+4036	Scrub	Alfisols 1
+4037	Scrub	Alfisols 1
+4038	Scrub	Inceptisols
+4039	Scrub	Inceptisols
+4040	Scrub	Inceptisols
+4041	Scrub	Alfisols 1
+4042	Scrub	Entisols
+4043	Scrub	Entisols
+4044	Scrub	Entisols
+4045	Scrub	Entisols
+4046	Scrub	Entisols
+4047	Scrub	Entisols
+4048	Scrub	Entisols
+4049	Scrub	Entisols
+4050	Scrub	Entisols
+4051	Scrub	Entisols
+4052	Scrub	Inceptisols
+4053	Scrub	Inceptisols
+4054	Scrub	Inceptisols
+4055	Scrub	Inceptisols
+4056	Scrub	Alfisols 1
+4057	Scrub	Alfisols 1
+4058	Scrub	Alfisols 1
+4059	PaddyK	Alfisols 1
+4060	Scrub	Alfisols 1
+4061	Scrub	Inceptisols
+4062	Scrub	Inceptisols
+4063	Scrub	Inceptisols
+4064	Scrub	Inceptisols
+4065	Scrub	Inceptisols
+4066	Scrub	Inceptisols
+4067	Scrub	Alfisols 1
+4068	Scrub	Alfisols 2
+4069	Scrub	Alfisols 2
+4070	Scrub	Alfisols 2
+4071	Scrub	Alfisols 2
+4072	Scrub	Alfisols 2
+4073	Scrub	Alfisols 2
+4074	Scrub	Alfisols 2
+4075	Scrub	Alfisols 2
+4076	Scrub	Alfisols 2
+4077	Scrub	Alfisols 2
+4078	Scrub	Alfisols 2
+4079	Scrub	Alfisols 2
+4080	Scrub	Alfisols 2
+4081	Scrub	Alfisols 2
+4082	Scrub	Alfisols 1
+4083	Scrub	Alfisols 1
+4084	Scrub	Alfisols 1
+4085	Scrub	Alfisols 1
+4086	Scrub	Alfisols 1
+4087	Scrub	Alfisols 1
+4088	Scrub	Inceptisols
+4089	Scrub	Alfisols 1
+4090	Scrub	Alfisols 1
+4091	Scrub	Alfisols 1
+4092	Scrub	Alfisols 1
+4093	Scrub	Alfisols 1
+4094	Scrub	Entisols
+4095	PaddyK	Entisols
+4096	Scrub	Entisols
+4097	PaddyR	Entisols
+4098	Scrub	Entisols
+4099	Scrub	Tank
+4100	PaddyR	Tank
+4101	Scrub	Tank
+4102	Scrub	Tank
+4103	Scrub	Tank
+4104	Scrub	Tank
+4105	Scrub	Alfisols 1
+4106	Scrub	Alfisols 1
+4107	Scrub	Inceptisols
+4108	Scrub	Alfisols 1
+4109	Urban	Alfisols 1
+4110	Scrub	Alfisols 1
+4111	Scrub	Alfisols 1
+4112	Scrub	Entisols
+4113	Scrub	Entisols
+4114	Scrub	Entisols
+4115	Scrub	Entisols
+4116	Scrub	Entisols
+4117	Scrub	Entisols
+4118	Scrub	Entisols
+4119	Scrub	Entisols
+4120	Scrub	Inceptisols
+4121	Scrub	Inceptisols
+4122	Scrub	Inceptisols
+4123	Scrub	Inceptisols
+4124	Scrub	Inceptisols
+4125	Scrub	Alfisols 1
+4126	Scrub	Alfisols 1
+4127	Scrub	Alfisols 1
+4128	Scrub	Alfisols 1
+4129	Scrub	Alfisols 1
+4130	Scrub	Alfisols 1
+4131	Scrub	Alfisols 1
+4132	Scrub	Alfisols 1
+4133	Scrub	Alfisols 1
+4134	Scrub	Alfisols 1
+4135	Scrub	Inceptisols
+4136	Scrub	Inceptisols
+4137	Scrub	Alfisols 2
+4138	Scrub	Alfisols 2
+4139	Scrub	Alfisols 2
+4140	Scrub	Alfisols 2
+4141	Scrub	Alfisols 2
+4142	Scrub	Alfisols 2
+4143	Scrub	Alfisols 2
+4144	Scrub	Inceptisols
+4145	Scrub	Inceptisols
+4146	Scrub	Inceptisols
+4147	Scrub	Alfisols 2
+4148	Scrub	Alfisols 2
+4149	Scrub	Alfisols 2
+4150	Scrub	Alfisols 2
+4151	Scrub	Alfisols 1
+4152	Scrub	Alfisols 1
+4153	Scrub	Alfisols 1
+4154	Scrub	Alfisols 1
+4155	Scrub	Alfisols 1
+4156	Scrub	Inceptisols
+4157	Scrub	Inceptisols
+4158	Scrub	Alfisols 1
+4159	Scrub	Alfisols 1
+4160	Scrub	Alfisols 1
+4161	Scrub	Alfisols 1
+4162	Scrub	Entisols
+4163	Scrub	Entisols
+4164	PaddyR	Entisols
+4165	Scrub	Entisols
+4166	Scrub	Entisols
+4167	PaddyR	Entisols
+4168	Tank	Entisols
+4169	Tank	Tank
+4170	Tank	Tank
+4171	Tank	Tank
+4172	Tank	Tank
+4173	Tank	Tank
+4174	Tank	Tank
+4175	Tank	Inceptisols
+4176	PaddyR	Alfisols 1
+4177	Urban	Alfisols 1
+4178	Urban	Alfisols 1
+4179	Urban	Alfisols 1
+4180	Urban	Alfisols 1
+4181	Urban	Alfisols 1
+4182	Scrub	Entisols
+4183	Scrub	Entisols
+4184	Scrub	Entisols
+4185	Scrub	Entisols
+4186	Scrub	Entisols
+4187	Scrub	Entisols
+4188	Scrub	Entisols
+4189	Scrub	Inceptisols
+4190	Scrub	Inceptisols
+4191	Scrub	Alfisols 1
+4192	Scrub	Inceptisols
+4193	Scrub	Inceptisols
+4194	Scrub	Inceptisols
+4195	Scrub	Alfisols 1
+4196	Scrub	Alfisols 1
+4197	Scrub	Alfisols 1
+4198	Scrub	Alfisols 1
+4199	Scrub	Alfisols 1
+4200	Scrub	Alfisols 1
+4201	Scrub	Alfisols 1
+4202	Scrub	Alfisols 1
+4203	Scrub	Alfisols 1
+4204	Scrub	Inceptisols
+4205	Scrub	Inceptisols
+4206	Scrub	Alfisols 2
+4207	Scrub	Alfisols 2
+4208	Scrub	Alfisols 2
+4209	Scrub	Alfisols 2
+4210	Scrub	Alfisols 2
+4211	Scrub	Alfisols 2
+4212	Scrub	Alfisols 2
+4213	Scrub	Alfisols 2
+4214	Scrub	Alfisols 2
+4215	Scrub	Alfisols 2
+4216	Scrub	Alfisols 2
+4217	Scrub	Alfisols 2
+4218	Scrub	Inceptisols
+4219	Scrub	Inceptisols
+4220	Scrub	Alfisols 1
+4221	Scrub	Alfisols 1
+4222	Scrub	Alfisols 1
+4223	Scrub	Alfisols 1
+4224	Scrub	Alfisols 1
+4225	Scrub	Alfisols 1
+4226	Scrub	Inceptisols
+4227	Scrub	Alfisols 1
+4228	Scrub	Alfisols 1
+4229	Scrub	Alfisols 1
+4230	Scrub	Entisols
+4231	Scrub	Entisols
+4232	PaddyR	Entisols
+4233	PaddyR	Entisols
+4234	Scrub	Entisols
+4235	PaddyR	Entisols
+4236	Scrub	Entisols
+4237	Tank	Entisols
+4238	Tank	Tank
+4239	Tank	Tank
+4240	Tank	Tank
+4241	Tank	Tank
+4242	Tank	Tank
+4243	Tank	Tank
+4244	Tank	Alfisols 1
+4245	Scrub	Alfisols 1
+4246	Urban	Alfisols 1
+4247	Urban	Alfisols 1
+4248	Urban	Inceptisols
+4249	Scrub	Inceptisols
+4250	Scrub	Alfisols 1
+4251	Scrub	Entisols
+4252	Scrub	Entisols
+4253	Scrub	Entisols
+4254	Scrub	Entisols
+4255	Scrub	Entisols
+4256	Scrub	Entisols
+4257	Scrub	Entisols
+4258	Scrub	Inceptisols
+4259	Scrub	Alfisols 1
+4260	Scrub	Inceptisols
+4261	Scrub	Alfisols 1
+4262	Scrub	Alfisols 1
+4263	Scrub	Inceptisols
+4264	Scrub	Inceptisols
+4265	Scrub	Alfisols 1
+4266	Scrub	Alfisols 1
+4267	Scrub	Alfisols 1
+4268	Scrub	Alfisols 1
+4269	Scrub	Alfisols 1
+4270	Scrub	Alfisols 1
+4271	Scrub	Inceptisols
+4272	Scrub	Alfisols 1
+4273	Scrub	Alfisols 1
+4274	Scrub	Alfisols 1
+4275	Scrub	Alfisols 2
+4276	Scrub	Alfisols 2
+4277	Scrub	Alfisols 2
+4278	Forest	Alfisols 2
+4279	Forest	Alfisols 2
+4280	Forest	Alfisols 2
+4281	Forest	Alfisols 2
+4282	Forest	Alfisols 2
+4283	Forest	Alfisols 2
+4284	Forest	Alfisols 2
+4285	Forest	Alfisols 2
+4286	Forest	Alfisols 2
+4287	Forest	Alfisols 2
+4288	Scrub	Alfisols 2
+4289	Scrub	Inceptisols
+4290	Scrub	Alfisols 1
+4291	Scrub	Alfisols 1
+4292	Scrub	Alfisols 1
+4293	Scrub	Alfisols 1
+4294	Scrub	Alfisols 1
+4295	Scrub	Alfisols 1
+4296	Scrub	Alfisols 1
+4297	Scrub	Alfisols 1
+4298	Scrub	Entisols
+4299	Scrub	Alfisols 1
+4300	Scrub	Alfisols 1
+4301	Scrub	Alfisols 1
+4302	Scrub	Alfisols 1
+4303	Scrub	Alfisols 1
+4304	Scrub	Entisols
+4305	Scrub	Entisols
+4306	Scrub	Entisols
+4307	Tank	Entisols
+4308	Tank	Tank
+4309	Tank	Tank
+4310	Tank	Tank
+4311	Tank	Tank
+4312	Tank	Entisols
+4313	Tank	Entisols
+4314	Scrub	Entisols
+4315	Urban	Entisols
+4316	Urban	Alfisols 1
+4317	Scrub	Inceptisols
+4318	Scrub	Alfisols 1
+4319	Scrub	Alfisols 2
+4320	Scrub	Entisols
+4321	Scrub	Entisols
+4322	Scrub	Entisols
+4323	Scrub	Entisols
+4324	Urban	Entisols
+4325	Scrub	Entisols
+4326	Scrub	Alfisols 1
+4327	Scrub	Inceptisols
+4328	Scrub	Inceptisols
+4329	Scrub	Inceptisols
+4330	Scrub	Alfisols 1
+4331	Scrub	Alfisols 1
+4332	Scrub	Alfisols 1
+4333	Scrub	Alfisols 1
+4334	Scrub	Alfisols 1
+4335	Scrub	Alfisols 1
+4336	Scrub	Alfisols 1
+4337	Scrub	Alfisols 1
+4338	Scrub	Alfisols 1
+4339	Scrub	Inceptisols
+4340	Urban	Inceptisols
+4341	Urban	Inceptisols
+4342	Urban	Inceptisols
+4343	Urban	Inceptisols
+4344	Urban	Alfisols 1
+4345	Forest	Alfisols 2
+4346	Forest	Alfisols 2
+4347	Forest	Alfisols 2
+4348	Forest	Alfisols 2
+4349	Forest	Alfisols 2
+4350	Forest	Alfisols 2
+4351	Forest	Inceptisols
+4352	Forest	Alfisols 2
+4353	Forest	Alfisols 2
+4354	Forest	Alfisols 2
+4355	Forest	Alfisols 2
+4356	Forest	Alfisols 2
+4357	Forest	Alfisols 2
+4358	Forest	Alfisols 2
+4359	Forest	Alfisols 2
+4360	Forest	Inceptisols
+4361	Scrub	Alfisols 1
+4362	Scrub	Alfisols 1
+4363	Scrub	Alfisols 1
+4364	Scrub	Alfisols 1
+4365	Scrub	Alfisols 1
+4366	Scrub	Alfisols 1
+4367	Scrub	Entisols
+4368	Scrub	Alfisols 1
+4369	Scrub	Alfisols 1
+4370	Scrub	Alfisols 1
+4371	Scrub	Alfisols 1
+4372	Scrub	Alfisols 1
+4373	Scrub	Alfisols 1
+4374	Scrub	Alfisols 1
+4375	Scrub	Entisols
+4376	Scrub	Entisols
+4377	Scrub	Entisols
+4378	Tank	Alfisols 1
+4379	Tank	Tank
+4380	Tank	Tank
+4381	Tank	Tank
+4382	Tank	Entisols
+4383	Tank	Entisols
+4384	Scrub	Entisols
+4385	Scrub	Entisols
+4386	Scrub	Alfisols 1
+4387	Scrub	Alfisols 1
+4388	Scrub	Alfisols 2
+4389	Fruit	Alfisols 2
+4390	Fruit	Entisols
+4391	Scrub	Entisols
+4392	Scrub	Entisols
+4393	Scrub	Entisols
+4394	Scrub	Entisols
+4395	Urban	Entisols
+4396	Scrub	Alfisols 1
+4397	Scrub	Inceptisols
+4398	Scrub	Inceptisols
+4399	Scrub	Inceptisols
+4400	Scrub	Inceptisols
+4401	Scrub	Inceptisols
+4402	Scrub	Inceptisols
+4403	Scrub	Alfisols 1
+4404	Scrub	Alfisols 1
+4405	Urban	Alfisols 1
+4406	Urban	Alfisols 1
+4407	Urban	Inceptisols
+4408	Urban	Inceptisols
+4409	Urban	Inceptisols
+4410	Urban	Inceptisols
+4411	Urban	Inceptisols
+4412	Urban	Inceptisols
+4413	Urban	Alfisols 1
+4414	Forest	Alfisols 2
+4415	Forest	Alfisols 2
+4416	Forest	Alfisols 2
+4417	Forest	Alfisols 2
+4418	Forest	Alfisols 2
+4419	Forest	Alfisols 2
+4420	Forest	Alfisols 2
+4421	Forest	Alfisols 2
+4422	Forest	Inceptisols
+4423	Forest	Inceptisols
+4424	Forest	Alfisols 2
+4425	Forest	Alfisols 2
+4426	Forest	Alfisols 2
+4427	Forest	Alfisols 2
+4428	Forest	Alfisols 2
+4429	Forest	Inceptisols
+4430	Forest	Entisols
+4431	Scrub	Entisols
+4432	Scrub	Entisols
+4433	Scrub	Entisols
+4434	Scrub	Entisols
+4435	Scrub	Entisols
+4436	Scrub	Alfisols 1
+4437	Scrub	Alfisols 1
+4438	Scrub	Alfisols 1
+4439	Scrub	Alfisols 1
+4440	Scrub	Alfisols 1
+4441	Scrub	Alfisols 1
+4442	Scrub	Alfisols 1
+4443	Scrub	Inceptisols
+4444	Scrub	Alfisols 1
+4445	Scrub	Alfisols 1
+4446	Scrub	Alfisols 1
+4447	Scrub	Alfisols 1
+4448	Scrub	Alfisols 1
+4449	Tank	Tank
+4450	Tank	Entisols
+4451	Tank	Entisols
+4452	Scrub	Entisols
+4453	Scrub	Entisols
+4454	Scrub	Entisols
+4455	Scrub	Alfisols 1
+4456	Scrub	Alfisols 1
+4457	Scrub	Alfisols 2
+4458	Scrub	Alfisols 2
+4459	Scrub	Alfisols 2
+4460	Fruit	Entisols
+4461	Fruit	Entisols
+4462	Scrub	Entisols
+4463	Urban	Entisols
+4464	Scrub	Entisols
+4465	Scrub	Alfisols 1
+4466	Scrub	Inceptisols
+4467	Scrub	Inceptisols
+4468	Scrub	Inceptisols
+4469	Scrub	Inceptisols
+4470	Scrub	Inceptisols
+4471	Scrub	Inceptisols
+4472	Scrub	Alfisols 1
+4473	Scrub	Alfisols 1
+4474	Urban	Alfisols 1
+4475	Urban	Inceptisols
+4476	Urban	Inceptisols
+4477	Urban	Inceptisols
+4478	Urban	Alfisols 1
+4479	Urban	Inceptisols
+4480	Urban	Inceptisols
+4481	Urban	Alfisols 1
+4482	Urban	Alfisols 1
+4483	Forest	Alfisols 2
+4484	Forest	Alfisols 2
+4485	Forest	Alfisols 2
+4486	Forest	Alfisols 2
+4487	Forest	Alfisols 2
+4488	Forest	Alfisols 2
+4489	Forest	Alfisols 2
+4490	Forest	Alfisols 2
+4491	Forest	Alfisols 2
+4492	Forest	Alfisols 2
+4493	Forest	Alfisols 2
+4494	Forest	Alfisols 2
+4495	Forest	Alfisols 2
+4496	Forest	Inceptisols
+4497	Forest	Inceptisols
+4498	Forest	Inceptisols
+4499	Forest	Alfisols 1
+4500	Forest	Alfisols 1
+4501	PaddyR	Alfisols 1
+4502	Scrub	Alfisols 1
+4503	Scrub	Alfisols 1
+4504	Scrub	Alfisols 1
+4505	Scrub	Alfisols 1
+4506	Scrub	Alfisols 1
+4507	Scrub	Alfisols 1
+4508	Scrub	Alfisols 1
+4509	Scrub	Alfisols 1
+4510	Scrub	Alfisols 1
+4511	Scrub	Alfisols 1
+4512	Scrub	Inceptisols
+4513	Scrub	Inceptisols
+4514	PaddyR	Inceptisols
+4515	Scrub	Inceptisols
+4516	Scrub	Alfisols 1
+4517	Scrub	Alfisols 1
+4518	Tank	Alfisols 1
+4519	Tank	Entisols
+4520	Scrub	Entisols
+4521	Scrub	Entisols
+4522	Scrub	Entisols
+4523	Scrub	Entisols
+4524	Scrub	Entisols
+4525	Scrub	Entisols
+4526	Scrub	Entisols
+4527	Fruit	Alfisols 2
+4528	Fruit	Alfisols 2
+4529	Fruit	Alfisols 2
+4530	Fruit	Entisols
+4531	Scrub	Entisols
+4532	Scrub	Entisols
+4533	Scrub	Entisols
+4534	Scrub	Alfisols 1
+4535	Scrub	Inceptisols
+4536	Scrub	Inceptisols
+4537	Scrub	Inceptisols
+4538	Scrub	Inceptisols
+4539	Scrub	Inceptisols
+4540	Scrub	Inceptisols
+4541	Scrub	Inceptisols
+4542	Scrub	Inceptisols
+4543	Urban	Inceptisols
+4544	Urban	Inceptisols
+4545	Urban	Inceptisols
+4546	Urban	Inceptisols
+4547	Urban	Inceptisols
+4548	Urban	Alfisols 1
+4549	Forest	Alfisols 2
+4550	Forest	Alfisols 2
+4551	Forest	Alfisols 2
+4552	Forest	Alfisols 2
+4553	Forest	Alfisols 2
+4554	Forest	Alfisols 2
+4555	Forest	Alfisols 2
+4556	Forest	Alfisols 2
+4557	Forest	Alfisols 2
+4558	Forest	Alfisols 2
+4559	Forest	Alfisols 2
+4560	Forest	Alfisols 2
+4561	Forest	Alfisols 2
+4562	Forest	Inceptisols
+4563	Forest	Inceptisols
+4564	Forest	Inceptisols
+4565	Forest	Alfisols 1
+4566	Forest	Alfisols 1
+4567	Scrub	Alfisols 1
+4568	Scrub	Alfisols 1
+4569	Scrub	Alfisols 1
+4570	Scrub	Alfisols 1
+4571	Scrub	Alfisols 1
+4572	Scrub	Alfisols 1
+4573	Scrub	Alfisols 1
+4574	PaddyR	Alfisols 1
+4575	Scrub	Alfisols 1
+4576	Scrub	Alfisols 1
+4577	Scrub	Alfisols 1
+4578	Scrub	Alfisols 1
+4579	Scrub	Alfisols 1
+4580	Scrub	Alfisols 1
+4581	Scrub	Alfisols 1
+4582	Scrub	Alfisols 1
+4583	Scrub	Alfisols 1
+4584	Scrub	Alfisols 1
+4585	PaddyK	Alfisols 1
+4586	Scrub	Alfisols 1
+4587	Scrub	Entisols
+4588	Scrub	Entisols
+4589	Scrub	Entisols
+4590	Scrub	Entisols
+4591	Scrub	Entisols
+4592	Scrub	Entisols
+4593	Scrub	Entisols
+4594	Fruit	Alfisols 2
+4595	Fruit	Alfisols 1
+4596	Fruit	Alfisols 1
+4597	Fruit	Alfisols 1
+4598	Fruit	Entisols
+4599	Scrub	Entisols
+4600	Scrub	Entisols
+4601	Scrub	Alfisols 1
+4602	Scrub	Alfisols 1
+4603	Scrub	Inceptisols
+4604	Scrub	Inceptisols
+4605	Scrub	Inceptisols
+4606	Scrub	Inceptisols
+4607	Scrub	Inceptisols
+4608	Scrub	Inceptisols
+4609	Scrub	Inceptisols
+4610	Scrub	Inceptisols
+4611	Urban	Inceptisols
+4612	Urban	Inceptisols
+4613	Urban	Alfisols 1
+4614	Urban	Alfisols 1
+4615	Urban	Alfisols 1
+4616	Forest	Alfisols 2
+4617	Forest	Alfisols 2
+4618	Forest	Alfisols 2
+4619	Forest	Alfisols 2
+4620	Forest	Alfisols 2
+4621	Forest	Alfisols 2
+4622	Forest	Alfisols 2
+4623	Forest	Inceptisols
+4624	Forest	Inceptisols
+4625	Forest	Alfisols 2
+4626	Forest	Alfisols 2
+4627	Forest	Alfisols 2
+4628	Forest	Inceptisols
+4629	Forest	Inceptisols
+4630	Forest	Inceptisols
+4631	Forest	Alfisols 1
+4632	Forest	Alfisols 1
+4633	Forest	Alfisols 1
+4634	Scrub	Alfisols 1
+4635	Scrub	Alfisols 1
+4636	Scrub	Alfisols 1
+4637	Scrub	Alfisols 1
+4638	Scrub	Alfisols 1
+4639	Scrub	Alfisols 1
+4640	Scrub	Alfisols 1
+4641	Scrub	Alfisols 1
+4642	Scrub	Alfisols 1
+4643	Scrub	Alfisols 1
+4644	Scrub	Alfisols 1
+4645	Scrub	Alfisols 1
+4646	Scrub	Alfisols 1
+4647	Scrub	Alfisols 1
+4648	Scrub	Alfisols 1
+4649	Scrub	Alfisols 1
+4650	Scrub	Alfisols 1
+4651	Scrub	Alfisols 1
+4652	Scrub	Alfisols 1
+4653	Scrub	Alfisols 1
+4654	Scrub	Alfisols 1
+4655	Scrub	Entisols
+4656	Scrub	Entisols
+4657	Scrub	Entisols
+4658	Scrub	Entisols
+4659	Scrub	Entisols
+4660	Scrub	Entisols
+4661	Fruit	Alfisols 1
+4662	Fruit	Alfisols 1
+4663	Fruit	Alfisols 1
+4664	Fruit	Alfisols 1
+4665	Fruit	Entisols
+4666	Fruit	Entisols
+4667	Scrub	Entisols
+4668	Scrub	Alfisols 1
+4669	Scrub	Alfisols 1
+4670	Scrub	Inceptisols
+4671	Scrub	Inceptisols
+4672	Fruit	Inceptisols
+4673	Fruit	Inceptisols
+4674	Scrub	Inceptisols
+4675	Scrub	Inceptisols
+4676	Scrub	Inceptisols
+4677	Scrub	Inceptisols
+4678	Urban	Inceptisols
+4679	Urban	Inceptisols
+4680	Urban	Inceptisols
+4681	Urban	Alfisols 1
+4682	Urban	Alfisols 1
+4683	Forest	Alfisols 2
+4684	Forest	Alfisols 2
+4685	Forest	Alfisols 2
+4686	Forest	Alfisols 2
+4687	Forest	Alfisols 2
+4688	Forest	Inceptisols
+4689	Forest	Inceptisols
+4690	Forest	Inceptisols
+4691	Forest	Inceptisols
+4692	Forest	Inceptisols
+4693	Forest	Alfisols 1
+4694	Forest	Inceptisols
+4695	Forest	Alfisols 1
+4696	Forest	Alfisols 1
+4697	Forest	Inceptisols
+4698	Scrub	Inceptisols
+4699	Scrub	Inceptisols
+4700	PaddyR	Alfisols 1
+4701	PaddyR	Alfisols 1
+4702	Scrub	Alfisols 1
+4703	Scrub	Alfisols 1
+4704	Scrub	Alfisols 1
+4705	Scrub	Alfisols 1
+4706	Scrub	Alfisols 1
+4707	Scrub	Alfisols 1
+4708	Scrub	Alfisols 1
+4709	Scrub	Alfisols 1
+4710	Scrub	Alfisols 1
+4711	Scrub	Alfisols 1
+4712	Scrub	Alfisols 1
+4713	Forest	Alfisols 1
+4714	Forest	Alfisols 1
+4715	Forest	Alfisols 1
+4716	Forest	Alfisols 1
+4717	Forest	Alfisols 1
+4718	Scrub	Alfisols 1
+4719	Scrub	Alfisols 1
+4720	Scrub	Entisols
+4721	Scrub	Entisols
+4722	Scrub	Entisols
+4723	Scrub	Entisols
+4724	Scrub	Entisols
+4725	Scrub	Alfisols 1
+4726	Fruit	Alfisols 1
+4727	Fruit	Alfisols 1
+4728	Urban	Alfisols 1
+4729	Urban	Entisols
+4730	Urban	Entisols
+4731	Scrub	Entisols
+4732	Scrub	Alfisols 1
+4733	Scrub	Alfisols 1
+4734	Fruit	Alfisols 1
+4735	Scrub	Inceptisols
+4736	Fruit	Inceptisols
+4737	Scrub	Inceptisols
+4738	Fruit	Inceptisols
+4739	Scrub	Inceptisols
+4740	Scrub	Inceptisols
+4741	Scrub	Inceptisols
+4742	Urban	Inceptisols
+4743	Urban	Inceptisols
+4744	Urban	Alfisols 1
+4745	Urban	Alfisols 1
+4746	Forest	Alfisols 2
+4747	Forest	Alfisols 2
+4748	Forest	Alfisols 2
+4749	Forest	Alfisols 2
+4750	Forest	Alfisols 2
+4751	Forest	Inceptisols
+4752	Forest	Alfisols 2
+4753	Forest	Inceptisols
+4754	Forest	Inceptisols
+4755	Forest	Inceptisols
+4756	Forest	Alfisols 1
+4757	Forest	Inceptisols
+4758	Forest	Alfisols 1
+4759	Forest	Inceptisols
+4760	Scrub	Inceptisols
+4761	Scrub	Inceptisols
+4762	Scrub	Inceptisols
+4763	Scrub	Inceptisols
+4764	Scrub	Alfisols 1
+4765	Scrub	Alfisols 1
+4766	Scrub	Alfisols 1
+4767	Scrub	Alfisols 1
+4768	Scrub	Alfisols 1
+4769	Scrub	Alfisols 1
+4770	Scrub	Alfisols 1
+4771	Scrub	Alfisols 1
+4772	Scrub	Alfisols 1
+4773	Scrub	Alfisols 1
+4774	Scrub	Alfisols 1
+4775	Scrub	Alfisols 1
+4776	Forest	Alfisols 1
+4777	Forest	Alfisols 1
+4778	Forest	Alfisols 1
+4779	Forest	Alfisols 1
+4780	Forest	Alfisols 1
+4781	Scrub	Alfisols 1
+4782	Scrub	Alfisols 1
+4783	Scrub	Entisols
+4784	Scrub	Entisols
+4785	Scrub	Entisols
+4786	Scrub	Entisols
+4787	Scrub	Entisols
+4788	Scrub	Entisols
+4789	Scrub	Alfisols 1
+4790	Scrub	Alfisols 1
+4791	Scrub	Alfisols 1
+4792	Scrub	Entisols
+4793	Scrub	Entisols
+4794	Scrub	Entisols
+4795	Scrub	Entisols
+4796	Scrub	Alfisols 1
+4797	Scrub	Alfisols 1
+4798	Scrub	Alfisols 1
+4799	Scrub	Inceptisols
+4800	Scrub	Alfisols 1
+4801	Fruit	Inceptisols
+4802	Scrub	Inceptisols
+4803	Scrub	Inceptisols
+4804	Scrub	Inceptisols
+4805	Scrub	Inceptisols
+4806	Scrub	Alfisols 1
+4807	Scrub	Alfisols 1
+4808	Scrub	Alfisols 1
+4809	Forest	Alfisols 2
+4810	Forest	Alfisols 2
+4811	Forest	Alfisols 2
+4812	Forest	Inceptisols
+4813	Forest	Alfisols 2
+4814	Forest	Alfisols 2
+4815	Forest	Inceptisols
+4816	Forest	Inceptisols
+4817	Forest	Inceptisols
+4818	Forest	Alfisols 1
+4819	Forest	Alfisols 1
+4820	Forest	Alfisols 1
+4821	Forest	Inceptisols
+4822	Scrub	Inceptisols
+4823	Scrub	Inceptisols
+4824	Scrub	Inceptisols
+4825	Scrub	Inceptisols
+4826	Scrub	Alfisols 1
+4827	Scrub	Alfisols 1
+4828	Scrub	Alfisols 1
+4829	Scrub	Alfisols 1
+4830	Scrub	Alfisols 1
+4831	Scrub	Alfisols 1
+4832	Scrub	Alfisols 1
+4833	Scrub	Alfisols 1
+4834	Scrub	Alfisols 1
+4835	Scrub	Alfisols 1
+4836	Scrub	Alfisols 1
+4837	Scrub	Alfisols 1
+4838	Scrub	Alfisols 1
+4839	Forest	Alfisols 1
+4840	Forest	Alfisols 1
+4841	Forest	Alfisols 1
+4842	Forest	Alfisols 1
+4843	Scrub	Alfisols 1
+4844	Scrub	Alfisols 1
+4845	PaddyK	Entisols
+4846	Scrub	Entisols
+4847	Scrub	Entisols
+4848	Scrub	Entisols
+4849	Scrub	Entisols
+4850	Scrub	Entisols
+4851	Scrub	Entisols
+4852	Scrub	Entisols
+4853	Scrub	Alfisols 1
+4854	Scrub	Entisols
+4855	Scrub	Entisols
+4856	Scrub	Entisols
+4857	Scrub	Entisols
+4858	Scrub	Alfisols 1
+4859	Scrub	Alfisols 1
+4860	Scrub	Alfisols 1
+4861	Fruit	Alfisols 1
+4862	Fruit	Alfisols 1
+4863	Fruit	Inceptisols
+4864	Scrub	Alfisols 1
+4865	Scrub	Alfisols 1
+4866	Scrub	Alfisols 1
+4867	Scrub	Alfisols 1
+4868	Scrub	Alfisols 1
+4869	Scrub	Alfisols 1
+4870	Scrub	Alfisols 1
+4871	Forest	Alfisols 2
+4872	Forest	Alfisols 2
+4873	Forest	Alfisols 2
+4874	Forest	Alfisols 2
+4875	Forest	Alfisols 2
+4876	Forest	Inceptisols
+4877	Forest	Inceptisols
+4878	Forest	Inceptisols
+4879	Forest	Inceptisols
+4880	Forest	Alfisols 1
+4881	Forest	Alfisols 1
+4882	Forest	Alfisols 1
+4883	Scrub	Alfisols 1
+4884	Scrub	Alfisols 1
+4885	Scrub	Alfisols 1
+4886	Scrub	Inceptisols
+4887	Scrub	Alfisols 1
+4888	Scrub	Alfisols 1
+4889	Scrub	Alfisols 1
+4890	Scrub	Alfisols 1
+4891	Scrub	Alfisols 1
+4892	Scrub	Alfisols 1
+4893	Scrub	Alfisols 1
+4894	Scrub	Alfisols 1
+4895	Forest	Alfisols 1
+4896	Forest	Alfisols 1
+4897	Forest	Alfisols 1
+4898	Forest	Alfisols 1
+4899	Scrub	Alfisols 1
+4900	Scrub	Alfisols 1
+4901	PaddyK	Alfisols 1
+4902	Scrub	Entisols
+4903	PaddyR	Entisols
+4904	PaddyK	Entisols
+4905	Scrub	Entisols
+4906	Scrub	Entisols
+4907	Scrub	Entisols
+4908	Scrub	Entisols
+4909	Scrub	Entisols
+4910	Scrub	Entisols
+4911	Scrub	Entisols
+4912	Scrub	Entisols
+4913	Scrub	Entisols
+4914	Scrub	Entisols
+4915	Scrub	Alfisols 1
+4916	Urban	Alfisols 1
+4917	Scrub	Alfisols 1
+4918	Fruit	Inceptisols
+4919	Scrub	Inceptisols
+4920	Scrub	Alfisols 1
+4921	Scrub	Alfisols 1
+4922	Scrub	Alfisols 1
+4923	Scrub	Alfisols 1
+4924	Scrub	Alfisols 1
+4925	Scrub	Alfisols 1
+4926	Forest	Alfisols 2
+4927	Forest	Alfisols 2
+4928	Forest	Alfisols 2
+4929	Forest	Alfisols 2
+4930	Forest	Inceptisols
+4931	Forest	Inceptisols
+4932	Forest	Inceptisols
+4933	Forest	Inceptisols
+4934	Forest	Inceptisols
+4935	Forest	Alfisols 1
+4936	Scrub	Alfisols 1
+4937	Scrub	Alfisols 1
+4938	Scrub	Alfisols 1
+4939	Scrub	Alfisols 1
+4940	Scrub	Alfisols 1
+4941	Scrub	Alfisols 1
+4942	Scrub	Alfisols 1
+4943	Scrub	Alfisols 1
+4944	Scrub	Alfisols 1
+4945	Forest	Alfisols 1
+4946	Forest	Alfisols 1
+4947	Forest	Alfisols 1
+4948	Forest	Alfisols 1
+4949	Forest	Alfisols 1
+4950	Scrub	Alfisols 1
+4951	Scrub	Alfisols 1
+4952	Scrub	Alfisols 1
+4953	Scrub	Alfisols 1
+4954	Scrub	Entisols
+4955	Scrub	Entisols
+4956	Scrub	Entisols
+4957	Scrub	Entisols
+4958	Scrub	Entisols
+4959	Scrub	Entisols
+4960	Scrub	Entisols
+4961	Scrub	Entisols
+4962	Scrub	Entisols
+4963	Scrub	Entisols
+4964	Scrub	Entisols
+4965	Scrub	Alfisols 1
+4966	Scrub	Alfisols 1
+4967	Scrub	Alfisols 1
+4968	Scrub	Alfisols 1
+4969	Scrub	Inceptisols
+4970	Scrub	Inceptisols
+4971	Scrub	Alfisols 1
+4972	Scrub	Alfisols 1
+4973	Scrub	Alfisols 1
+4974	Scrub	Alfisols 1
+4975	Scrub	Alfisols 1
+4976	Forest	Alfisols 1
+4977	Scrub	Alfisols 1
+4978	Scrub	Alfisols 1
+4979	Scrub	Alfisols 1
+4980	Scrub	Alfisols 1
+4981	Scrub	Alfisols 1
+4982	Forest	Alfisols 1
+4983	Forest	Alfisols 1
+4984	Forest	Alfisols 1
+4985	Forest	Alfisols 1
+4986	Forest	Alfisols 1
+4987	Fruit	Alfisols 1
+4988	Fruit	Alfisols 1
+4989	Fruit	Alfisols 1
+4990	Scrub	Alfisols 1
+4991	Scrub	Alfisols 1
+4992	Scrub	Entisols
+4993	Scrub	Entisols
+4994	Scrub	Entisols
+4995	Scrub	Entisols
+4996	Scrub	Entisols
+4997	Scrub	Entisols
+4998	Scrub	Entisols
+4999	Scrub	Entisols
+5000	Scrub	Entisols
+5001	Scrub	Entisols
+5002	Scrub	Alfisols 1
+5003	Scrub	Alfisols 1
+5004	Scrub	Alfisols 1
+5005	Scrub	Inceptisols
+5006	Scrub	Inceptisols
+5007	Scrub	Alfisols 1
+5008	Scrub	Alfisols 1
+5009	Scrub	Alfisols 1
+5010	Scrub	Alfisols 1
+5011	Fruit	Alfisols 1
+5012	Fruit	Alfisols 1
+5013	Scrub	Alfisols 1
+5014	Scrub	Alfisols 1
+5015	Forest	Alfisols 1
+5016	Forest	Alfisols 1
+5017	Forest	Alfisols 1
+5018	Forest	Alfisols 1
+5019	Forest	Alfisols 1
+5020	Fruit	Alfisols 1
+5021	Fruit	Alfisols 1
+5022	Fruit	Alfisols 1
+5023	Scrub	Alfisols 1
+5024	Scrub	Alfisols 1
+5025	Scrub	Entisols
+5026	Scrub	Entisols
+5027	Scrub	Entisols
+5028	Scrub	Entisols
+5029	Scrub	Entisols
+5030	Scrub	Entisols
+5031	Scrub	Entisols
+5032	Scrub	Entisols
+5033	Scrub	Entisols
+5034	Scrub	Entisols
+5035	Scrub	Alfisols 1
+5036	Scrub	Alfisols 1
+5037	Scrub	Alfisols 1
+5038	Scrub	Alfisols 1
+5039	Scrub	Alfisols 1
+5040	Scrub	Alfisols 1
+5041	Scrub	Alfisols 1
+5042	Scrub	Alfisols 1
+5043	Fruit	Alfisols 1
+5044	Scrub	Alfisols 1
+5045	Scrub	Inceptisols
+5046	Forest	Alfisols 1
+5047	Forest	Alfisols 1
+5048	Forest	Alfisols 1
+5049	Forest	Alfisols 1
+5050	Forest	Alfisols 1
+5051	Forest	Alfisols 1
+5052	Scrub	Alfisols 1
+5053	Scrub	Alfisols 1
+5054	Scrub	Alfisols 1
+5055	Scrub	Alfisols 1
+5056	Scrub	Alfisols 1
+5057	Scrub	Entisols
+5058	Scrub	Entisols
+5059	Scrub	Entisols
+5060	Scrub	Entisols
+5061	Scrub	Entisols
+5062	Scrub	Entisols
+5063	Scrub	Entisols
+5064	Scrub	Entisols
+5065	Scrub	Entisols
+5066	Scrub	Alfisols 1
+5067	Scrub	Alfisols 1
+5068	Scrub	Alfisols 1
+5069	Scrub	Alfisols 1
+5070	Scrub	Alfisols 1
+5071	Scrub	Alfisols 1
+5072	Scrub	Alfisols 1
+5073	Scrub	Alfisols 1
+5074	Fruit	Inceptisols
+5075	Scrub	Inceptisols
+5076	Scrub	Alfisols 1
+5077	Forest	Alfisols 1
+5078	Forest	Alfisols 1
+5079	Forest	Alfisols 1
+5080	Forest	Alfisols 1
+5081	Forest	Alfisols 1
+5082	Scrub	Alfisols 1
+5083	Scrub	Alfisols 1
+5084	Scrub	Alfisols 1
+5085	Scrub	Alfisols 1
+5086	Scrub	Alfisols 1
+5087	Scrub	Alfisols 1
+5088	Scrub	Alfisols 1
+5089	Scrub	Entisols
+5090	Scrub	Entisols
+5091	Scrub	Entisols
+5092	Scrub	Entisols
+5093	Scrub	Entisols
+5094	Scrub	Entisols
+5095	Scrub	Entisols
+5096	Scrub	Entisols
+5097	Scrub	Alfisols 1
+5098	Scrub	Alfisols 1
+5099	Scrub	Alfisols 1
+5100	Scrub	Alfisols 1
+5101	Scrub	Alfisols 1
+5102	Scrub	Alfisols 1
+5103	Scrub	Alfisols 1
+5104	Scrub	Alfisols 1
+5105	Scrub	Alfisols 1
+5106	Forest	Alfisols 1
+5107	Forest	Alfisols 1
+5108	Forest	Alfisols 1
+5109	Forest	Alfisols 1
+5110	Forest	Alfisols 1
+5111	Forest	Alfisols 1
+5112	Scrub	Alfisols 1
+5113	Scrub	Alfisols 1
+5114	Scrub	Alfisols 1
+5115	Scrub	Alfisols 1
+5116	Scrub	Alfisols 1
+5117	PaddyK	Alfisols 1
+5118	Scrub	Entisols
+5119	Scrub	Entisols
+5120	Scrub	Entisols
+5121	Scrub	Entisols
+5122	Scrub	Entisols
+5123	Scrub	Entisols
+5124	Scrub	Entisols
+5125	Scrub	Entisols
+5126	Scrub	Entisols
+5127	Scrub	Alfisols 1
+5128	Scrub	Alfisols 1
+5129	Scrub	Alfisols 1
+5130	Scrub	Alfisols 1
+5131	Scrub	Alfisols 1
+5132	Scrub	Alfisols 1
+5133	Scrub	Alfisols 1
+5134	Scrub	Alfisols 1
+5135	Forest	Alfisols 1
+5136	Forest	Alfisols 1
+5137	Forest	Alfisols 1
+5138	Forest	Alfisols 1
+5139	Forest	Alfisols 1
+5140	Scrub	Alfisols 1
+5141	Scrub	Alfisols 1
+5142	Scrub	Alfisols 1
+5143	Scrub	Alfisols 1
+5144	Scrub	Alfisols 1
+5145	Scrub	Alfisols 1
+5146	Scrub	Entisols
+5147	Scrub	Entisols
+5148	Scrub	Entisols
+5149	Scrub	Entisols
+5150	Scrub	Entisols
+5151	Scrub	Entisols
+5152	Scrub	Entisols
+5153	Scrub	Entisols
+5154	Scrub	Alfisols 2
+5155	Scrub	Alfisols 2
+5156	Scrub	Alfisols 2
+5157	Scrub	Alfisols 2
+5158	Scrub	Alfisols 1
+5159	Scrub	Alfisols 1
+5160	Scrub	Alfisols 1
+5161	Scrub	Alfisols 1
+5162	Forest	Alfisols 1
+5163	Forest	Alfisols 1
+5164	Forest	Alfisols 1
+5165	Scrub	Alfisols 1
+5166	Scrub	Alfisols 1
+5167	Scrub	Alfisols 1
+5168	Scrub	Alfisols 1
+5169	Scrub	Alfisols 1
+5170	Scrub	Entisols
+5171	Scrub	Entisols
+5172	Scrub	Entisols
+5173	Scrub	Entisols
+5174	Scrub	Entisols
+5175	Scrub	Entisols
+5176	Scrub	Entisols
+5177	Scrub	Entisols
+5178	Scrub	Alfisols 1
+5179	Scrub	Alfisols 1
+5180	Scrub	Alfisols 1
+5181	Urban	Alfisols 2
+5182	Scrub	Alfisols 1
+5183	Scrub	Alfisols 1
+5184	Forest	Alfisols 1
+5185	Forest	Alfisols 1
+5186	Scrub	Alfisols 1
+5187	Scrub	Alfisols 1
+5188	Scrub	Alfisols 1
+5189	Scrub	Alfisols 1
+5190	Scrub	Alfisols 1
+5191	Scrub	Entisols
+5192	Scrub	Entisols
+5193	Scrub	Entisols
+5194	Scrub	Entisols
+5195	Scrub	Entisols
+5196	Scrub	Entisols
+5197	Scrub	Entisols
+5198	Scrub	Alfisols 1
+5199	Urban	Alfisols 1
+5200	Urban	Alfisols 1
+5201	Scrub	Alfisols 1
+5202	Scrub	Alfisols 1
+5203	Scrub	Alfisols 1
+5204	Scrub	Alfisols 1
+5205	Scrub	Alfisols 1
+5206	Scrub	Alfisols 1
+5207	Scrub	Alfisols 1
+5208	Scrub	Entisols
+5209	Scrub	Entisols
+5210	Scrub	Entisols
+5211	Scrub	Entisols
+5212	Scrub	Entisols
+5213	Scrub	Entisols
+5214	Scrub	Entisols
+5215	Scrub	Alfisols 1
+5216	Urban	Alfisols 1
+5217	Scrub	Alfisols 1
+5218	Scrub	Alfisols 1
+5219	Scrub	Alfisols 1
+5220	Scrub	Alfisols 1
+5221	Scrub	Alfisols 1
+5222	Scrub	Alfisols 1
+5223	Scrub	Alfisols 1
+5224	Scrub	Entisols
+5225	Scrub	Entisols
+5226	Scrub	Entisols
+5227	Scrub	Entisols
+5228	Scrub	Entisols
+5229	Scrub	Entisols
+5230	Scrub	Entisols
+5231	Scrub	Alfisols 1
+5232	Scrub	Alfisols 1
+5233	Scrub	Alfisols 1
+5234	Scrub	Alfisols 1
+5235	Scrub	Alfisols 1
+5236	Scrub	Alfisols 1
+5237	Scrub	Alfisols 1
+5238	Scrub	Entisols
+5239	Scrub	Entisols
+5240	Scrub	Entisols
+5241	Scrub	Entisols
+5242	Scrub	Entisols
+5243	Scrub	Entisols
+5244	Scrub	Entisols
+5245	Scrub	Alfisols 1
+5246	Scrub	Alfisols 1
+5247	Scrub	Alfisols 1
+5248	Scrub	Alfisols 1
+5249	Scrub	Alfisols 1
+5250	Scrub	Entisols
+5251	Scrub	Entisols
+5252	Scrub	Entisols
+5253	Scrub	Entisols
+5254	Scrub	Entisols
+5255	Scrub	Alfisols 1
+5256	Scrub	Entisols
+5257	Scrub	Entisols
+5258	Scrub	Entisols
+5259	Scrub	Entisols
+5260	Scrub	Entisols
+5261	Scrub	Entisols
